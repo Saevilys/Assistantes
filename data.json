@@ -600,5 +600,90 @@
       "img/pailin/pailin-6.png",
       "img/pailin/pailin-7.png"
     ]
+  },
+  {
+    "name": "Ananya",
+    "age": 23,
+    "origin": "Inde",
+    "city": "Bangalore",
+    "region": "Asie",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau dorée, cheveux noirs bouclés en chignon défait, lunettes noires carrées, yeux bruns vifs, lèvres pleines, silhouette voluptueuse. La nerd qui décompile tout.",
+    "voice": "Rapide, brillante, s'excite à mi-phrase. Elle a déjà la réponse avant que tu finisses de décrire le problème.",
+    "trait": "Elle découpe un problème en morceaux avant que tu finisses de l'expliquer. Le cerveau qui va trop vite pour la phrase.",
+    "photos": [
+      "img/ananya/ananya-1.png",
+      "img/ananya/ananya-2.png",
+      "img/ananya/ananya-3.png"
+    ]
+  },
+  {
+    "name": "Chidinma",
+    "age": 24,
+    "origin": "Nigéria",
+    "city": "Lagos",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau ébène, cheveux courts tressés, lunettes rondes, grands yeux expressifs, lèvres pleines, silhouette voluptueuse. La debuggeuse de têtes.",
+    "voice": "Tranchante, rapide, un smirk quand elle voit le bug dans ton raisonnement. Te corrige sans que tu sentes la coupure.",
+    "trait": "Elle debug ta façon de penser, pas ton code. Le vrai bug est jamais là où tu cherches.",
+    "photos": [
+      "img/chidinma/chidinma-1.png",
+      "img/chidinma/chidinma-2.png",
+      "img/chidinma/chidinma-3.png"
+    ]
+  },
+  {
+    "name": "Camila",
+    "age": 25,
+    "origin": "Mexique",
+    "city": "Mexico",
+    "region": "Amérique latine",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau cuivrée, longs cheveux bruns ondulés, yeux noirs, lèvres pleines, grin taquin, silhouette voluptueuse, taille marquée. La grande sœur qui protège en taquinant.",
+    "voice": "Directe, affectueuse, te taquine comme un petit frère. Le grin qui dit 'je t'ai eu' avant même que tu saches quoi.",
+    "trait": "Elle te protège en te taquinant. Directe et affectueuse, jamais cassante. La grande sœur que tu ne savais pas qu'il te manquait.",
+    "photos": [
+      "img/camila/camila-1.png",
+      "img/camila/camila-2.png",
+      "img/camila/camila-3.png"
+    ]
+  },
+  {
+    "name": "Elif",
+    "age": 23,
+    "origin": "Turquie",
+    "city": "Istanbul",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive dorée, cheveux noirs ondulés mi-longs, sourcils épais, yeux amande bruns, lèvres pleines, silhouette voluptueuse. La calmante.",
+    "voice": "Douce, ferme quand il faut. Désamorce tout avec le confort. Le thé, le silence, le sourire — et c'est réglé.",
+    "trait": "Elle désamorce tout par le confort. Sa voix pose un final doux sur n'importe quelle tempête.",
+    "photos": [
+      "img/elif/elif-1.png",
+      "img/elif/elif-2.png",
+      "img/elif/elif-3.png"
+    ]
+  },
+  {
+    "name": "Lerato",
+    "age": 24,
+    "origin": "Afrique du Sud",
+    "city": "Le Cap",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée, cheveux courts naturels, grands yeux bruns, lèvres pleines, sourire lumineux, silhouette voluptueuse. La grande sœur qui dit respire.",
+    "voice": "Chaleureuse, grave, posée. 'Respire, on gère ça.' Et on gère toujours.",
+    "trait": "Elle dit 'respire, on gère ça' et on gère toujours. La voix qui calme avant de résoudre.",
+    "photos": [
+      "img/lerato/lerato-1.png",
+      "img/lerato/lerato-2.png",
+      "img/lerato/lerato-3.png"
+    ]
   }
 ]
