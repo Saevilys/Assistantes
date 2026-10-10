@@ -28,9 +28,9 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .card-meta{font-size:0.72rem;color:#6a5d50;margin-top:2px}
 .card-trait{font-size:0.75rem;color:#9a8d80;margin-top:6px;line-height:1.4;max-height:2.8em;overflow:hidden}
 .flirt{position:absolute;top:10px;left:10px;display:flex;gap:3px}
-.flirt-dot{width:6px;height:6px;border-radius:50%}
-.flirt-dot.on{background:#d4a574}
-.flirt-dot.off{background:#3d3530}
+.flirt-heart{font-size:0.85rem;line-height:1;text-shadow:0 0 2px #000,1px 1px 1px #000,-1px -1px 1px #000,1px -1px 1px #000,-1px 1px 1px #000}
+.flirt-heart.on{color:#d4a574}
+.flirt-heart.off{color:#5d5040}
 .flirt-lvl4{font-size:0.9rem;line-height:1;animation:glowPulse 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}
 .flirt-lvl5{font-size:0.9rem;line-height:1;animation:dangerPulse 1.2s ease-in-out infinite;text-shadow:0 0 6px #ff0033,0 0 14px #ff0033,0 0 22px #ff003390;color:#ff0033}
 @keyframes glowPulse{0%,100%{opacity:1;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}50%{opacity:.7;text-shadow:0 0 3px #ff3366,0 0 6px #ff3366,0 0 12px #ff336660}}
@@ -125,7 +125,7 @@ function render(list,filter){
       ? `<span class="flirt-lvl5">☠♥</span>`
       : a.flirty>=4
       ? `<span class="flirt-lvl4">♥!</span>`
-      : [1,2,3].map(i=>`<div class="flirt-dot ${i<=a.flirty?'on':'off'}"></div>`).join('');
+      : [1,2,3].map(i=>`<span class="flirt-heart ${i<=a.flirty?'on':'off'}">${i<=a.flirty?'♥':'♡'}</span>`).join('');
     return `
     <div class="card ${a.active?'':'dim'}" data-name="${a.name}">
       <div class="flirt">${flirtDots}</div>
