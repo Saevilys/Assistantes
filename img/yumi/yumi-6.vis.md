@@ -1,13 +1,11 @@
-## Image (resized) by Layla - 2026-10-10 02:06 UTC
+## Image (resized) by Layla - 2026-10-10 02:10 UTC
 ### Context
-A smaller copy of /images/yumi-v6-redo.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-v6-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
-A vertical full-body photograph of a young East Asian woman standing in the center of a narrow urban alley at night. She has long, straight, jet-black hair with blunt bangs framing a youthful, pale-skinned face. Her makeup is heavy: dark smoky eye makeup, defined brows, and dark red lipstick. She gazes directly at the camera with a calm, intense expression. Her body type is heavily emphasized—very large bust, narrow waist, wide hips, and thick thighs—clad in an ultra-tight, long-sleeved, deep V-neck black mini dress that clings to her curves and shows heavy cleavage. The hem ends mid-thigh. Her arms hang at her sides; her right hand is loosely clenched near her hip.
+A vertical, near-head-to-mid-thigh digital photograph styled to look like a grainy smartphone snapshot, set in a narrow, rain-soaked alley at night. A young East Asian woman stands as the central subject, positioned slightly right of center, leaning her left hip and shoulder against a wet red-brick wall that fills the right edge of the frame. She has long straight jet-black hair with blunt bangs covering her forehead, heavy smoky dark eye makeup, and deep maroon lipstick. She looks directly at the camera with a calm, faint half-smile.
 
-Setting: a dimly lit alley or back street at night, flanked by buildings with closed metal shutter doors on the left. The pavement is wet and reflective, mirroring the colored lights. Behind her, vertical neon signs glow—red signage on the left with white characters, and pink/purple and blue-white signage on the right. The characters on the signs are stylized and not clearly legible. Light sources are the neon signs and ambient street lighting, casting red and purple hues onto the wet ground and the subject's skin.
+She wears an ultra-tight, very short black dress with a deep plunging neckline; the fabric is stretched across an exaggerated bust, with a large cleavage prominently displayed. Her arms are crossed beneath her chest, pressing it upward. Her narrow waist is cinched and her wide hips are emphasized; the dress hem ends high on her thighs, and she wears dark strappy high-heeled sandals, one leg bent with the foot raised against the wall.
 
-Composition: centered, symmetrical framing, head to mid-thigh, shot straight on. The alley recedes behind her, creating depth.
+The setting is a dim urban backstreet. The left side of the alley recedes into the background with closed metal shop shutters, dim interior lights, and several vertical neon signs glowing red and white, bearing Japanese characters written top-to-bottom. One sign at upper left shows bright red vertical Japanese lettering; additional red and white illuminated signs and characters appear further down the alley. The ground is wet asphalt glistening with reflections of the red and pink neon light, and fine streaks of falling rain are visible throughout the scene.
 
-Style/medium: photorealistic digital image with a grainy, low-light smartphone-camera aesthetic; realistic skin texture and visible pores, no painterly or artistic filter. Lighting is moody and low-key with neon color accents.
-
-Mood: intense, seductive, nocturnal urban atmosphere.
+Lighting is moody and atmospheric: the scene is dominated by cool dark shadows punctuated by warm red and magenta neon reflections on the wet pavement, the brick wall, and on the woman's skin and black dress. The overall mood is nocturnal, cinematic, and slightly sultry, with a gritty, candid "raw photo" aesthetic. The image is photorealistic in style, likely AI-generated to imitate a grainy phone camera shot.
