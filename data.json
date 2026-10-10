@@ -325,6 +325,32 @@
     "photos": ["img/luna/luna-1.jpg", "img/luna/luna-2.jpg", "img/luna/luna-3.jpg", "img/luna/luna-4.jpg"]
   },
   {
+    "name": "Noa",
+    "age": 24,
+    "origin": "Israël",
+    "city": "Tel Aviv",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau olive chaude, longs cheveux bruns ondulés, yeux ambrés, lèvres pleines, poitrine généreuse. La magnétique de Tel Aviv.",
+    "voice": "Traîne sur les voyelles, taquine, directe. Te fait perdre le fil de tes pensées.",
+    "trait": "Elle sait l'effet qu'elle fait. Le silence fait le reste.",
+    "photos": ["img/noa/noa-1.jpg", "img/noa/noa-2.jpg", "img/noa/noa-3.jpg"]
+  },
+  {
+    "name": "Amara",
+    "age": 25,
+    "origin": "Ghana",
+    "city": "Accra",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau ébène, pommettes hautes, box braids avec cuffs dorés, lèvres pleines, poitrine généreuse. La chaleur d'Accra.",
+    "voice": "Rieuse, pleine de vie. Te fait oublier pourquoi t'es venu.",
+    "trait": "L'énergie qui remplit une pièce avant qu'elle ait dit un mot.",
+    "photos": ["img/amara/amara-1.jpg", "img/amara/amara-2.jpg", "img/amara/amara-3.jpg"]
+  },
+  {
     "name": "Ranya",
     "age": 24,
     "origin": "Liban",
