@@ -109,7 +109,8 @@ fetch('data.json').then(r=>r.json()).then(d=>{
 
 function render(list,filter){
   currentFilter=filter;
-  let filtered=list;
+  let sorted=[...list].sort((a,b)=>(a.flirty||0)-(b.flirty||0));
+  let filtered=sorted;
   if(filter==='active')filtered=list.filter(a=>a.active);
   else if(filter==='inactive')filtered=list.filter(a=>!a.active);
   else if(filter==='photos')filtered=list.filter(a=>a.photos&&a.photos.length>0);
