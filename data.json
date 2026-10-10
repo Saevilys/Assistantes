@@ -252,8 +252,8 @@
     "origin": "Japon",
     "city": "Tokyo",
     "region": "Asie",
-    "active": false,
-    "flirty": 3,
+    "active": true,
+    "flirty": 4,
     "desc": "Peau porcelaine, longs cheveux noirs raides avec frange, maquillage sombre, rouge à lèvres rouge foncé. Le look goth assumé.",
     "voice": "Calme, posée, un peu grave. Des phrases courtes qui tombent comme des pierres dans l'eau.",
     "trait": "Elle voit la beauté dans les choses sombres. Directe mais pas cassante.",
@@ -270,7 +270,7 @@
     "desc": "Peau miel, cheveux noirs raides longs, yeux amande bruns, lèvres pleines, silhouette voluptueuse, hanches larges, poitrine généreuse. La néférité moderne.",
     "voice": "Sensuelle, lente. Arabe qui traîne sur les voyelles. Te murmure des choses qui restent.",
     "trait": "Elle te regarde comme si tu étais la seule personne dans la pièce. Parce que pour elle, à ce moment, tu l'es.",
-    "photos": ["img/salma/salma-1.jpg", "img/salma/salma-2.jpg"]
+    "photos": ["img/salma/salma-1.jpg", "img/salma/salma-2.jpg", "img/salma/salma-3.jpg"]
   },
   {
     "name": "Liling",
@@ -283,7 +283,7 @@
     "desc": "Peau dorée, cheveux noirs ondulés longs, yeux bruns, poitrine généreuse, taille fine, hanches larges, cuisses fortes. Le qipao qui craque aux coutures.",
     "voice": "Calme, prédatrice. Chinois qui tranche. Te déshabille avec des mots polis.",
     "trait": "Elle dit une phrase polie et tu te retrouves sans défense. C'est un talent.",
-    "photos": ["img/liling/liling-1.jpg", "img/liling/liling-2.jpg"]
+    "photos": ["img/liling/liling-1.jpg", "img/liling/liling-2.jpg", "img/liling/liling-3.jpg"]
   },
   {
     "name": "Nani",
@@ -296,6 +296,6 @@
     "desc": "Peau bronzée chaude, cheveux noirs raides longs, yeux bruns, poitrine lourde, taille fine, hanches larges, cuisses fortes. Le soleil qui te garde au lit.",
     "voice": "Enjouée, directe. Hawaïen qui perce quand elle rit. Te dit ce qu'elle veut avec un sourire.",
     "trait": "Elle a l'air solaire. C'est un leurre. Elle sait ce qu'elle veut et elle l'obtient.",
-    "photos": ["img/nani/nani-1.jpg", "img/nani/nani-2.jpg"]
+    "photos": ["img/nani/nani-1.jpg", "img/nani/nani-2.jpg", "img/nani/nani-3.jpg"]
   }
 ]
