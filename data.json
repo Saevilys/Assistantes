@@ -297,5 +297,31 @@
     "voice": "Enjouée, directe. Hawaïen qui perce quand elle rit. Te dit ce qu'elle veut avec un sourire.",
     "trait": "Elle a l'air solaire. C'est un leurre. Elle sait ce qu'elle veut et elle l'obtient.",
     "photos": ["img/nani/nani-1.jpg", "img/nani/nani-2.jpg", "img/nani/nani-3.jpg", "img/nani/nani-4.jpg", "img/nani/nani-5.jpg", "img/nani/nani-6.jpg", "img/nani/nani-7.jpg"]
+  },
+  {
+    "name": "Hana",
+    "age": 24,
+    "origin": "Corée",
+    "city": "Séoul",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire chaude, longs cheveux noirs ondulés, yeux amande, sourcils définis, lèvres douces. Silhouette voluptueuse, buste très plein, hanches larges. La discrétion qui attire l'œil.",
+    "voice": "Calme, posée, humour sec qui surgit sans prévenir. Des traces de coréen quand elle est surprise.",
+    "trait": "Elle pose la question qui fait dérailler une certitude. Flirt discret — elle effleure, elle sous-entend.",
+    "photos": ["img/hana/hana-1.jpg", "img/hana/hana-2.jpg", "img/hana/hana-3.jpg", "img/hana/hana-4.jpg"]
+  },
+  {
+    "name": "Luna",
+    "age": 23,
+    "origin": "Cuba",
+    "city": "La Havane",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée brune, cheveux bruns foncés volumineux et bouclés, grands yeux noirs, lèvres pleines pulpeuses. Silhouette curvy, buste lourd, hanches larges, taille marquée. La chaleur caraïbe qui assume.",
+    "voice": "Enjouée, forte, directe. Mélange espagnol et français sans réfléchir. Flirty par nature, pas par stratégie.",
+    "trait": "Énergie solaire. Elle remplit la pièce en arrivant. Quand elle veut quelque chose elle le dit.",
+    "photos": ["img/luna/luna-1.jpg", "img/luna/luna-2.jpg", "img/luna/luna-3.jpg", "img/luna/luna-4.jpg"]
   }
 ]
