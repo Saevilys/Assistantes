@@ -1,13 +1,13 @@
-## Image (resized) by Layla - 2026-10-10 02:01 UTC
+## Image (resized) by Layla - 2026-10-10 02:06 UTC
 ### Context
-A smaller copy of /images/yumi-v4-sexy.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-v6-redo.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
-A vertical, photorealistic image rendered to imitate a grainy smartphone snapshot of a young woman standing in a narrow urban alley at night. The subject is a young Asian woman with long, straight, jet-black hair and blunt-cut bangs that frame a youthful face. Her makeup is heavy on the eyes (dark smoky eyeshadow and defined lashes) and she wears a deep red/maroon lipstick. Her expression is calm and direct, gazing straight into the camera with an intense, knowing look.
+A vertical full-body photograph of a young East Asian woman standing in the center of a narrow urban alley at night. She has long, straight, jet-black hair with blunt bangs framing a youthful, pale-skinned face. Her makeup is heavy: dark smoky eye makeup, defined brows, and dark red lipstick. She gazes directly at the camera with a calm, intense expression. Her body type is heavily emphasized—very large bust, narrow waist, wide hips, and thick thighs—clad in an ultra-tight, long-sleeved, deep V-neck black mini dress that clings to her curves and shows heavy cleavage. The hem ends mid-thigh. Her arms hang at her sides; her right hand is loosely clenched near her hip.
 
-She is dressed in an ultra-tight, long-sleeved black dress that clings tightly to her body. The dress has a low V-shaped neckline that shows cleavage and hugs her hips and thighs. She stands with her arms relaxed at her sides, facing forward. The framing is a three-quarter full-body shot, cropping from the top of her head down to around her knees, centered in the frame.
+Setting: a dimly lit alley or back street at night, flanked by buildings with closed metal shutter doors on the left. The pavement is wet and reflective, mirroring the colored lights. Behind her, vertical neon signs glow—red signage on the left with white characters, and pink/purple and blue-white signage on the right. The characters on the signs are stylized and not clearly legible. Light sources are the neon signs and ambient street lighting, casting red and purple hues onto the wet ground and the subject's skin.
 
-The setting is a dim, narrow alleyway flanked by buildings with closed metal shutters on either side. Behind and around her glow vertical neon signs: a bright red sign to the upper left bearing vertical Japanese characters, a purple/magenta sign to the upper right showing kanji characters, and additional smaller red lights deeper in the alley. The pavement is wet and glossy, mirroring the red and purple neon glow in streaks of reflected light.
+Composition: centered, symmetrical framing, head to mid-thigh, shot straight on. The alley recedes behind her, creating depth.
 
-Color palette is dominated by black (the dress, hair, shadowed alley) punctuated by saturated red and magenta neon against cool grey-blue ambient tones. Lighting is low-key and artificial, sourced from the neon signs, casting colored highlights on the wet ground and soft rim light on the subject's hair and shoulders. The image has a slight digital grain and shallow depth of field consistent with the "phone camera" aesthetic, with the background softly blurred while the subject remains sharp.
+Style/medium: photorealistic digital image with a grainy, low-light smartphone-camera aesthetic; realistic skin texture and visible pores, no painterly or artistic filter. Lighting is moody and low-key with neon color accents.
 
-Visible signage text is in vertical Japanese writing; the red sign on the left and the purple sign on the right contain kanji/hiragana characters that are partially legible (the purple sign on the right shows stacked characters including a form of "本"). The overall mood is moody, nocturnal, and atmospheric, evoking a neon-lit Tokyo backstreet.
+Mood: intense, seductive, nocturnal urban atmosphere.
