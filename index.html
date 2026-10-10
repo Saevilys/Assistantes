@@ -97,6 +97,7 @@ let data=[];
 let currentFilter='all';
 
 fetch('data.json').then(r=>r.json()).then(d=>{
+  try{const s=JSON.parse(localStorage.getItem('ast_overrides')||'{}');d.forEach(a=>{if(a.name in s)a.active=s[a.name]});}catch(e){}
   data=d;
   render(d,'all');
 });
@@ -184,6 +185,7 @@ function toggleActive(name){
   const a=data.find(x=>x.name===name);
   if(!a)return;
   a.active=!a.active;
+  try{const s=JSON.parse(localStorage.getItem('ast_overrides')||'{}');s[name]=a.active;localStorage.setItem('ast_overrides',JSON.stringify(s));}catch(e){}
   buildProfile(a);
   render(data,currentFilter);
 }
