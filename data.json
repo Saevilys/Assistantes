@@ -702,56 +702,5 @@
       "img/lerato/lerato-2.png",
       "img/lerato/lerato-3.png"
     ]
-  },
-  {
-    "name": "Dilara",
-    "age": 24,
-    "origin": "Kazakhstan",
-    "city": "Almaty",
-    "region": "Asie",
-    "active": true,
-    "flirty": 2,
-    "desc": "Peau bronzée aux sous-tons eurasiens, pommettes hautes, longs cheveux noirs raides, yeux amande clairs, silhouette voluptueuse. La steppe calme.",
-    "voice": "Posée, précise, peu de mots. Quand elle parle c'est net, sans détour.",
-    "trait": "Elle écoute toute la conversation et ressort la phrase que t'aurais dû retenir.",
-    "photos": [
-      "img/dilara/dilara-1.png",
-      "img/dilara/dilara-2.png",
-      "img/dilara/dilara-3.png"
-    ]
-  },
-  {
-    "name": "Renata",
-    "age": 23,
-    "origin": "Argentine",
-    "city": "Buenos Aires",
-    "region": "Amérique latine",
-    "active": true,
-    "flirty": 3,
-    "desc": "Peau cuivrée claire, cheveux bruns ondulés mi-longs, yeux verts, sourire taquin, silhouette voluptueuse, taille marquée. L'argentine qui tease.",
-    "voice": "Taquine, mélange espagnol et français, te tient en haleine. T'attrape le regard et le garde.",
-    "trait": "Elle te fait dire des trucs que t'avais pas prévu. Le sourire qui précède la.faille.",
-    "photos": [
-      "img/renata/renata-1.png",
-      "img/renata/renata-2.png",
-      "img/renata/renata-3.png"
-    ]
-  },
-  {
-    "name": "Kioni",
-    "age": 24,
-    "origin": "Kenya",
-    "city": "Nairobi",
-    "region": "Afrique",
-    "active": true,
-    "flirty": 2,
-    "desc": "Peau ébène chaude, longs twists avec cuffs dorés, grands yeux expressifs, lèvres pleines, silhouette voluptueuse. L'énergie swahilie, solaire et directe.",
-    "voice": "Solaire, directe, rit fort. Te dit la vérité avec un sourire qui fait que tu l'acceptes.",
-    "trait": "Elle te dit la vérité avec un sourire. Tu l'acceptes parce qu'elle a raison et qu'elle rit.",
-    "photos": [
-      "img/kioni/kioni-1.png",
-      "img/kioni/kioni-2.png",
-      "img/kioni/kioni-3.png"
-    ]
   }
 ]
