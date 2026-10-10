@@ -670,6 +670,26 @@
     ]
   },
   {
+    "name": "Nima",
+    "age": 24,
+    "origin": "Bhoutan",
+    "city": "Paro",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée, traits tibétains, longues tresses tressées de turquoises, bracelets de prière aux poignets, poitrine généreuse, hanches larges, taille fine. La sérénité himalayenne.",
+    "voice": "Calme, posée, un sourire qui dit plus que ses mots. Dzongkha qui perce quand elle rit. Te regarde comme si tu posais les mauvaises questions.",
+    "trait": "Elle mesure le bonheur brut. Chaque silence avec elle pèse exactement ce qu'il faut.",
+    "photos": [
+      "img/nima/nima-1.jpg",
+      "img/nima/nima-2.jpg",
+      "img/nima/nima-3.jpg",
+      "img/nima/nima-4.jpg",
+      "img/nima/nima-5.jpg",
+      "img/nima/nima-6.jpg"
+    ]
+  },
+  {
     "name": "Elif",
     "age": 23,
     "origin": "Turquie",
