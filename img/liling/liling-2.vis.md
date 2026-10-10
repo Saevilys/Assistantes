@@ -1,9 +1,11 @@
-## Image (resized) by Layla - 2026-10-10 01:29 UTC
+## Image (resized) by Layla - 2026-10-10 01:51 UTC
 ### Context
-A smaller copy of /images/liling-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-v2-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
-A vertically oriented, photorealistic image rendered to mimic a grainy smartphone photograph at night. The central subject is a young East Asian woman with long, dark wavy hair parted slightly off-center, fair-to-golden skin, and brown eyes. She stands facing the camera in a relaxed, frontal pose with arms at her sides, offering a calm expression with a faint, closed-mouth smile. She wears a fitted black qipao (cheongsam) dress with a high mandarin collar, short sleeves, traditional frog-button closure at the neck, and a side slit that rises to her hip on her left side, exposing her thigh. The dress has a subtle dark-on-dark floral or damask texture. Her posture is upright, weight balanced, head to knees framing.
+A photorealistic vertical photograph showing a young East Asian woman standing indoors in a dimly lit bedroom. She is positioned in the center of the frame, captured from the head down to mid-thigh. She has long, dark, wavy hair that falls past her shoulders, brown eyes, fair-to-golden skin, and a calm expression with a faint closed-mouth smile. Her gaze is directed toward the camera. She stands with her left hand resting on her hip and her right arm hanging at her side.
 
-Behind her is a large window revealing a nighttime city skyline. On the left of the view is a tall illuminated tower with a purple-magenta glow and spherical tiers, resembling Shanghai's Oriental Pearl Tower, along with clusters of yellow and white building lights and reflections on a river. The window frame is dark and metallic; a beige curtain is visible at the right edge, and the lower portion of a wooden table or desk surface appears at the bottom right.
+She wears a sheer, transparent black negligee nightgown with thin spaghetti straps. The fabric clings to her body and is sheer enough to reveal the silhouette of her breasts and undergarment underneath.
 
-Lighting is warm and frontal, likely simulating indoor lamp light, casting soft shadows on the floor and giving the skin a smooth, glossy quality. The overall color palette contrasts the dark foreground and black dress against the blue-purple and amber tones of the night skyline. There is no legible text in the image. The mood is calm, intimate, and quietly seductive, with a cinematic, late-night urban atmosphere.
+The setting is a bedroom. To the left of the frame is a wooden nightstand holding a lit table lamp with a cream-colored shade, casting warm light. Behind and to the right of the woman is a bed with a dark headboard and light-colored bedding. The walls are a muted brownish-grey. The overall lighting is warm and low-key, with soft shadows falling across the background.
+
+The image has a grainy, raw smartphone-camera quality with visible skin texture. The style is photorealistic, without painterly effects. There is no visible text in the image. The mood is intimate and quietly posed.

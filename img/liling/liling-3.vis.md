@@ -1,13 +1,9 @@
-## Image (resized) by Layla - 2026-10-10 01:31 UTC
+## Image (resized) by Layla - 2026-10-10 01:51 UTC
 ### Context
-A smaller copy of /images/liling-v3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-v3-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
-A photograph of a single woman kneeling on a bed and leaning forward toward the camera. She has long, wavy dark hair falling past her shoulders and is looking directly at the viewer with a neutral-to-faintly amused expression. She wears a black lace bralette and matching black lace thong. One arm extends forward with the hand resting flat on the mattress; her body is positioned at an angle, torso leaning toward the camera, knees and thighs visible on the right side of the frame.
+A photorealistic photograph showing a young East Asian woman seated on the edge of a bed. She has long, dark wavy hair past her shoulders, brown eyes, and fair-to-golden skin with visible natural texture and pores. She wears a black lace bra and matching black lace high-cut panties. Her pose is frontal, head-to-mid-thigh, with both hands resting on the mattress on either side of her hips. Her expression is calm with a faint smile, looking directly at the camera.
 
-The setting is a plainly decorated bedroom. The bed has rumpled white sheets and a light-colored pillow behind her. A dark wooden headboard is partly visible behind her right hip. The walls are a flat beige or cream, with a white ceiling line and what appears to be an outlet or small fixture on the upper right wall.
+The setting is a dimly lit bedroom. She sits on a bed with white sheets and pillows visible behind her to the right. A bedside lamp glows warm yellow-orange on the right side of the frame, casting side lighting across her body and creating soft shadows. A dark headboard and a portion of a framed picture on the wall appear in the upper right; a wall switch plate is visible on the left wall in shadow.
 
-Composition is a full-body-to-knees shot taken at roughly eye level, framing the woman from the top of her head down to her knees. The subject occupies most of the frame, centered slightly to the left.
-
-Lighting is soft and diffuse, likely ambient indoor light, casting gentle shadows on the bedding and wall. The skin has a smooth, even tone with minimal visible texture; the image looks clean rather than heavily grainy, suggesting some post-processing despite the "raw phone camera" framing of the prompt.
-
-Colour palette is muted: beige walls, white bedding, dark brown wood, black lingerie, and warm skin tones. No visible text, logos, or watermarks are present. The overall mood is intimate and posed, with a direct, calm demeanor.
+Composition is a centered full-body shot, slightly high angle. Lighting is warm and low-key, with the lamp as the dominant light source and the left side falling into shadow. Colors are dominated by warm amber tones, black lingerie, white linens, and the subject's skin tones. The medium reads as a realistic smartphone-style photo with natural grain, no painterly or illustrative effects. The overall mood is intimate and posed. No visible text.
