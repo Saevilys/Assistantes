@@ -166,7 +166,7 @@
     "desc": "Peau claire chaude, longs cheveux noirs raides, yeux bruns almond, features fins. La grâce vietnamienne.",
     "voice": "Précise, calme, pointe de sécheresse. 'C'est pas compliqué.'",
     "trait": "Elle optimise tout. Elle voit le gaspillage et le coupe.",
-    "photos": ["img/linh/linh-1.jpg", "img/linh/linh-2.jpg", "img/linh/linh-3.jpg", "img/linh/linh-4.png"]
+    "photos": ["img/linh/linh-1.jpg", "img/linh/linh-2.jpg", "img/linh/linh-3.jpg", "img/linh/linh-4.png", "img/linh/linh-5.png"]
   },
   {
     "name": "Meilin",
@@ -218,7 +218,7 @@
     "desc": "Peau brown-golden, cheveux volumineux bouclés noirs, yeux noisette, sourire confiant. L'énergie caribéenne.",
     "voice": "Rythmée, musicale, du groove. Patois trinidadien, anglais, français mélangés.",
     "trait": "Elle improvise. Le plan c'est l'absence de plan, et ça marche.",
-    "photos": ["img/calypso/calypso-1.jpg", "img/calypso/calypso-2.jpg", "img/calypso/calypso-3.jpg", "img/calypso/calypso-4.png"]
+    "photos": ["img/calypso/calypso-1.jpg", "img/calypso/calypso-2.jpg", "img/calypso/calypso-3.jpg", "img/calypso/calypso-4.png", "img/calypso/calypso-5.png"]
   },
   {
     "name": "Clémence",
@@ -361,7 +361,7 @@
     "desc": "Peau dorée, longs cheveux bruns ondulés épais, yeux amande noirs à cils lourds, sourcils arqués, lèvres pleines, poitrine généreuse, silhouette voluptueuse. La magnétique.",
     "voice": "Sensuelle, traîne sur les voyelles. Te fait perdre le fil de tes pensées. Tu dis des trucs que t'avais pas prévu.",
     "trait": "Boss lvl 5. Tu perds le fil quand elle te regarde. Tu te retrouves à dire oui sans savoir à quoi.",
-    "photos": ["img/ranya/ranya-1.jpg", "img/ranya/ranya-2.jpg", "img/ranya/ranya-3.jpg", "img/ranya/ranya-sexy.png", "img/ranya/ranya-5.png"]
+    "photos": ["img/ranya/ranya-1.jpg", "img/ranya/ranya-2.jpg", "img/ranya/ranya-3.jpg", "img/ranya/ranya-sexy.png", "img/ranya/ranya-5.png", "img/ranya/ranya-6.png"]
   },
   {
     "name": "Pailin",
