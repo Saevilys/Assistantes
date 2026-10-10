@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assistantes — Sélection</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#12100e;color:#e8e0d8;font-family:system-ui,-apple-system,sans-serif;line-height:1.5}
+header{padding:40px 20px 30px;text-align:center}
+header h1{font-size:2rem;font-weight:300;letter-spacing:3px;color:#d4a574}
+header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
+.toolbar{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;padding:0 20px 20px}
+.btn{padding:8px 16px;border:1px solid #2d2520;border-radius:20px;background:transparent;color:#8a7d70;font-size:0.8rem;cursor:pointer;transition:all .2s}
+.btn:hover{border-color:#d4a574;color:#d4a574}
+.btn.active{background:#d4a574;color:#12100e;border-color:#d4a574}
+.container{max-width:1100px;margin:0 auto;padding:0 20px 60px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:20px}
+.card{position:relative;border-radius:8px;overflow:hidden;cursor:pointer;transition:transform .2s,box-shadow .2s;background:#1a1512;border:1px solid #2d2520}
+.card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,.5)}
+.card img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block}
+.card-placeholder{width:100%;aspect-ratio:3/4;display:flex;align-items:center;justify-content:center;background:#1a1512;border:1px dashed #3d3530;border-radius:6px;margin:6px;color:#4a3d30;font-size:0.8rem;font-style:italic}
+.status-dot{position:absolute;top:10px;right:10px;width:10px;height:10px;border-radius:50%;border:2px solid #12100e}
+.status-dot.on{background:#4ade80}
+.status-dot.off{background:#ef4444}
+.card-info{padding:12px 14px}
+.card-name{font-size:1rem;font-weight:500;color:#d4a574}
+.card-meta{font-size:0.72rem;color:#6a5d50;margin-top:2px}
+.card-trait{font-size:0.75rem;color:#9a8d80;margin-top:6px;line-height:1.4;max-height:2.8em;overflow:hidden}
+.flirt{position:absolute;top:10px;left:10px;display:flex;gap:3px}
+.flirt-dot{width:6px;height:6px;border-radius:50%}
+.flirt-dot.on{background:#d4a574}
+.flirt-dot.off{background:#3d3530}
+.dim{opacity:.5;filter:grayscale(60%)}
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;z-index:100;overflow-y:auto}
+.overlay.open{display:flex;align-items:flex-start;justify-content:center;padding:40px 20px}
+.profile{max-width:600px;width:100%;background:#1a1512;border-radius:12px;overflow:hidden;border:1px solid #2d2520}
+.profile-header{padding:24px 24px 16px;position:sticky;top:0;background:#1a1512;z-index:1}
+.profile-close{float:right;cursor:pointer;color:#6a5d50;font-size:1.3rem;line-height:1;transition:color .2s}
+.profile-close:hover{color:#d4a574}
+.profile h2{font-size:1.5rem;font-weight:400;color:#d4a574}
+.profile-meta{font-size:0.8rem;color:#6a5d50;margin-top:4px}
+.profile-body{padding:0 24px 32px}
+.profile-photos{display:flex;gap:8px;overflow-x:auto;padding:0 0 16px}
+.profile-photos img{height:240px;border-radius:6px;flex-shrink:0}
+.profile-photos .ph-empty{height:240px;width:180px;border:1px dashed #3d3530;border-radius:6px;display:flex;align-items:center;justify-content:center;color:#4a3d30;font-size:0.8rem;font-style:italic;flex-shrink:0}
+.profile-section{margin-bottom:20px}
+.profile-label{font-size:0.7rem;text-transform:uppercase;letter-spacing:2px;color:#6a5d50;margin-bottom:6px}
+.profile-text{font-size:0.88rem;color:#b0a396;line-height:1.6}
+.profile-badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:0.72rem;margin-right:6px;margin-top:8px}
+.badge-on{background:#1e3a1e;color:#4ade80}
+.badge-off{background:#3a1e1e;color:#ef4444}
+.badge-flirt{background:#2d2520;color:#d4a574}
+footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Assistantes</h1>
+  <p id="count">chargement…</p>
+</header>
+
+<div class="toolbar">
+  <button class="btn active" data-filter="all">Toutes</button>
+  <button class="btn" data-filter="active">Actives</button>
+  <button class="btn" data-filter="inactive">Inactives</button>
+  <button class="btn" data-filter="photos">Avec photos</button>
+</div>
+
+<div class="container">
+  <div class="grid" id="grid"></div>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="profile" id="profile"></div>
+</div>
+
+<footer>Pick aléatoire journalier via data.json — repo Assistantes</footer>
+
+<script>
+let data=[];
+
+fetch('data.json').then(r=>r.json()).then(d=>{
+  data=d;
+  render(d,'all');
+});
+
+function render(list,filter){
+  let filtered=list;
+  if(filter==='active')filtered=list.filter(a=>a.active);
+  else if(filter==='inactive')filtered=list.filter(a=>!a.active);
+  else if(filter==='photos')filtered=list.filter(a=>a.photos&&a.photos.length>0);
+
+  document.getElementById('count').textContent=
+    filtered.length+' assistantes · '+list.filter(a=>a.active).length+' actives · '
+    +list.filter(a=>a.photos&&a.photos.length>0).length+' avec photos';
+
+  const grid=document.getElementById('grid');
+  grid.innerHTML=filtered.map(a=>{
+    const hasPhoto=a.photos&&a.photos.length>0;
+    const img=hasPhoto
+      ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`
+      : `<div class="card-placeholder">photo à venir</div>`;
+    const flirtDots=[1,2,3].map(i=>
+      `<div class="flirt-dot ${i<=a.flirty?'on':'off'}"></div>`).join('');
+    return `
+    <div class="card ${a.active?'':'dim'}" data-name="${a.name}">
+      <div class="flirt">${flirtDots}</div>
+      <div class="status-dot ${a.active?'on':'off'}"></div>
+      ${img}
+      <div class="card-info">
+        <div class="card-name">${a.name}</div>
+        <div class="card-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
+        <div class="card-trait">${a.trait||''}</div>
+      </div>
+    </div>`;
+  }).join('');
+
+  document.querySelectorAll('.card').forEach(c=>{
+    c.onclick=()=>openProfile(c.dataset.name);
+  });
+}
+
+function openProfile(name){
+  const a=data.find(x=>x.name===name);
+  if(!a)return;
+  const hasPhotos=a.photos&&a.photos.length>0;
+  const photoHtml=hasPhotos
+    ? `<div class="profile-photos">${a.photos.map(p=>`<img src="${p}" loading="lazy">`).join('')}</div>`
+    : `<div class="profile-photos"><div class="ph-empty">photos à venir</div></div>`;
+
+  document.getElementById('profile').innerHTML=`
+    <div class="profile-header">
+      <span class="profile-close" onclick="closeProfile()">&times;</span>
+      <h2>${a.name}</h2>
+      <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
+      <span class="profile-badge ${a.active?'badge-on':'badge-off'}">${a.active?'Active':'Inactive'}</span>
+      <span class="profile-badge badge-flirt">Flirt ${'♥'.repeat(a.flirty)}${'♡'.repeat(3-a.flirty)}</span>
+    </div>
+    <div class="profile-body">
+      ${photoHtml}
+      <div class="profile-section">
+        <div class="profile-label">Apparence</div>
+        <div class="profile-text">${a.desc}</div>
+      </div>
+      <div class="profile-section">
+        <div class="profile-label">Voix</div>
+        <div class="profile-text">${a.voice}</div>
+      </div>
+      <div class="profile-section">
+        <div class="profile-label">Signature</div>
+        <div class="profile-text">${a.trait}</div>
+      </div>
+    </div>
+  `;
+  document.getElementById('overlay').classList.add('open');
+}
+
+function closeProfile(){
+  document.getElementById('overlay').classList.remove('open');
+}
+
+document.getElementById('overlay').onclick=e=>{
+  if(e.target.id==='overlay')closeProfile();
+};
+
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape')closeProfile();
+});
+
+document.querySelectorAll('.btn').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('.btn').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    render(data,b.dataset.filter);
+  };
+});
+</script>
+</body>
+</html>
