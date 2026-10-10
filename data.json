@@ -739,5 +739,39 @@
       "img/eliska/eliska-2.jpg",
       "img/eliska/eliska-3.jpg"
     ]
+  },
+  {
+    "name": "Lanfen",
+    "age": 24,
+    "origin": "Chine",
+    "city": "Chengdu",
+    "region": "Asie",
+    "active": true,
+    "flirty": 6,
+    "desc": "Peau claire chaude, longs cheveux bruns raides avec raie au milieu, yeux amande sombres, lèvres pleines, silhouette voluptueuse, poitrine généreuse, taille fine, hanches larges. Pendentif jade sur chaîne fine. L'apothicaire de Chengdu.",
+    "voice": "Calme, posée, un peu grave. Chinois qui perce dans les soupirs. Te parle de racines et de remèdes comme d'autres parlent d'amour.",
+    "trait": "Elle prépare des remèdes à base d'herbes comme on prépare un geste tendre. Le silence de l'apothicaire — pas froid, concentré.",
+    "photos": [
+      "img/lanfen/lanfen-1.png",
+      "img/lanfen/lanfen-2.png",
+      "img/lanfen/lanfen-3.png"
+    ]
+  },
+  {
+    "name": "Tsukiko",
+    "age": 23,
+    "origin": "Japon",
+    "city": "Kyoto",
+    "region": "Asie",
+    "active": true,
+    "flirty": 6,
+    "desc": "Peau porcelaine, longs cheveux noirs raides avec mèches souples, yeux bruns amande, lèvres rosées, traits délicats, silhouette voluptueuse, poitrine généreuse, taille fine, hanches larges. Petites boucles d'argent. L'enfant de la lune.",
+    "voice": "Douce, fluide, presque murmurée. Japonais qui traîne comme l'encens. Des phrases courtes qui s'éteignent en sourire.",
+    "trait": "Elle t'offre du thé et tu oublies pourquoi t'étais tendu. L'art de l'effacement — elle est là, puis elle n'est plus, et le vide qu'elle laisse est doux.",
+    "photos": [
+      "img/tsukiko/tsukiko-1.png",
+      "img/tsukiko/tsukiko-2.png",
+      "img/tsukiko/tsukiko-3.png"
+    ]
   }
 ]

@@ -36,6 +36,11 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .flirt-heart.off{color:#5d5040}
 .flirt-lvl4{font-size:1.15rem;line-height:1;animation:glowPulse 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}
 .flirt-lvl5{font-size:1.3rem;line-height:1;animation:dangerPulse 1.2s ease-in-out infinite;text-shadow:0 0 6px #ff0033,0 0 14px #ff0033,0 0 22px #ff003390;color:#ff0033}
+.flirt-lvlS{font-size:1.1rem;line-height:1;animation:rainbowGlow 2s linear infinite;display:flex;align-items:center;gap:2px}
+.flirt-lvlS .heart{text-shadow:0 0 6px currentColor,0 0 12px currentColor;animation:rainbowHeart 2s linear infinite}
+.flirt-lvlS .s-letter{font-size:0.7rem;font-weight:700;color:#fff;text-shadow:0 0 4px #fff,0 0 8px #ff00ff,0 0 12px #00ffff;letter-spacing:1px}
+@keyframes rainbowGlow{0%{filter:hue-rotate(0deg)}100%{filter:hue-rotate(360deg)}}
+@keyframes rainbowHeart{0%{color:#ff3366}16%{color:#ff6633}33%{color:#ffcc33}50%{color:#33cc66}66%{color:#33cccc}83%{color:#6633cc}100%{color:#ff3366}}
 @keyframes glowPulse{0%,100%{opacity:1;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}50%{opacity:.7;text-shadow:0 0 3px #ff3366,0 0 6px #ff3366,0 0 12px #ff336660}}
 @keyframes dangerPulse{0%,100%{opacity:1;text-shadow:1px 1px 1px #000,-1px -1px 1px #000,1px -1px 1px #000,-1px 1px 1px #000,0 0 6px #ff0033,0 0 14px #ff0033,0 0 22px #ff003390}50%{opacity:.5;text-shadow:1px 1px 1px #000,-1px -1px 1px #000,1px -1px 1px #000,-1px 1px 1px #000,0 0 3px #ff0033,0 0 8px #ff0033,0 0 14px #ff003360}}
 .dim{opacity:.5;filter:grayscale(60%)}
@@ -127,7 +132,9 @@ function render(list,filter){
         ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}"><video class="card-video" src="${a.idle}" muted loop playsinline preload="none"></video>`
         : `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`)
       : `<div class="card-placeholder">photo à venir</div>`;
-    const flirtDots=a.flirty>=5
+    const flirtDots=a.flirty>=6
+      ? `<span class="flirt-lvlS"><span class="heart">♥</span><span class="s-letter">S</span></span>`
+      : a.flirty>=5
       ? `<span class="flirt-lvl5">☠♥</span>`
       : a.flirty>=4
       ? `<span class="flirt-lvl4">♥!</span>`
@@ -173,7 +180,9 @@ function buildProfile(a){
       <span class="profile-close" onclick="closeProfile()">&times;</span>
       <h2>${a.name}</h2>
       <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
-      ${a.flirty>=5
+      ${a.flirty>=6
+        ? `<span class="profile-badge badge-flirt flirt-lvlS" style="font-size:0.8rem;padding:4px 12px;gap:4px"><span class="heart">♥</span><span class="s-letter">S — SPÉCIAL</span></span>`
+        : a.flirty>=5
         ? `<span class="profile-badge badge-flirt flirt-lvl5" style="font-size:0.8rem;padding:4px 12px">☠♥ LVL 5 — DANGER</span>`
         : a.flirty>=4
         ? `<span class="profile-badge badge-flirt flirt-lvl4" style="font-size:0.8rem;padding:4px 12px">♥! LVL 4 — On baise aujourd'hui</span>`
