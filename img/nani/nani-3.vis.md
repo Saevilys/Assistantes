@@ -1,9 +1,15 @@
-## Image (resized) by Layla - 2026-10-10 01:53 UTC
+## Image (resized) by Layla - 2026-10-10 01:55 UTC
 ### Context
-A smaller copy of /images/nani-v3-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/nani-3-new.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
-A photorealistic, phone-camera-style color photograph showing a young woman reclining on her back on a bed covered in white sheets inside a beach-house bedroom. She has warm tanned skin, long straight dark hair parted down the middle and falling past her shoulders, brown eyes, and a round youthful face. She wears a white lace bra that is strained by her very large breasts and matching white lace bikini panties. Her posture is relaxed, one leg bent with the knee raised toward the right side of the frame, and she looks directly at the camera with a slight, teasing smile, lips parted.
+The image shows a woman reclining on her back on a bed covered with white sheets in a bedroom with a beach-house setting. She has dark hair spread across the pillow and her head tilted upward, eyes closed or half-lidded, with a relaxed facial expression. Her body type is curvaceous with full breasts; she wears a white lace bra that appears fitted and a matching white lace panty. Her legs are bent at the knees with feet drawn toward the torso, and one arm is placed across her midsection.
 
-The framing is a full-body shot from the top of her head down to mid-thigh, captured from a slightly low angle so her torso fills much of the composition. Behind her, an open window with sheer white curtains blows inward, revealing a bright ocean horizon and pale sky outside; a small lamp sits on a surface to the left and a framed picture hangs on the wall to the right. Warm golden afternoon light enters through the window, illuminating her skin and the white bedding.
+Behind her, an open window or sliding glass door with sheer white curtains parted on either side frames a view of the ocean at sunset, with the horizon and a band of warm golden light across the water. The interior walls are a neutral beige tone, and a small lamp or fixture is visible at the right edge.
 
-The image has a grainy, casual smartphone-photograph quality with realistic skin texture and no obvious painterly effects. There is no visible text, watermark, or interface element. The overall mood is playful, confident, and sunlit.
+A notable feature is that the woman's face and upper chest appear duplicated as a mirror image on the white sheets in the foreground, head-down, suggesting the edit used a reflective or mirrored surface effect across the bed.
+
+Composition is a full-body shot from head to mid-thigh, shot from a low angle at the foot of the bed looking up the length of the body toward the window. The framing centers the figure with the ocean view behind.
+
+Colors and light: warm golden and amber tones from the sunset light the scene, with soft shadows; the white sheets and curtains are brightly lit. The overall style is a digital photograph or photo-realistic edit, smooth and soft-focused.
+
+Mood: warm, intimate, sensual, and calm, evoking a sunset at a coastal retreat. No visible text, captions, watermarks, or interface elements are present.
