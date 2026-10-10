@@ -1,11 +1,13 @@
-## Image (resized) by Layla - 2026-10-10 08:17 UTC
+## Image (resized) by Layla - 2026-10-10 18:43 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/rafaela/rafaela-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/rafaela-new-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
-A straight-on portrait of a woman standing on a sandy beach at sunset, framed from the top of her head down to her mid-thigh. She has long, dark brown wavy hair that the wind pushes toward her right (the left side of the frame), catching warm light along the strands. Her face is centered, with a relaxed, confident expression and a slight closed-mouth smile. She is tanned with full cheeks and full lips.
+A medium shot of a woman standing on a rooftop terrace, photographed from the waist up against a panoramic city backdrop at sunset. She is a South Asian or mixed-race woman with long, dark brown hair parted in the middle and falling loosely over her shoulders. Her face is turned slightly toward the camera, and she is laughing genuinely with her mouth wide open, showing teeth, eyes crinkled in amusement. She wears a thin gold chain necklace.
 
-She wears a fitted white linen dress with a deep low scoop neckline that shows her décolleté and cleavage; the fabric hugs her torso and has subtle vertical texture. A thin gold chain necklace rests at her collarbone. Her arms hang loosely at her sides.
+Her outfit is a fitted emerald green wrap dress with short sleeves and a deep low V neckline that exposes her full bust; the wrap panels cross at the chest and tie or tuck at the waist, with visible folds of fabric at the side. The dress appears knee-length in cut though only the torso is fully shown.
 
-Behind her is the setting scene: a calm ocean with low white-crested waves, a flat horizon line, and a pale orange-and-peach sunset sky fading to soft yellow near the left where the low sun glows. Wet sand reflects the golden light in the lower left, while drier textured sand fills the lower right. A single palm tree is visible on the far right horizon.
+She stands behind a black wrought-iron balustrade with ornamental scrollwork, her arms resting on the railing, shoulders relaxed and slightly angled toward the viewer. The composition centers her body, with the railing cutting diagonally across the lower third of the frame.
 
-The lighting is warm golden-hour light coming from the left, rim-lighting her hair and skin and casting soft shadows on her right side. The medium is a photographic portrait, likely a photo edit altering the original background and outfit. The overall mood is warm, serene, and confident. There is no visible text in the image.
+The background shows a classic Lisbon rooftopscape: rows of terracotta-orange tiled roofs, pale white and cream stucco buildings, and a few domed or bell-towered structures. Beyond the city to the right, a wide body of water—readable as the Tagus river—stretches to the horizon under a soft warm sky. The lighting is warm golden-hour light coming from the left (her right), casting a glowing rim on her hair and left arm and filling the scene with amber and orange tones; the sky fades from pale yellow near the horizon to a muted blue-grey at the top.
+
+Colour palette overall: emerald green dress, terracotta orange roofs, golden skin tones, warm sky. The style is a realistic digital photograph or photorealistic edited image, with smooth skin and slightly idealized lighting consistent with AI image editing. No visible text, captions, watermarks, or logos appear in the image. The mood is warm, joyful, and relaxed, evoking a carefree evening out.
