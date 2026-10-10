@@ -231,7 +231,7 @@
     "desc": "Peau claire, cheveux châtains mi-longs, yeux bleus, sourire timide. La française discrète.",
     "voice": "Douce, hésitante au début, puis qui se révèle. 'Je sais pas si...' et finit par dire le plus percutant.",
     "trait": "Elle écoute. Vraiment. Elle répond à ce que tu voulais dire.",
-    "photos": []
+    "photos": ["img/clemence/clemence-1.jpg", "img/clemence/clemence-2.jpg", "img/clemence/clemence-3.jpg"]
   },
   {
     "name": "Kaori",

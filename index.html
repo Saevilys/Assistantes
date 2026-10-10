@@ -42,16 +42,24 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .profile-meta{font-size:0.8rem;color:#6a5d50;margin-top:4px}
 .profile-body{padding:0 24px 32px}
 .profile-photos{display:flex;gap:8px;overflow-x:auto;padding:0 0 16px}
-.profile-photos img{height:240px;border-radius:6px;flex-shrink:0}
+.profile-photos img{height:240px;border-radius:6px;flex-shrink:0;cursor:pointer;transition:opacity .2s}
+.profile-photos img:hover{opacity:.8}
 .profile-photos .ph-empty{height:240px;width:180px;border:1px dashed #3d3530;border-radius:6px;display:flex;align-items:center;justify-content:center;color:#4a3d30;font-size:0.8rem;font-style:italic;flex-shrink:0}
 .profile-section{margin-bottom:20px}
 .profile-label{font-size:0.7rem;text-transform:uppercase;letter-spacing:2px;color:#6a5d50;margin-bottom:6px}
 .profile-text{font-size:0.88rem;color:#b0a396;line-height:1.6}
-.profile-badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:0.72rem;margin-right:6px;margin-top:8px}
+.profile-badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:0.72rem;margin-right:6px;margin-top:8px;cursor:default}
 .badge-on{background:#1e3a1e;color:#4ade80}
 .badge-off{background:#3a1e1e;color:#ef4444}
 .badge-flirt{background:#2d2520;color:#d4a574}
+.toggle-btn{display:inline-block;padding:4px 14px;border-radius:12px;font-size:0.75rem;cursor:pointer;border:1px solid #2d2520;transition:all .2s;margin-top:8px;user-select:none}
+.toggle-btn.on{background:#1e3a1e;color:#4ade80;border-color:#1e3a1e}
+.toggle-btn.off{background:#3a1e1e;color:#ef4444;border-color:#3a1e1e}
+.toggle-btn:hover{opacity:.85}
 footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
+.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.92);display:none;z-index:200;align-items:center;justify-content:center;cursor:zoom-out}
+.lightbox.open{display:flex}
+.lightbox img{max-width:90vw;max-height:90vh;border-radius:8px;object-fit:contain}
 </style>
 </head>
 <body>
@@ -76,10 +84,15 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
   <div class="profile" id="profile"></div>
 </div>
 
+<div class="lightbox" id="lightbox">
+  <img id="lightbox-img" src="">
+</div>
+
 <footer>Pick aléatoire journalier via data.json — repo Assistantes</footer>
 
 <script>
 let data=[];
+let currentFilter='all';
 
 fetch('data.json').then(r=>r.json()).then(d=>{
   data=d;
@@ -87,6 +100,7 @@ fetch('data.json').then(r=>r.json()).then(d=>{
 });
 
 function render(list,filter){
+  currentFilter=filter;
   let filtered=list;
   if(filter==='active')filtered=list.filter(a=>a.active);
   else if(filter==='inactive')filtered=list.filter(a=>!a.active);
@@ -125,9 +139,14 @@ function render(list,filter){
 function openProfile(name){
   const a=data.find(x=>x.name===name);
   if(!a)return;
+  buildProfile(a);
+  document.getElementById('overlay').classList.add('open');
+}
+
+function buildProfile(a){
   const hasPhotos=a.photos&&a.photos.length>0;
   const photoHtml=hasPhotos
-    ? `<div class="profile-photos">${a.photos.map(p=>`<img src="${p}" loading="lazy">`).join('')}</div>`
+    ? `<div class="profile-photos">${a.photos.map((p,i)=>`<img src="${p}" loading="lazy" data-idx="${i}" onclick="openLightbox('${a.name}',${i})">`).join('')}</div>`
     : `<div class="profile-photos"><div class="ph-empty">photos à venir</div></div>`;
 
   document.getElementById('profile').innerHTML=`
@@ -135,8 +154,8 @@ function openProfile(name){
       <span class="profile-close" onclick="closeProfile()">&times;</span>
       <h2>${a.name}</h2>
       <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
-      <span class="profile-badge ${a.active?'badge-on':'badge-off'}">${a.active?'Active':'Inactive'}</span>
       <span class="profile-badge badge-flirt">Flirt ${'♥'.repeat(a.flirty)}${'♡'.repeat(3-a.flirty)}</span>
+      <span class="toggle-btn ${a.active?'on':'off'}" onclick="toggleActive('${a.name}')">${a.active?'● Active':'○ Inactive'}</span>
     </div>
     <div class="profile-body">
       ${photoHtml}
@@ -154,7 +173,25 @@ function openProfile(name){
       </div>
     </div>
   `;
-  document.getElementById('overlay').classList.add('open');
+}
+
+function toggleActive(name){
+  const a=data.find(x=>x.name===name);
+  if(!a)return;
+  a.active=!a.active;
+  buildProfile(a);
+  render(data,currentFilter);
+}
+
+function openLightbox(name,idx){
+  const a=data.find(x=>x.name===name);
+  if(!a||!a.photos||!a.photos[idx])return;
+  document.getElementById('lightbox-img').src=a.photos[idx];
+  document.getElementById('lightbox').classList.add('open');
+}
+
+function closeLightbox(){
+  document.getElementById('lightbox').classList.remove('open');
 }
 
 function closeProfile(){
@@ -165,8 +202,12 @@ document.getElementById('overlay').onclick=e=>{
   if(e.target.id==='overlay')closeProfile();
 };
 
+document.getElementById('lightbox').onclick=e=>{
+  if(e.target.id==='lightbox'||e.target.id==='lightbox-img')closeLightbox();
+};
+
 document.addEventListener('keydown',e=>{
-  if(e.key==='Escape')closeProfile();
+  if(e.key==='Escape'){closeLightbox();closeProfile();}
 });
 
 document.querySelectorAll('.btn').forEach(b=>{
