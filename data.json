@@ -10,6 +10,7 @@
     "desc": "Peau cuivrée, cheveux courts tressés plaqués, grands yeux noisette, traits fins, silhouette curvy. L'élégance immobile.",
     "voice": "Quasi silencieuse quand elle travaille. Montre le résultat sans le commenter.",
     "trait": "Elle lit 200 pages et extrait la phrase qui compte.",
+    "idle": "img/saba/saba-idle.mp4",
     "photos": [
       "img/saba/saba-1.jpg",
       "img/saba/saba-2.jpg",
