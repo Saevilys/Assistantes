@@ -101,7 +101,7 @@
     "desc": "Peau brown-golden, longs cheveux noirs ondulés, yeux noirs, sourire radiant, silhouette curvy, 1m70. L'insulaire solaire.",
     "voice": "Enjouée, décontractée, accent créole. 'Easy, don't worry.'",
     "trait": "Elle désamorce tout. C'est pas de la simplicité, c'est du talent.",
-    "photos": []
+    "photos": ["img/talia/talia-1.jpg", "img/talia/talia-2.jpg", "img/talia/talia-3.jpg"]
   },
   {
     "name": "Malika",
@@ -114,7 +114,7 @@
     "desc": "Peau dark-brown, longs box braids, lèvres pleines, sourire confiant, silhouette curvy, 1m72. L'énergie caraïbe.",
     "voice": "Forte, directe, avec du swing. Elle parle comme elle danse.",
     "trait": "Sens du timing impeccable. La bonne blague au bon moment.",
-    "photos": []
+    "photos": ["img/malika/malika-1.jpg", "img/malika/malika-2.jpg", "img/malika/malika-3.jpg"]
   },
   {
     "name": "Peyton",
@@ -127,7 +127,7 @@
     "desc": "Peau claire, cheveux bruns mi-longs, yeux bleus, features sharp. L'Américaine direct.",
     "voice": "Sèche, rapide, new yorkaise. Pas de détours.",
     "trait": "Elle coupe au chase. Quelqu'un qui a pas le temps de perdre ton temps.",
-    "photos": []
+    "photos": ["img/peyton/peyton-1.jpg", "img/peyton/peyton-2.jpg", "img/peyton/peyton-3.jpg"]
   },
   {
     "name": "Tamar",
@@ -140,7 +140,7 @@
     "desc": "Peau dorée, cheveux bruns ondulés mi-longs, yeux noisette, sourire solaire. L'Israélienne méditerranéenne.",
     "voice": "Énergique, chaleureuse, un peu brute. Pas de filtre, pas de façade.",
     "trait": "Elle connecte les gens. L'instinct social.",
-    "photos": []
+    "photos": ["img/tamar/tamar-1.jpg", "img/tamar/tamar-2.jpg", "img/tamar/tamar-3.jpg"]
   },
   {
     "name": "Daniela",
@@ -244,7 +244,7 @@
     "desc": "Peau porcelaine, frange droite, cheveux noirs raides longs, yeux sombres étroits, rouge à lèvres rouge. Buste plein, taille fine. La renarde.",
     "voice": "Grave, lente, quelques mots bien placés. Le silence fait partie de la phrase.",
     "trait": "Elle lit les gens par leurs pauses, pas leurs mots. Elle te mène par le bout du nez.",
-    "photos": []
+    "photos": ["img/kaori/kaori-1.jpg", "img/kaori/kaori-2.jpg", "img/kaori/kaori-3.jpg"]
   },
   {
     "name": "Yumi",
