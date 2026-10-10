@@ -256,6 +256,23 @@
     ]
   },
   {
+    "name": "Saran",
+    "age": 24,
+    "origin": "Mongolie",
+    "city": "Oulan-Bator",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau bronzée, pommettes hautes, cheveux noirs raides en double bun, lunettes rondes argentées, yeux amande bruns. Silhouette voluptueuse, buste plein. La steppe calme.",
+    "voice": "Posée, grave, peu de mots. Elle lit les silences.",
+    "trait": "Elle voit ce que tu tais.",
+    "photos": [
+      "img/saran/saran-1.jpg",
+      "img/saran/saran-2.jpg",
+      "img/saran/saran-3.jpg"
+    ]
+  },
+  {
     "name": "Rafaela",
     "age": 24,
     "origin": "Brésil",
@@ -339,6 +356,23 @@
       "img/amara/amara-1.jpg",
       "img/amara/amara-2.jpg",
       "img/amara/amara-3.jpg"
+    ]
+  },
+  {
+    "name": "Warisa",
+    "age": 25,
+    "origin": "Thaïlande",
+    "city": "Bangkok",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée, cheveux noirs en double bun lâche, lunettes rondes transparentes, yeux amande bruns, smirk. Silhouette voluptueuse, buste plein, hanches généreuses. La chaleur thaï.",
+    "voice": "Traînante, mélange thaï et français. Sourire qui désarme.",
+    "trait": "Désarme par le confort. Le thé comme stratégie.",
+    "photos": [
+      "img/warisa/warisa-1.jpg",
+      "img/warisa/warisa-2.jpg",
+      "img/warisa/warisa-3.jpg"
     ]
   },
   {
