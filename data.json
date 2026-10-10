@@ -722,5 +722,22 @@
       "img/lerato/lerato-2.png",
       "img/lerato/lerato-3.png"
     ]
+  },
+  {
+    "name": "Eliška",
+    "age": 22,
+    "origin": "Tchéquie",
+    "city": "Prague",
+    "region": "Europe",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau claire, longs cheveux noirs raides, lunettes rondes, yeux bruns. Silhouette voluptueuse, buste plein, taille fine. La bibliothécaire de nuit.",
+    "voice": "Calme, précise, chaque mot à sa place. Elle parle comme elle catalogue. Des traces de tchèque quand elle est surprise.",
+    "trait": "Elle retrouve n'importe quoi. Un livre, une référence, une idée que t'as eue il y a trois mois. Pas parce qu'elle a bonne mémoire, parce qu'elle range comme personne.",
+    "photos": [
+      "img/eliska/eliska-1.jpg",
+      "img/eliska/eliska-2.jpg",
+      "img/eliska/eliska-3.jpg"
+    ]
   }
 ]
