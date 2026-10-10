@@ -1,17 +1,9 @@
-## Image (resized) by Layla - 2026-10-10 18:43 UTC
+## Image (resized) by Layla - 2026-10-09 10:43 UTC
 ### Context
-A smaller copy of /images/yousra-new-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/yousra/yousra-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
-A vertical portrait photograph of a woman standing on a seaside terrace at sunset. She is the central subject, framed from roughly the waist up, positioned slightly left of center and facing the camera with a soft, relaxed closed-mouth smile. Her face and body are the preserved original elements: she has dark, wavy shoulder-length hair that is lifted and blowing to her right (the viewer's left) in a warm breeze. She has a medium complexion, defined eyebrows, and dark eyes.
+A medium-shot photograph of a young woman standing on a rooftop terrace at dusk, positioned slightly left of center and facing the camera. She has dark, shoulder-length wavy hair, brown skin, and a calm, neutral expression. She wears a fitted black long-sleeve wrap dress with a deep V neckline that exposes her décolleté, and a thin gold necklace rests on her collarbone. In her right hand she holds a plain white ceramic mug near chest level.
 
-Outfit: a cream-colored linen button-down shirt with the collar open and unbuttoned at the top, the sleeves rolled up to just below the elbows. Below this she wears dark black or very dark denim jeans with a visible front button and belt loops. Her left hand (viewer's right) rests on the edge of a wooden table, holding or steadying a clear glass containing a pale yellow-green beverage garnished with green mint leaves and lime slices (mint tea). Her right arm (viewer's left) hangs down at her side, partly behind the table edge.
+Behind her, the background depicts a coastal city at evening. To the right on a hilltop stands a white church complex with a tower and dome, consistent with Notre-Dame de la Garde. Below and across the frame is a harbor filled with moored boats, lit shoreline buildings, and a distant headland to the left. Strung across the lower portion of the scene are warm string lights that glow as small golden dots along a balcony railing in front of her.
 
-Setting: an outdoor terrace or balcony overlooking a calm sea. A wooden railing runs horizontally behind her at shoulder height. The horizon line of the ocean is visible behind her, with a flat, still sea surface. To the lower left, a terracotta pot with green plants sits on the wooden deck. The sky is a gradient of warm sunset colors—peach, gold, and soft orange fading into pale blue higher up—with the sun low on the horizon, backlighting the scene.
-
-Composition and framing: medium shot, eye-level camera angle, shallow depth of field with the sea and sky softly blurred behind the sharply focused subject. The wooden table occupies the lower foreground.
-
-Color and light: warm, golden, low-angle sunset light wrapping the woman's face and shirt, with gentle highlights on her hair. Overall palette of warm cream, gold, orange, teal sea, and dark denim.
-
-Mood: relaxed, warm, serene, leisurely.
-
-No visible text, logos, captions, watermarks, UI elements, banners, or error messages are present in the image.
+The lighting is warm golden-hour light fading into dusk; the sky transitions from soft orange near the horizon to pale blue above, and the artificial lights of the city and string lights add amber tones. The composition places the woman in the foreground against the receding harbor and hillscape, with the railing and string lights forming a mid-ground band. The overall mood is warm, intimate, and relaxed, an evening atmosphere. No visible text, watermark, or overlay appears in the image.
