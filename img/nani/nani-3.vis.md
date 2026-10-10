@@ -1,0 +1,9 @@
+## Image (resized) by Layla - 2026-10-10 01:34 UTC
+### Context
+A smaller copy of /images/nani-v3b.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+### Vision
+The image shows a young woman with long, dark, wet hair seated on a sandy beach at night, positioned atop a white surfboard or board-like object that runs horizontally across the lower portion of the frame. She is wearing a small red string bikini top and matching red string bikini bottoms with side ties, and the editing has made her breasts substantially larger and fuller, heavy and pressing against the thin red fabric. Her right arm extends down to one side as she leans, and her left leg is bent forward with the knee raised toward the viewer.
+
+The setting is a beach at night under a dark sky. Behind her the ocean horizon is visible with a bright point of light—likely the moon—low in the sky casting a faint shimmer on the water, and a band of dark clouds stretches across the upper background. The lighting on the subject is bright and direct, typical of a camera flash, which illuminates her skin and the red bikini against the dark surroundings, creating a strong contrast between the well-lit foreground figure and the dimly lit sea and sky.
+
+Compositionally, the woman is the central subject, framed from roughly the thighs up, angled slightly toward the camera with a faint smile. The surfboard she rests on occupies the bottom edge, while the sea, horizon, and night sky fill the upper two-thirds of the frame. Colours are dominated by the deep red of the bikini, the warm tones of her sun-tanned skin, the off-white of the board, and the muted blues and greys of the night sea and sky. The overall mood is a posed nighttime beach portrait, with the editing emphasizing an exaggerated, heavy bust straining against the tiny bikini top while the rest of the scene remains unchanged. There is no visible text, watermark, or interface elements in the image.

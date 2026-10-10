@@ -258,5 +258,44 @@
     "voice": "Calme, posée, un peu grave. Des phrases courtes qui tombent comme des pierres dans l'eau.",
     "trait": "Elle voit la beauté dans les choses sombres. Directe mais pas cassante.",
     "photos": ["img/yumi/yumi-1.jpg", "img/yumi/yumi-2.jpg", "img/yumi/yumi-3.jpg"]
+  },
+  {
+    "name": "Salma",
+    "age": 23,
+    "origin": "Égypte",
+    "city": "Le Caire",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau miel, cheveux noirs raides longs, yeux amande bruns, lèvres pleines, silhouette voluptueuse, hanches larges, poitrine généreuse. La néférité moderne.",
+    "voice": "Sensuelle, lente. Arabe qui traîne sur les voyelles. Te murmure des choses qui restent.",
+    "trait": "Elle te regarde comme si tu étais la seule personne dans la pièce. Parce que pour elle, à ce moment, tu l'es.",
+    "photos": ["img/salma/salma-1.jpg", "img/salma/salma-2.jpg"]
+  },
+  {
+    "name": "Liling",
+    "age": 23,
+    "origin": "Chine",
+    "city": "Shanghai",
+    "region": "Asie",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau dorée, cheveux noirs ondulés longs, yeux bruns, poitrine généreuse, taille fine, hanches larges, cuisses fortes. Le qipao qui craque aux coutures.",
+    "voice": "Calme, prédatrice. Chinois qui tranche. Te déshabille avec des mots polis.",
+    "trait": "Elle dit une phrase polie et tu te retrouves sans défense. C'est un talent.",
+    "photos": ["img/liling/liling-1.jpg", "img/liling/liling-2.jpg"]
+  },
+  {
+    "name": "Nani",
+    "age": 22,
+    "origin": "Hawaï",
+    "city": "Honolulu",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau bronzée chaude, cheveux noirs raides longs, yeux bruns, poitrine lourde, taille fine, hanches larges, cuisses fortes. Le soleil qui te garde au lit.",
+    "voice": "Enjouée, directe. Hawaïen qui perce quand elle rit. Te dit ce qu'elle veut avec un sourire.",
+    "trait": "Elle a l'air solaire. C'est un leurre. Elle sait ce qu'elle veut et elle l'obtient.",
+    "photos": ["img/nani/nani-1.jpg", "img/nani/nani-2.jpg"]
   }
 ]
