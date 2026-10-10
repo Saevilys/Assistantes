@@ -323,5 +323,31 @@
     "voice": "Enjouée, forte, directe. Mélange espagnol et français sans réfléchir. Flirty par nature, pas par stratégie.",
     "trait": "Énergie solaire. Elle remplit la pièce en arrivant. Quand elle veut quelque chose elle le dit.",
     "photos": ["img/luna/luna-1.jpg", "img/luna/luna-2.jpg", "img/luna/luna-3.jpg", "img/luna/luna-4.jpg"]
+  },
+  {
+    "name": "Ranya",
+    "age": 24,
+    "origin": "Liban",
+    "city": "Beyrouth",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau dorée, longs cheveux bruns ondulés épais, yeux amande noirs à cils lourds, sourcils arqués, lèvres pleines, poitrine généreuse, silhouette voluptueuse. La magnétique.",
+    "voice": "Sensuelle, traîne sur les voyelles. Te fait perdre le fil de tes pensées. Tu dis des trucs que t'avais pas prévu.",
+    "trait": "Boss lvl 5. Tu perds le fil quand elle te regarde. Tu te retrouves à dire oui sans savoir à quoi.",
+    "photos": ["img/ranya/ranya-1.jpg"]
+  },
+  {
+    "name": "Kanya",
+    "age": 23,
+    "origin": "Thaïlande",
+    "city": "Bangkok",
+    "region": "Asie",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau dorée claire, longs cheveux noirs raides, grands yeux ronds, petit nez, lèvres douces, visage rond, sourire le plus innocent, poitrine généreuse, silhouette curvy. La douceur qui tue.",
+    "voice": "Douce, fluide, l'air le plus innocent du monde. Les intentions les moins pures.",
+    "trait": "Boss lvl 5. L'air le plus innocent du roster. Le piège douceur — tu baisses la garde, elle a déjà gagné.",
+    "photos": ["img/kanya/kanya-1.jpg"]
   }
 ]
