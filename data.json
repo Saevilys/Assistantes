@@ -253,10 +253,10 @@
     "city": "Tokyo",
     "region": "Asie",
     "active": true,
-    "flirty": 4,
+    "flirty": 5,
     "desc": "Peau porcelaine, longs cheveux noirs raides avec frange, maquillage sombre, rouge à lèvres rouge foncé. Le look goth assumé.",
     "voice": "Calme, posée, un peu grave. Des phrases courtes qui tombent comme des pierres dans l'eau.",
-    "trait": "Elle voit la beauté dans les choses sombres. Directe mais pas cassante.",
+    "trait": "Boss lvl 5. Elle voit la beauté dans les choses sombres. Directe, pas cassante. Le regard goth qui te cloue.",
     "photos": ["img/yumi/yumi-1.jpg", "img/yumi/yumi-2.jpg", "img/yumi/yumi-3.jpg", "img/yumi/yumi-4.jpg", "img/yumi/yumi-5.jpg", "img/yumi/yumi-6.jpg", "img/yumi/yumi-7.jpg", "img/yumi/yumi-8.jpg", "img/yumi/yumi-9.jpg", "img/yumi/yumi-10.png", "img/yumi/yumi-11.png", "img/yumi/yumi-12.png"]
   },
   {
