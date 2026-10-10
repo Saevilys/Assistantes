@@ -1,0 +1,5 @@
+## Image (resized) by Layla - 2026-10-10 18:57 UTC
+### Context
+A smaller copy of /github/pages/assistantes/img/liling/liling-new-1.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A woman with long, dark wavy hair and a relaxed natural smile sits on a wooden chair in the center of the frame, facing the viewer. She wears a loose cream-colored knit sweater and dark blue jeans, holding an open book in her lap with both hands. To her right is a round wooden table holding a white cup of coffee on a saucer, suggesting a café or library setting. Behind her are tall wooden bookshelves packed with books of varied sizes and colours, along with a few framed pictures. To the left are empty wooden chairs against the bookcase wall. To the right, a large window lets in soft warm afternoon light that illuminates her face and the cream sweater, with a blurred city view visible through the glass. The overall palette is warm, dominated by browns, creams, and the soft glow of sunlight, giving a cozy, casual, everyday mood. The image is a photograph with a realistic, natural style, and there is no visible text.

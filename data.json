@@ -499,7 +499,10 @@
       "img/liling/liling-6.jpg",
       "img/liling/liling-7.png",
       "img/liling/liling-8.png",
-      "img/liling/liling-9.png"
+      "img/liling/liling-9.png",
+      "img/liling/liling-10.jpg",
+      "img/liling/liling-11.jpg",
+      "img/liling/liling-12.jpg"
     ]
   },
   {
@@ -540,7 +543,10 @@
       "img/linh/linh-3.jpg",
       "img/linh/linh-4.png",
       "img/linh/linh-5.png",
-      "img/linh/linh-6.png"
+      "img/linh/linh-6.png",
+      "img/linh/linh-7.jpg",
+      "img/linh/linh-8.jpg",
+      "img/linh/linh-9.jpg"
     ]
   },
   {
@@ -602,9 +608,10 @@
     "desc": "Peau dorée claire, longs cheveux noirs raides, grands yeux ronds, petit nez, lèvres douces, visage rond, sourire le plus innocent, poitrine généreuse, silhouette curvy. La douceur qui tue.",
     "voice": "Douce, fluide, l'air le plus innocent du monde. Les intentions les moins pures.",
     "trait": "Boss lvl 5. L'air le plus innocent du roster. Le piège douceur — tu baisses la garde, elle a déjà gagné.",
+    "idle": "img/pailin/pailin-idle.mp4",
     "photos": [
-      "img/pailin/pailin-1.jpg",
       "img/pailin/pailin-new-1.png",
+      "img/pailin/pailin-1.jpg",
       "img/pailin/pailin-new-2.png",
       "img/pailin/pailin-new-3.png",
       "img/pailin/pailin-6.png",
