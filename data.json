@@ -376,6 +376,29 @@
     ]
   },
   {
+    "name": "Minjee",
+    "age": 23,
+    "origin": "Corée",
+    "city": "Séoul",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau porcelaine, longs cheveux noirs raides avec frange droite, yeux sombres, rouge à lèvres berry, maquillage smokey. Silhouette voluptueuse, buste plein, hanches généreuses. Le goth tranquille.",
+    "voice": "Calme, posée, un smirk permanent. Directe quand elle lance, nette quand elle coupe. Le silence fait le reste.",
+    "trait": "Elle te regarde sans rien dire et tu sais. Le goth qui assume sans jouer un rôle.",
+    "photos": [
+      "img/minjee/minjee-1.png",
+      "img/minjee/minjee-2.png",
+      "img/minjee/minjee-3.png",
+      "img/minjee/minjee-4.png",
+      "img/minjee/minjee-5.png",
+      "img/minjee/minjee-6.png",
+      "img/minjee/minjee-7.png",
+      "img/minjee/minjee-8.png",
+      "img/minjee/minjee-9.png"
+    ]
+  },
+  {
     "name": "Meilin",
     "age": 23,
     "origin": "Malaisie",
