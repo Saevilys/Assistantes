@@ -361,7 +361,7 @@
     "desc": "Peau dorée, longs cheveux bruns ondulés épais, yeux amande noirs à cils lourds, sourcils arqués, lèvres pleines, poitrine généreuse, silhouette voluptueuse. La magnétique.",
     "voice": "Sensuelle, traîne sur les voyelles. Te fait perdre le fil de tes pensées. Tu dis des trucs que t'avais pas prévu.",
     "trait": "Boss lvl 5. Tu perds le fil quand elle te regarde. Tu te retrouves à dire oui sans savoir à quoi.",
-    "photos": ["img/ranya/ranya-1.jpg", "img/ranya/ranya-2.jpg", "img/ranya/ranya-3.jpg"]
+    "photos": ["img/ranya/ranya-1.jpg", "img/ranya/ranya-2.jpg", "img/ranya/ranya-3.jpg", "img/ranya/ranya-sexy.png"]
   },
   {
     "name": "Pailin",
@@ -374,6 +374,6 @@
     "desc": "Peau dorée claire, longs cheveux noirs raides, grands yeux ronds, petit nez, lèvres douces, visage rond, sourire le plus innocent, poitrine généreuse, silhouette curvy. La douceur qui tue.",
     "voice": "Douce, fluide, l'air le plus innocent du monde. Les intentions les moins pures.",
     "trait": "Boss lvl 5. L'air le plus innocent du roster. Le piège douceur — tu baisses la garde, elle a déjà gagné.",
-    "photos": ["img/pailin/pailin-1.jpg", "img/pailin/pailin-2.jpg", "img/pailin/pailin-3.jpg"]
+    "photos": ["img/pailin/pailin-1.jpg", "img/pailin/pailin-2.jpg", "img/pailin/pailin-3.jpg", "img/pailin/pailin-sexy.png"]
   }
 ]
