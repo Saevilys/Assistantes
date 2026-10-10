@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:51 UTC
+## Image (resized) by Layla - 2026-10-10 08:14 UTC
 ### Context
-A smaller copy of /images/liling-v2-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-v2-3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A photorealistic vertical photograph showing a young East Asian woman standing indoors in a dimly lit bedroom. She is positioned in the center of the frame, captured from the head down to mid-thigh. She has long, dark, wavy hair that falls past her shoulders, brown eyes, fair-to-golden skin, and a calm expression with a faint closed-mouth smile. Her gaze is directed toward the camera. She stands with her left hand resting on her hip and her right arm hanging at her side.
 

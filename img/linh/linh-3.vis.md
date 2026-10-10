@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 20:14 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/linh-cast-v3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/linh-cast-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A photorealistic vertical portrait of a young East Asian woman, presented as a 22-year-old Vietnamese woman, seated and angled in three-quarter profile with her face turned toward the left of the frame. She has fair skin, a middle part of long straight black hair falling past her shoulders down her back, delicate facial features, and almond-shaped dark eyes with a calm, downward gaze. Her slender build with a fuller bust is emphasized by the fit of her garment: a deep red, modern ao dai-style dress with long sleeves, a high mandarin collar at the neck, and a small horizontal slit visible at her right hip. The dress fabric shows fine creases and folds around the waist and seated thighs, with the hem pooling at the bottom edge of the frame.
 

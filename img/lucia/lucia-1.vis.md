@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 19:17 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /sites/casting/img/latines/lucia/lucia-1.jpg (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /sites/casting/img/latines/lucia/lucia-1.jpg (683×800 → 683×800, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical photorealistic portrait of a young woman seated at a table, shot at roughly chest level with her centered in the frame. She appears to be in her mid-twenties, with medium-length wavy honey-blonde hair that falls over her shoulders and frames her face. Her skin is tanned with a warm olive tone, and her eyes are dark brown, looking directly toward the camera. She wears a fitted short-sleeved white scoop-neck top; the top of dark denim jeans is just visible at the bottom edge. Her posture is relaxed, one arm resting across a wooden table in the foreground, and she has a faint, closed-mouth smile.
 

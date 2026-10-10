@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:21 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/salma-drap.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/salma-drap.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 The image shows a woman lying on her back on a bed with white linens. She has long straight black hair spread loose across a white pillow, dark almond-shaped eyes with a calm, half-lidded expression, and full lips. Her skin is honey-tan. One arm is raised above her head with the hand resting behind it; the other hand grips the edge of a sheet at her collarbone. A sheer transparent white sheet is draped across her torso and lower body, revealing the contours of her breasts, nipples, waist, hips and thighs beneath the fabric. The framing runs from the head down to the hips.
 

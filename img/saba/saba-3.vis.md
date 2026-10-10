@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-3.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-3.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A waist-up portrait of a young Ethiopian woman standing outdoors at night, facing the camera directly with a calm, confident, slight-smile expression. She has rich copper-brown skin, short tight braids pressed close to her scalp, large hazel-brown eyes, high cheekbones, a defined nose, and full lips. Her figure is curvy with a fuller bust, a narrow waist, and visible décolleté. She wears a fitted black off-the-shoulder top with short sleeves, dark-wash jeans with a visible front button and belt loops, and a thin gold chain necklace bearing small dangling charms. Gold earrings are faintly visible. The skin shows fine texture and realistic detail consistent with a smartphone camera, with no visible artistic brushwork.
 

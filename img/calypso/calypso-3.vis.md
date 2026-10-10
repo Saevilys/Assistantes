@@ -1,4 +1,4 @@
-## Image (resized) by Layla - 2026-10-08 12:32 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
 A smaller copy of /images/calypso-3-young.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision

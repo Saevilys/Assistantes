@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-2.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A photorealistic, vertical medium-shot photograph of a young woman standing on a rooftop at dusk, framed from roughly the waist up and centered in the frame. She has warm golden-brown skin, long black wavy hair parted in the middle that falls past her shoulders, dark brown eyes, thick arched eyebrows, full lips, and a calm, slightly serious, contemplative expression directed just off-camera to her left. She wears small gold dangling earrings, a fitted black turtleneck, and a dark forest-green coat or blazer draped open over her shoulders, with the hem of dark trousers visible at the bottom edge.
 

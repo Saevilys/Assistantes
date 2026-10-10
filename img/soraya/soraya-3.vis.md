@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-3.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-3.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A medium portrait of a young woman with dark, wavy shoulder-length hair and brown eyes, smiling broadly with teeth showing, seated cross-legged on a patterned red-and-blue oriental-style rug. She wears a white silk V-neck camisole with thin spaghetti straps and a gold disc earring in her visible ear; the camisole drapes smoothly over a fuller chest with gentle natural folds, consistent with a curvy bust proportion. Her right arm rests on the edge of a wooden coffee table in the left foreground, where a stack of hardcover books and a white ceramic teapot sit. She is dressed in light beige/cream trousers.
 

@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:29 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/nani-casting.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/nani-casting.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 The image depicts a full-body portrait of a young woman, shown from the top of her head down to her knees, standing on a sandy beach with the ocean behind her. She has warm tanned skin, long straight black hair parted in the middle and falling past her shoulders, brown eyes, and a youthful face. She is smiling with an open mouth, showing teeth, and biting her lower lip in a playful expression. Her body type is hourglass with a heavy bust, narrow waist, wide hips, and thick thighs. She wears a tight, sleeveless, low-cut white sundress with a deep plunging V-neckline and a high thigh slit on her left side, leaving part of her left thigh exposed. Her arms hang at her sides.
 

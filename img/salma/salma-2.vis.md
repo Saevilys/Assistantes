@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:29 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/salma-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/salma-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 The image is a photorealistic photograph, presented in a raw, unedited style that simulates phone-camera quality with subtle grain and realistic skin texture showing pores. It depicts a young woman with long straight black hair and warm honey-toned skin, standing and leaning against the edge of a doorway or wall on the left side of the frame. Her right hand rests flat against the textured, weathered plaster of the wall beside her. She wears a low-cut black silk slip dress with a draped, gathered neckline; one thin strap slips off her left shoulder, exposing her collarbone and upper chest. The dress is short, ending above the knee, and clings to her figure, emphasizing her waist and hips.
 

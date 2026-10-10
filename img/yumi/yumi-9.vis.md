@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:12 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /images/yumi-drap-transparent.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-drap-transparent.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A full-frame, photorealistic image rendered to resemble a raw smartphone photograph, with visible grain and natural skin texture. The subject is a young East Asian woman lying supine on white bed linen, centered in the frame from the top of her head down to her upper thighs. She has long, straight black hair with blunt bangs that fan out across the white pillow, heavy dark smoky eye makeup that appears slightly smudged, and deep dark-red/maroon lipstick. Her eyes are half-lidded and she looks directly toward the camera with a calm, drowsy expression.
 

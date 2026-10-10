@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:12 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/yumi-transparent-outfit.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-transparent-outfit.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic image styled to look like a grainy raw smartphone photo, with visible grain and skin texture and no painterly smoothing. The subject is a young East Asian woman with long straight jet-black hair cut with blunt bangs, heavy smoky dark eye makeup, and deep maroon lipstick. She has a very full bust, a narrow waist, and wide hips. She wears a sheer transparent black fishnet mesh long-sleeve bodysuit with nothing underneath; the mesh clings to her skin and the outline of her large breasts, nipples, and areolas are clearly visible through it. She also wears black high-waisted shorts that are unbuttoned at the waist.
 

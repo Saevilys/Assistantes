@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-1.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-1.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertically oriented photograph, framed as a close-up selfie taken from a slightly low angle, showing a young woman with dark brown skin leaning against a light-colored plaster or stucco wall on the right side of the frame. She faces the camera directly with a calm, neutral, confident expression; her dark hair is short and styled tightly back against the head in small braids or twists, exposing her forehead and temples. She has large brown-hazel eyes, defined eyebrows, high cheekbones, and full lips. Small gold hoop earrings are visible in both ears.
 

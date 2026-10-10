@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:29 UTC
+## Image (resized) by Layla - 2026-10-10 08:14 UTC
 ### Context
-A smaller copy of /images/liling-casting.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-casting.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A photorealistic portrait of a young woman standing on an outdoor rooftop at dusk. The subject is a Chinese woman with long, wavy black hair falling past her shoulders, brown eyes, and a calm, polite expression with a faint closed-mouth smile. She wears a fitted emerald green qipao (cheongsam) dress with a high mandarin collar, short sleeves, and a side slit that exposes her left thigh. The dress clings to her figure, emphasizing a slim waist and wide hips. Her arms hang relaxed at her sides.
 

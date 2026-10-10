@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 20:11 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/lucia-cast-v2-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/lucia-cast-v2-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic portrait of a young woman in her mid-twenties, depicted as Brazilian, standing outdoors against a sunlit wall. She has warm tanned skin, long wavy honey-blonde hair that falls past her shoulders, and dark brown eyes. She wears a fitted white sleeveless crop top with a low square neckline and what appears to be matching white bottoms visible at the waist. Her posture is relaxed: she leans her back and right shoulder against a wall, body angled slightly toward the camera, with a soft closed-lip smile. Her expression is calm and friendly.
 

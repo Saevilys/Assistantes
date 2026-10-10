@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 06:45 UTC
+## Image (resized) by Layla - 2026-10-10 08:14 UTC
 ### Context
-A smaller copy of /images/amina-cast-v3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/amina-cast-v3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, waist-up portrait of a young woman standing in an outdoor market setting. She is centered in the frame, facing the camera directly with a calm, neutral-to-confident expression. She has dark brown skin, long thick loose black curls falling past her shoulders, prominent cheekbones, almond-shaped dark brown eyes, full lips, and a long neck. Her hair is slightly windswept, with warm light catching the right side.
 

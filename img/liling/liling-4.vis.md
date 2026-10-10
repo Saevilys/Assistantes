@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:24 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/liling-mesh.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-mesh.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, head-to-mid-thigh photorealistic portrait of a young East Asian woman seated on a nighttime balcony. She has long, wavy black hair falling past her shoulders, brown eyes, fair-to-golden skin, and a calm, faintly smiling expression as she looks directly at the camera. She wears a sheer black fishnet mesh long-sleeve bodysuit with nothing underneath, the mesh clinging to her skin so that her large breasts and nipples are clearly visible through it. Below, she wears black high-waisted shorts that are unbuttoned, leaving the top open. She sits cross-legged, leaning back onto her right hand, with her left arm extended behind her for support.
 

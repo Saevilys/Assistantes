@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-2.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/saba/saba-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A portrait photograph of a young Ethiopian woman seated on weathered stone steps, framed from roughly the thighs up in a medium shot that centers her in the frame. She has rich copper-toned skin, short dark braids pulled tight close to the scalp, large dark hazel-brown eyes, high cheekbones, and full lips set in a soft, closed-mouth smile. Small gold hoop earrings hang from her ears. She wears a fitted long-sleeved terracotta rust-colored turtleneck sweater with a small front zip opening at the neckline, leaving the upper chest and décolleté visible above the collar, and dark navy or black jeans. Her hands are folded in her lap.
 

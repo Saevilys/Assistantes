@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:34 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/salma-v3b.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/salma-v3b.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic-style image depicting a young woman seated on the edge of a bed, photographed in a casual, candid manner that mimics raw smartphone photography. The subject has long, straight black hair with a slightly tousled, bedhead appearance, tanned honey-toned skin, brown almond-shaped eyes, and full lips. She is wearing only an unbuttoned, oversized white men's dress shirt that falls open to reveal her bare chest, cleavage, and midriff; beneath the shirt she wears black lace panties. Her legs are bare and spread slightly apart. One hand reaches up to pull the open front of the shirt further apart, while the other rests on her thigh. She leans forward slightly toward the camera with a sultry, inviting expression and her gaze directed straight at the viewer.
 

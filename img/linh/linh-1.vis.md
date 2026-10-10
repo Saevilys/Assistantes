@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 19:30 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/linh-cast.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/linh-cast.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A photorealistic medium-shot portrait of a young East Asian woman seated indoors, photographed at roughly waist height. She appears to be in her early twenties, with long, straight black hair parted in the middle that falls past her shoulders. Her face is softly lit, with fair skin, delicate features, almond-shaped dark brown eyes, and a subtle, calm half-smile. She is turned slightly toward the camera, body angled, hands resting calmly on her lap.
 

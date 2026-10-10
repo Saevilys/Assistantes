@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:29 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/salma-casting.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/salma-casting.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic full-body portrait of a young woman photographed from the head down to roughly mid-thigh. She stands slightly turned toward the camera, facing the viewer, with a calm, confident expression and lips parted. She has honey-tan skin, long straight black hair falling past her shoulders, almond-shaped brown eyes, and groomed eyebrows. She wears a tight, form-fitting black short-sleeved dress with a deep scoop neckline; the fabric clings closely to her bust, cinched waist, and hips, ending in a fitted skirt. Her arms hang relaxed at her sides, hands loosely curled.
 

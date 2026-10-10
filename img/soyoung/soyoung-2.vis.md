@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:17 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/soyoung/soyoung-2.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soyoung/soyoung-2.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A waist-up portrait photograph of a young East Asian woman, likely early twenties, standing outdoors and turned slightly toward the camera with an open, laughing expression, her mouth open showing teeth and her dark brown eyes crinkled. She has long, straight black hair that blows outward to the left as if caught in a breeze, framing her face. Her skin is fair with visible texture and natural highlights, and she has almond-shaped eyes and a youthful face. She wears a light blue seersucker camisole or tank top with thin shoulder straps and a deep V-neckline that reveals her décolleté; the fabric has a fine striped, woven texture. The shot is centered and framed from roughly the waist up, with her shoulders and chest filling the foreground.
 

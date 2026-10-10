@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:17 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/soyoung/soyoung-1.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soyoung/soyoung-1.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A single, centered waist-up portrait of a young East Asian woman standing on a sandy beach, facing the camera with a faint, composed smile and her dark brown eyes looking straight ahead. She has long, straight, black hair falling past her shoulders and warm fair skin with a soft, youthful complexion. She wears a thin white camisole with thin shoulder straps and a deep plunging V-neckline that exposes her cleavage; the light, slightly wrinkled fabric hugs a full bust. A fine gold chain necklace with a small greenish pendant rests against her chest.
 

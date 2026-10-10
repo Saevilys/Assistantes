@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:09 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/yumi-v5-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-v5-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic-style portrait of a young East Asian woman standing waist-deep in water at night. She has long, straight black hair with blunt bangs framing her face, heavy dark smoky eye makeup, and deep maroon-red lipstick. Her expression is neutral and direct, looking straight at the camera. She wears a minimal black string bikini top that is stretched taut across a very full bust, with the thin triangle cups barely containing it; a matching thin-string bikini bottom sits low on her hips. Her skin is pale and wet, with visible water beading and trickling down her chest and cleavage. She is leaning forward, both forearms resting on a dark tiled pool edge behind her, hands splayed flat.
 

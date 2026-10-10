@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 06:45 UTC
+## Image (resized) by Layla - 2026-10-10 08:14 UTC
 ### Context
-A smaller copy of /images/amina-cast-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/amina-cast-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, selfie-style portrait of a young adult woman with dark brown skin, captured from the waist up. She has long, thick, loose natural curls in dark brown hair that frame her face and fall past her shoulders. Her features include defined cheekbones, almond-shaped dark brown eyes, full lips, and a long neck. Her expression is calm and confident, with a neutral, serene look directed toward the camera.
 

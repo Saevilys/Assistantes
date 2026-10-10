@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-06 20:13 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/lucia-cast-v3-2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/lucia-cast-v3-2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic portrait of a woman seated on a sandy beach. She appears to be in her mid-twenties with warm tanned skin, wavy honey-blond to caramel hair falling past her shoulders, dark brown eyes, and a relaxed, confident expression with a slight closed-mouth smile. She wears a deep emerald green silk or satin camisole with thin spaghetti straps and a low V-shaped neckline that reveals a fuller bust; the fabric catches soft highlights along the shoulders and folds of the chest. She is posed facing the camera, seated with one leg bent and her right arm resting casually on her knee, her left shoulder turned slightly toward the viewer.
 

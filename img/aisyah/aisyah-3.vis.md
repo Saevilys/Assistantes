@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/aisyah/aisyah-3.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/aisyah/aisyah-3.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertically oriented photorealistic portrait of a young woman, framed from the waist up, centered in the image. She has golden-brown skin, a round face, full brown eyes, and a wide open-mouthed smile showing teeth. Her long, thick, dark black hair falls loosely past her shoulders. She wears a fitted emerald-green spaghetti-strap camisole with a visible neckline showing her chest, paired with high-waisted black jeans with a visible button and belt loops, and a thin gold chain necklace. The image has a slightly grainy, phone-camera quality with realistic skin texture.
 

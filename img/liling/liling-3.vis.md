@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:51 UTC
+## Image (resized) by Layla - 2026-10-10 08:14 UTC
 ### Context
-A smaller copy of /images/liling-v3-3.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-v3-3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A photorealistic photograph showing a young East Asian woman seated on the edge of a bed. She has long, dark wavy hair past her shoulders, brown eyes, and fair-to-golden skin with visible natural texture and pores. She wears a black lace bra and matching black lace high-cut panties. Her pose is frontal, head-to-mid-thigh, with both hands resting on the mattress on either side of her hips. Her expression is calm with a faint smile, looking directly at the camera.
 

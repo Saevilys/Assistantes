@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 01:58 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/nani-v4-scratch.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/nani-v4-scratch.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 The image is a full-body-to-mid-thigh portrait of a young woman with warm tanned skin and long, straight black hair parted down the middle and falling past her shoulders. She has brown eyes, a round face with full cheeks, and a broad smile showing her teeth while her lower lip is caught between them. She appears to be in her early twenties.
 

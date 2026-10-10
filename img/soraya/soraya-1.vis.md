@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-1.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/soraya/soraya-1.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, waist-up portrait of a young woman standing and facing the camera in a warmly lit modern lobby. The woman appears to be in her mid-twenties with warm golden-brown skin, long dark wavy hair parted off-center and falling over her shoulders, dark brown eyes, thick arched eyebrows, and a soft closed-mouth smile. She wears a deep burgundy wrap-style top with a deep V-neckline and three-quarter sleeves, tucked into black trousers, and small dangling earrings. Her posture is relaxed and upright, arms at her sides.
 

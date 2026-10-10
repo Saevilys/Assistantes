@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:10 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/yumi-v6-v2.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-v6-v2.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, near-head-to-mid-thigh digital photograph styled to look like a grainy smartphone snapshot, set in a narrow, rain-soaked alley at night. A young East Asian woman stands as the central subject, positioned slightly right of center, leaning her left hip and shoulder against a wet red-brick wall that fills the right edge of the frame. She has long straight jet-black hair with blunt bangs covering her forehead, heavy smoky dark eye makeup, and deep maroon lipstick. She looks directly at the camera with a calm, faint half-smile.
 

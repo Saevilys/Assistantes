@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/sakura/sakura-1.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/sakura/sakura-1.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A portrait-style photograph of a young East Asian woman, framed from roughly the waist up and centered in the frame. She has shoulder-length wavy dark brown hair parted slightly off-center, fair warm-toned skin, and a calm, neutral expression with a faint, almost imperceptible smile. She faces the camera directly. Her clothing consists of a white sleeveless top that dips low at the neckline, revealing some chest, layered under a loose, open cream or off-white cotton kimono-style cardigan with wide kimono sleeves, knotted or crossed at the front; a dark, long black pleated skirt is visible at the bottom of the frame. The fabric of the cardigan shows natural wrinkles and folds.
 

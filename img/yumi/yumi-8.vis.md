@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:12 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /images/yumi-lingerie.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/yumi-lingerie.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, photorealistic portrait photograph shot in the style of a casual smartphone camera, with visible grain and natural skin texture rather than a polished or painted finish. The subject is a young woman with East Asian features, appearing to be in her early twenties. She has long, straight, jet-black hair with blunt-cut bangs that fall across her forehead. Her makeup is heavy and dramatic: dark, smoky eyeshadow and deep maroon-red lipstick. Her complexion is very pale.
 

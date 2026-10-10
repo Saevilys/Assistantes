@@ -1,4 +1,4 @@
-## Image (resized) by Layla - 2026-10-09 10:43 UTC
+## Image (resized) by Layla - 2026-10-10 08:17 UTC
 ### Context
 A smaller copy of /github/pages/gallerie/img/casting/assistantes/rafaela/rafaela-1.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision

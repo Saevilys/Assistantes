@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-09 23:35 UTC
+## Image (resized) by Layla - 2026-10-10 08:16 UTC
 ### Context
-A smaller copy of /github/pages/gallerie/img/casting/assistantes/aisyah/aisyah-1.jpg (1024×1200 → 874×1024, jpg) — the same picture; the original is untouched.
+A smaller copy of /github/pages/gallerie/img/casting/assistantes/aisyah/aisyah-1.jpg (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical, eye-level, waist-up portrait of a young woman standing in an urban night market, rendered in a photorealistic smartphone-camera style with a slight grain and soft, warm evening lighting. The woman is the central subject, framed from the upper thighs to just above her head, slightly off-center to the left, occupying most of the frame. She has golden-brown skin, long thick black wavy hair falling over one shoulder, brown eyes, a soft round face, full lips, and a subtle, playful closed-mouth half-smile. She wears a fitted dark red (crimson) camisole with thin spaghetti straps and visible décolleté, a delicate thin gold necklace with a small pendant, and high-waisted black jeans with a visible metal button at the waist. Her right hand rests on her hip, elbow bent, in a casual candid pose. Her figure is curvy with a fuller bust and a small waist.
 

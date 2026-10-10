@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:24 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/liling-lingerie.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-lingerie.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 The image is a portrait of a single young woman posed indoors, framed from the head down to mid-thigh. She has long, dark wavy hair falling past her shoulders and a fair complexion, and she looks directly toward the camera with a calm, neutral-to-confident expression. She wears a dark emerald-green lace bralette with scalloped edges; the cups are small relative to her full bust, with flesh visible above and around the lace. She also wears a matching tiny green lace thong. A dark, near-black silk robe or garment hangs loosely off her shoulders and arms, draping over her upper arms and falling toward the bed.
 

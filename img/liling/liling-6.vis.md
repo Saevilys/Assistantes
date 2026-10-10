@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:24 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/liling-drap.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/liling-drap.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 A vertical portrait photograph showing a young East Asian woman lying on her back on a bed. She has long, dark, wavy hair spread loose across a white pillow behind her head. Her skin is fair with a warm, golden undertone, and visible pores and natural texture are apparent, consistent with a candid phone-camera aesthetic. One of her arms is bent with the hand resting behind her head; the other hand grips the edge of a sheer, translucent white sheet that is draped across her torso. The sheet is thin enough to reveal the full outline of her breasts, including the nipples, as well as her hips, groin, and thighs beneath it. Her eyes are half-lidded and her expression is calm and drowsy, looking toward the camera.
 

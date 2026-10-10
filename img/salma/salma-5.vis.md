@@ -1,6 +1,6 @@
-## Image (resized) by Layla - 2026-10-10 02:21 UTC
+## Image (resized) by Layla - 2026-10-10 08:15 UTC
 ### Context
-A smaller copy of /images/salma-lingerie.png (1024×1200 → 683×800, jpg) — the same picture; the original is untouched.
+A smaller copy of /images/salma-lingerie.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
 ### Vision
 The image is a photorealistic, grainy photograph styled like a raw smartphone shot, framed from the top of the woman's head down to her mid-thighs. A young woman with honey-tan skin, long straight black hair falling past her shoulders, almond-shaped brown eyes, and full lips sits or kneels on white rumpled bed linens. She wears a burgundy lace bralette with scalloped lace edges across the cups and a matching burgundy lace thong; her heavy bust is large and spills slightly beyond the bra cups. A black silk robe hangs off both shoulders, its sleeves draped over her arms. A black lace trim is visible on the robe's hem near her lap.
 
