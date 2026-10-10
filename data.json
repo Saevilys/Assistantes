@@ -343,7 +343,9 @@
     "photos": [
       "img/noa/noa-1.jpg",
       "img/noa/noa-2.jpg",
-      "img/noa/noa-3.jpg"
+      "img/noa/noa-3.jpg",
+      "img/noa/noa-4.png",
+      "img/noa/noa-5.png"
     ]
   },
   {
@@ -377,7 +379,10 @@
     "photos": [
       "img/warisa/warisa-1.jpg",
       "img/warisa/warisa-2.jpg",
-      "img/warisa/warisa-3.jpg"
+      "img/warisa/warisa-3.jpg",
+      "img/warisa/warisa-4.png",
+      "img/warisa/warisa-5.png",
+      "img/warisa/warisa-6.png"
     ]
   },
   {
@@ -593,10 +598,9 @@
     "trait": "Boss lvl 5. L'air le plus innocent du roster. Le piège douceur — tu baisses la garde, elle a déjà gagné.",
     "photos": [
       "img/pailin/pailin-1.jpg",
-      "img/pailin/pailin-2.png",
-      "img/pailin/pailin-3.png",
-      "img/pailin/pailin-4.png",
-      "img/pailin/pailin-5.png",
+      "img/pailin/pailin-new-1.png",
+      "img/pailin/pailin-new-2.png",
+      "img/pailin/pailin-new-3.png",
       "img/pailin/pailin-6.png",
       "img/pailin/pailin-7.png"
     ]
