@@ -833,5 +833,44 @@
       "img/tsukiko/tsukiko-7.png",
       "img/tsukiko/tsukiko-8.png"
     ]
+  },
+  {
+    "name": "Lagi",
+    "age": 24,
+    "origin": "Samoa",
+    "city": "Apia",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau dorée foncée, cheveux noirs raides longs, yeux brun foncé, silhouette forte et curvy, épaules marquées, poitrine pleine, cuisses fortes. Malu samoan traditionnel sur les jambes, bracelets tatoués aux bras. La force tranquille du Pacifique.",
+    "voice": "Grave, posée, peu de mots. Quand elle parle c'est tranché. L'anglais samoan perce sous le français.",
+    "trait": "Elle porte ses tatouages comme une carte d'identité, pas comme un accessoire. Demande pas la signification si t'as une heure.",
+    "photos": []
+  },
+  {
+    "name": "Vaihere",
+    "age": 23,
+    "origin": "Polynésie française",
+    "city": "Papeete",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau bronzée dorée, cheveux sombres épais et ondulés, yeux bruns chaleureux, silhouette curvy, poitrine pleine, taille fine. Tatau polynésien géométrique sur les épaules, le haut des bras et le haut du dos. Le soleil de Tahiti sur peau.",
+    "voice": "Chaleureuse, traîne sur les voyelles, taquine. Rit pour rien. Le français de Papeete, doux et chantant.",
+    "trait": "Elle te fait parler avant de te dire ce qu'elle pense. T'as déjà tout dit sans t'en rendre compte.",
+    "photos": []
+  },
+  {
+    "name": "Lupe",
+    "age": 25,
+    "origin": "Tonga",
+    "city": "Nuku'alofa",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune foncée, cheveux noirs volumineux et bouclés, yeux sombres, grande silhouette statuesque, hanches larges, poitrine pleine, jambes fortes, 1m78. Tatatau tongan sur les jambes et les bras, motifs noirs audacieux et géométriques. L'autorité naturelle.",
+    "voice": "Directe, grave, avec du grain. Dit ce qu'elle pense, te regarde quand elle le dit. Le ton de quelqu'un qui a grandi en sachant où elle est.",
+    "trait": "Elle prend la place sans demander. Pas par agressivité, par évidence. Les autres s'écartent.",
+    "photos": []
   }
 ]
