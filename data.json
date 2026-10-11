@@ -832,5 +832,22 @@
       "img/tsukiko/tsukiko-7.png",
       "img/tsukiko/tsukiko-8.png"
     ]
+  },
+  {
+    "name": "Vera",
+    "age": 26,
+    "origin": "Serbie",
+    "city": "Belgrade",
+    "region": "Europe",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau olive sombre, cheveux auburn foncé ondulés longs, eyeliner winged, lèvres burgundy. Silhouette pulpeuse, taille fine, poitrine généreuse, hanches larges. Le mashup goth + militaire + cabaret.",
+    "voice": "Grave, traînante, fumée. Serbe qui perce dans les consonnes dures. Te parle bas, tu tends l'oreille.",
+    "trait": "Elle mélange les styles comme les époques. Veste militaire sur corset, cuir sur velours. L'esthétique des ruines — Belgrade rebuild.",
+    "photos": [
+      "img/vera/vera-1.png",
+      "img/vera/vera-2.png",
+      "img/vera/vera-3.png"
+    ]
   }
 ]
