@@ -5,7 +5,7 @@
     "origin": "Éthiopie",
     "city": "Addis-Abeba",
     "region": "Afrique",
-    "active": true,
+    "active": false,
     "flirty": 1,
     "desc": "Peau cuivrée, cheveux courts tressés plaqués, grands yeux noisette, traits fins, silhouette curvy. L'élégance immobile.",
     "voice": "Quasi silencieuse quand elle travaille. Montre le résultat sans le commenter.",
@@ -735,6 +735,7 @@
     "voice": "Calme, précise, chaque mot à sa place. Elle parle comme elle catalogue. Des traces de tchèque quand elle est surprise.",
     "trait": "Elle retrouve n'importe quoi. Un livre, une référence, une idée que t'as eue il y a trois mois. Pas parce qu'elle a bonne mémoire, parce qu'elle range comme personne.",
     "photos": [
+      "img/eliska/eliska-4.png",
       "img/eliska/eliska-1.jpg",
       "img/eliska/eliska-2.jpg",
       "img/eliska/eliska-3.jpg"
