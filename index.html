@@ -90,8 +90,9 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 <div class="toolbar" id="regionbar"></div>
 
 <div class="toolbar" id="sortbar">
-  <button class="btn active" data-sort="flirt">Tri par flirt</button>
-  <button class="btn" data-sort="alpha">Tri A-Z</button>
+  <button class="btn active" data-sort="flirt-desc">Flirt ↓</button>
+  <button class="btn" data-sort="flirt-asc">Flirt ↑</button>
+  <button class="btn" data-sort="alpha">A-Z</button>
 </div>
 
 <div class="container">
@@ -112,7 +113,7 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 let data=[];
 let currentFilter='all';
 let currentRegion='all';
-let currentSort='flirt';
+let currentSort='flirt-desc';
 let searchTerm='';
 
 fetch('data.json').then(r=>r.json()).then(d=>{
@@ -148,7 +149,8 @@ function applyFilters(){
       .some(v=>(v||'').toLowerCase().includes(q)));
   }
   filtered.sort((a,b)=>{
-    if(currentSort==='flirt')return (b.flirty||0)-(a.flirty||0);
+    if(currentSort==='flirt-desc')return (b.flirty||0)-(a.flirty||0);
+    if(currentSort==='flirt-asc')return (a.flirty||0)-(b.flirty||0);
     if(currentSort==='alpha')return a.name.localeCompare(b.name);
     return 0;
   });
