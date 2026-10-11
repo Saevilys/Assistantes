@@ -89,6 +89,11 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 
 <div class="toolbar" id="regionbar"></div>
 
+<div class="toolbar" id="sortbar">
+  <button class="btn active" data-sort="flirt">Tri par flirt</button>
+  <button class="btn" data-sort="alpha">Tri A-Z</button>
+</div>
+
 <div class="container">
   <div class="grid" id="grid"></div>
 </div>
@@ -107,6 +112,7 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 let data=[];
 let currentFilter='all';
 let currentRegion='all';
+let currentSort='flirt';
 let searchTerm='';
 
 fetch('data.json').then(r=>r.json()).then(d=>{
@@ -141,6 +147,11 @@ function applyFilters(){
     filtered=filtered.filter(a=>[a.name,a.origin,a.city,a.region,a.trait,a.desc]
       .some(v=>(v||'').toLowerCase().includes(q)));
   }
+  filtered.sort((a,b)=>{
+    if(currentSort==='flirt')return (b.flirty||0)-(a.flirty||0);
+    if(currentSort==='alpha')return a.name.localeCompare(b.name);
+    return 0;
+  });
   renderGrid(filtered);
 }
 
@@ -258,6 +269,16 @@ document.querySelectorAll('.toolbar .btn[data-filter]').forEach(b=>{
     document.querySelectorAll('.toolbar .btn[data-filter]').forEach(x=>x.classList.remove('active'));
     b.classList.add('active');
     currentFilter=b.dataset.filter;
+    applyFilters();
+  };
+});
+
+// sort buttons
+document.querySelectorAll('#sortbar .btn').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('#sortbar .btn').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    currentSort=b.dataset.sort;
     applyFilters();
   };
 });
