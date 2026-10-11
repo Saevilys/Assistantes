@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-11 17:10 UTC
+### Context
+Edited with image_edit from /images/nino-v1.png with the instruction: "Change the scene to her sitting on a bed in a small bedroom, morning light, wearing an oversized white t-shirt and shorts, same face, same hair now loose and messy not in ponytail, holding a phone, relaxed sleepy expression, same body type, cozy intimate mood."
+### Vision
+A photorealistic image of a young woman seated cross-legged on a bed in a small, plainly furnished bedroom, shot in a medium shot with the subject centered. She has curly, shoulder-length brown hair worn loose and tousled, fair skin, and a relaxed, drowsy expression with her eyes closed and a faint closed-mouth smile. She wears an oversized plain white t-shirt that drapes past her hips, with the hem of light-colored shorts just visible beneath it. Her legs are folded on the bed and she holds a smartphone in both hands resting on her lap, the screen glowing with small colorful images.
+
+The setting is a cozy, intimate bedroom in warm neutral tones. To the left, a window admits soft morning light, and a small potted green plant sits on the windowsill. The bed is covered with white and beige bedding, several pillows (including a patterned throw pillow), and a rumpled blanket bunched at the right edge of the frame. Behind her to the right is a small wooden nightstand holding a stack of books and a lamp emitting a warm glow. The walls are a soft cream/beige.
+
+The color palette is dominated by warm creams, whites, and browns with gentle natural lighting from the left window, creating a soft, calm, sleepy atmosphere. The style is a photorealistic, likely AI-generated or edited photograph with smooth, evenly lit skin and a shallow depth of field that keeps the background slightly soft. No visible text appears in the image. The overall mood is intimate, relaxed, and quietly domestic.
