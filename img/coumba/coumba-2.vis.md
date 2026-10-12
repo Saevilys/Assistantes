@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-12 06:36 UTC
+### Context
+Edited with image_edit from /images/coumba-3.png with the instruction: "Change the scene to a nighttime bedroom, warm amber lamp light. Replace the white shirt with a sheer black nightgown, thin straps, low neckline. Same woman, same face, same hair, same body. Reclining on dark silk sheets, one knee drawn up, looking at the camera with a slow knowing smile. Intimate moody atmosphere. Keep the raw smartphone photo realism, grainy, visible pores."
+### Vision
+A vertical photograph showing a Black woman reclining on a bed in a dimly lit bedroom. She has long black box braids falling down over one shoulder, with some strands tipped in gold or amber. She wears a sheer black nightgown with thin spaghetti straps and a low V neckline, the fabric translucent over the upper chest. Her pose is reclined on dark, glossy satin-like sheets; one knee is drawn up toward her chest, her legs angled toward the lower left of the frame. She looks directly at the camera with a faint, knowing smile.
+
+The setting is a nighttime bedroom. Behind her on the left, a warm amber table lamp with a cream shade glows against a plain wall, casting a soft pool of light. A dark wooden headboard edge is visible at the far left. On the right side of the frame, dark curtains hang vertically. The bedding is black or very dark blue satin, catching highlights from the lamp.
+
+Lighting is warm and low-key, dominated by the amber lamp, with deep shadows across much of the scene and on her right side. Skin tones are warm and richly lit. The image has a grainy, raw smartphone-photo quality with visible skin texture and pores. The overall mood is intimate, moody, and sensual. Composition centers the woman in the frame, three-quarter body, slightly left of center, with the lamp as a secondary light source balancing the left. No visible text is present.

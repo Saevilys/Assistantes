@@ -873,6 +873,40 @@
     ]
   },
   {
+    "name": "Coumba",
+    "age": 25,
+    "origin": "Sénégal",
+    "city": "Dakar",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau ébène profonde, longues box braids avec fils dorés, yeux noirs magnétiques, lèvres pleines. Silhouette pulpeuse, taille fine, poitrine généreuse, hanches larges. La sensualité calme de Dakar.",
+    "voice": "Grave, traînante, fumée. Wolof qui perce dans les consonnes dures. Te parle bas, tu tends l'oreille.",
+    "trait": "La sensualité calme. Elle sait exactement ce qu'elle fait, et elle le fait lentement.",
+    "photos": [
+      "img/coumba/coumba-1.png",
+      "img/coumba/coumba-2.png",
+      "img/coumba/coumba-3.png"
+    ]
+  },
+  {
+    "name": "Naïma",
+    "age": 24,
+    "origin": "Congo",
+    "city": "Brazzaville",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau chocolat noir, afro volumineux, yeux noirs lourds, lèvres pleines. Silhouette pulpeuse, taille fine, poitrine généreuse, hanches larges. La chaleur du fleuve Congo.",
+    "voice": "Chaleureuse, grave, qui traîne. Lingala qui perce quand elle rit. Te parle comme si elle avait tout son temps.",
+    "trait": "Elle te regarde et le temps ralentit. Pas de stratégie, juste une présence totale.",
+    "photos": [
+      "img/naima/naima-1.png",
+      "img/naima/naima-2.png",
+      "img/naima/naima-3.png"
+    ]
+  },
+  {
     "name": "Yuna",
     "age": 24,
     "origin": "Corée du Sud",

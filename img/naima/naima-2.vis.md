@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-12 06:36 UTC
+### Context
+Edited with image_edit from /images/naima-3.png with the instruction: "Change the scene to a rooftop terrace at golden hour, warm sunset light. Replace the white shirt with a fitted emerald green mini dress, high hem, low neckline showing generous cleavage. Same woman, same face, same afro hair, same body. Leaning against a railing, city skyline behind, confident expression with a slight smirk. Keep the raw smartphone photo realism, grainy, visible pores."
+### Vision
+A vertical photograph showing a Black woman with a large, voluminous dark afro hairstyle standing on an open rooftop terrace. She has dark brown skin and is smiling with a relaxed, confident expression and a slight smirk. She wears a fitted, sleeveless emerald green mini dress with a deep V-neckline that exposes her cleavage and a high hem ending at the upper thighs. Her body is turned slightly away from the camera while her face is oriented toward the lens; she leans her right forearm on a grey metal railing that runs diagonally across the lower portion of the frame, with her left hand resting near her hip.
+
+The background shows a city skyline with numerous mid-rise and high-rise buildings stretching into the distance under a warm, hazy sky. The lighting is golden-hour sunset, with soft orange and peach tones near the horizon and warm light falling on the subject from the side, casting gentle shadows. The overall image has a grainy, candid smartphone-photo quality with visible skin texture.
+
+Composition is a medium shot from roughly the knees up, with the subject positioned slightly left of center and the railing and skyline providing depth. Colors are dominated by the saturated green of the dress, warm skin tones, and the muted orange-and-grey of the dusk cityscape. There is no visible text in the image. The mood is casual, confident, and warm.
