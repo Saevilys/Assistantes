@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-12 18:30 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style. A 25-year-old Mexican woman from Mexico City. Golden brown skin, youthful face, smooth skin, long wavy black hair down, dark brown eyes, full lips, light makeup. Voluptuous silhouette, slim waist, wide hips, large full bust. She wears a fitted white ribbed tank top with décolleté and high-waisted olive cargo pants, sitting on the steps of a colonial building in Coyoacán, afternoon sun, leafy plaza behind her, coffee cup in hand, casual smirk. Selfie angle from slightly above. Framing head to waist."
+### Vision
+A vertical, portrait-orientation photograph styled as a casual smartphone selfie, presented with photorealistic detail and a grainy, slightly imperfect phone-camera quality. The central subject is a young woman with warm golden-brown skin, long wavy black hair falling past her shoulders, dark brown eyes, and full lips. She wears light, natural-looking makeup. Her expression is a relaxed, slight smirk directed at the camera.
+
+She is seated on a stone step, framed from the head down to the waist in a tight, slightly above-eye-level selfie angle, with her right arm extended toward the camera as if holding the phone. She wears a fitted white ribbed tank top with a scoop neckline that exposes her cleavage, and high-waisted olive-green cargo pants with visible waistband tabs. In her left hand, resting near her lap at the lower-left edge of the frame, is a disposable paper coffee cup with a white lid.
+
+The setting is an outdoor plaza in soft afternoon sunlight. Behind her, the background is softly blurred but shows leafy green trees, manicured hedges, and a pale beige colonial-style building with arched openings along its ground floor. The stone steps on which she sits run diagonally behind her left side.
+
+Lighting is warm and natural, with sunlight catching the side of her face and shoulder and casting gentle shadows. The overall color palette is earthy—olive, beige, white, green, and warm skin tones. The mood is casual, confident, and sunny. No readable text appears in the image.
