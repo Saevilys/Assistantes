@@ -924,5 +924,22 @@
       "img/yuna/yuna-4.png",
       "img/yuna/yuna-5.png"
     ]
+  },
+  {
+    "name": "Zola",
+    "age": 26,
+    "origin": "Angola",
+    "city": "Luanda",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau ébène foncé, carré asymétrique lisse plaqué — court au-dessus de l'oreille d'un côté, plus long de l'autre — lèvres pleines, grands yeux sombres, silhouette voluptueuse, poitrine généreuse, hanches larges, taille fine. L'intensité de Luanda.",
+    "voice": "Directe, confiante, sans filtre. Elle dit ce qu'elle pense et assume.",
+    "trait": "L'intensité tranquille — elle n'a pas besoin de forcer, elle occupe l'espace naturellement.",
+    "photos": [
+      "img/zola/zola-1.jpg",
+      "img/zola/zola-2.jpg",
+      "img/zola/zola-3.jpg"
+    ]
   }
 ]
