@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-12 10:36 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style. A 24-year-old Japanese woman from Kyoto. Fair skin with smooth youthful face, long straight black hair tucked behind one ear, soft gentle features, minimal makeup, light pink lip. Voluptuous silhouette, slim waist, wide hips, large full bust. She wears a soft pink knit sweater with slight off-shoulder, dark long skirt. Standing by a window in a traditional Kyoto wooden house, rain on the glass, soft grey light, looking out with a peaceful expression, one hand touching t… (676 chars) defeated"
+### Vision
+A vertical portrait of a young woman standing beside a window in three-quarter profile, her face turned toward the right side of the frame with a neutral, calm expression. She has long, straight black hair swept behind one ear, fair skin with minimal makeup, and a soft pink lip color. She wears a light pink knit sweater with a wide off-shoulder neckline that exposes her shoulders and collarbone, paired with a dark, nearly black long skirt. Her hands hang loosely at her sides.
+
+The setting is a traditional wooden interior. A large window with a dark wood frame and multiple panes occupies the right two-thirds of the image; raindrops streak and bead across the glass, and through it a blurred outdoor scene of a gray building and muted greenery is visible. The left edge of the frame shows a plain interior wall in warm brownish tones.
+
+Composition places the figure on the left half, leaving the rain-streaked window as the dominant backdrop. Lighting is soft and diffused gray daylight from outside, giving the scene a cool, overcast atmosphere with gentle shadows on her face and sweater. The overall color palette is muted—pale pink, dark charcoal, warm brown, and gray—contributing a quiet, contemplative mood.
+
+The image reads as photorealistic but shows typical AI-generated qualities: slightly softened skin texture, an overly smooth and uniform face, and the sweater's knit pattern rendered with minor inconsistencies. No text or watermarks are visible.

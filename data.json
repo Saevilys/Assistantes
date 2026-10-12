@@ -975,5 +975,55 @@
       "img/laka/laka-2.jpg",
       "img/laka/laka-3.jpg"
     ]
+  },
+  {
+    "name": "Sumin",
+    "age": 25,
+    "origin": "Corée",
+    "city": "Séoul",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire, cheveux brun foncé en vagues lâches, traits fins élégants, maquillage léger, lèvres nude. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. L'autorité douce.",
+    "voice": "Calme, tranchante, trois mots qui claquent. Elle te regarde par-dessus son verre et sait déjà ce que tu vas dire.",
+    "trait": "Elle te corrige pas, elle te montre que t'as raté. Et tu te corriges seul.",
+    "photos": [
+      "img/sumin/sumin-1.png",
+      "img/sumin/sumin-2.png",
+      "img/sumin/sumin-3.png"
+    ]
+  },
+  {
+    "name": "Aya",
+    "age": 24,
+    "origin": "Japon",
+    "city": "Kyoto",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire, cheveux longs noirs raides derrière une oreille, traits doux, maquillage minimal, lèvres rose léger. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La bienveillance de Kyoto.",
+    "voice": "Douce, patiente, maternelle. Elle pose des questions qui te font réfléchir sans te forcer. Le sourire qui désarme.",
+    "trait": "Elle t'accompagne, elle te dirige pas. Tu te sens en sécurité et c'est là qu'elle te désarme.",
+    "photos": [
+      "img/aya/aya-1.png",
+      "img/aya/aya-2.png",
+      "img/aya/aya-3.png"
+    ]
+  },
+  {
+    "name": "Dami",
+    "age": 23,
+    "origin": "Corée",
+    "city": "Busan",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau légèrement bronzée, cheveux longs ondulés brun foncé, yeux vifs, maquillage minimal, lèvres glossy. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. L'énergie de Busan.",
+    "voice": "Vive, bruyante, rieuse. Pas de filtre, pas de calcul, elle dit ce qu'elle pense en riant. La grande sœur fun.",
+    "trait": "Elle te traîne dehors quand tu tourne en rond. Directe mais pas méchante, juste honnête avec un grand sourire.",
+    "photos": [
+      "img/dami/dami-2.png",
+      "img/dami/dami-3.png"
+    ]
   }
 ]
