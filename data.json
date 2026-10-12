@@ -941,5 +941,39 @@
       "img/zola/zola-2.jpg",
       "img/zola/zola-3.jpg"
     ]
+  },
+  {
+    "name": "Maea",
+    "age": 24,
+    "origin": "Polynésie française",
+    "city": "Papeete",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau brune dorée, longs cheveux noirs ondulés naturels, grands yeux sombres, lèvres pleines, pommettes larges polynésiennes. Silhouette voluptueuse, taille fine, hanches larges, poitrine pleine. La douceur de Papeete.",
+    "voice": "Douce, lente, posée. Des phrases courtes qui arrivent après un silence. Un humour discret qui surprend.",
+    "trait": "Elle écoute vraiment. Tu repars avec l'impression d'avoir été entendu pour de vrai.",
+    "photos": [
+      "img/maea/maea-1.jpg",
+      "img/maea/maea-2.jpg",
+      "img/maea/maea-3.jpg"
+    ]
+  },
+  {
+    "name": "Laka",
+    "age": 23,
+    "origin": "Samoa",
+    "city": "Apia",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune cuivrée, cheveux épais noirs bouclés mi-longs, grands yeux sombres, sourire large, traits polynésiens du Pacifique sud. Voluptueuse, taille marquée, hanches généreuses, grande poitrine. L'énergie du Pacifique sud.",
+    "voice": "Enjouée, forte, avec du rythme. Elle te taquine et assume. Flirty par nature, pas par stratégie.",
+    "trait": "Elle remplit la pièce en arrivant. Quand elle veut quelque chose, elle le dit.",
+    "photos": [
+      "img/laka/laka-1.jpg",
+      "img/laka/laka-2.jpg",
+      "img/laka/laka-3.jpg"
+    ]
   }
 ]

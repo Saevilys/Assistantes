@@ -1,0 +1,7 @@
+## Image (resized) by Layla - 2026-10-12 08:55 UTC
+### Context
+A smaller copy of /images/maea-3.png (1024×1200 → 1024×1200, jpg) — the same picture; the original is untouched.
+### Vision
+A vertical medium shot of a young Polynesian woman seated on a weathered wooden dock, photographed in a casual, raw smartphone style with natural grain and soft focus. She is positioned slightly left of center, angled toward the camera, with a relaxed, closed-mouth smile. She has long, dark, wavy hair falling past her shoulders, deep dark eyes, broad cheekbones, full lips, and warm golden-brown skin rendered with natural texture. She wears a white scoop-neck tank top and light blue denim shorts; her right hand rests on the dock planks beside her hip, and her left hand is placed on her lap. Her knees are bent, legs dangling off the edge of the dock, though the water is only just visible beneath.
+
+The background shows a calm turquoise-to-deep-teal lagoon stretching to a low horizon line, with a faint band of pale pink and lavender sky above and a small patch of green vegetation on the far left shore. Warm golden-hour light falls from the left, casting an orange glow across her skin, arm, and the top edge of the dock, while the water retains cooler teal tones. The composition is a three-quarter body shot framed tightly on the subject, with shallow depth of field softening the distant shoreline. No text, logos, or interface elements are present. The overall mood is warm, relaxed, and candid, evoking a tranquil tropical evening.
