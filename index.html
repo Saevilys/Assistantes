@@ -38,8 +38,11 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .flirt-hearts .off{color:#4a3d30}
 .flirt-lvl4{font-size:1.15rem;line-height:1;animation:glowPulse 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}
 .flirt-lvl5{font-size:1.3rem;line-height:1;animation:glowPulseRed 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff0033,0 0 12px #ff0033,0 0 18px #ff003380}
-.flirt-lvl6{font-size:1.3rem;line-height:1;background:linear-gradient(90deg,#ff0033,#d4a574,#ff3366,#d4a574,#ff0033);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:glowPulseRed 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff003380,0 0 12px #ff003380}
-.flirt-lvl6 .s-mark{font-size:0.75rem;vertical-align:super;color:#d4a574;-webkit-text-fill-color:#d4a574}
+.flirt-lvl6{font-size:1.3rem;line-height:1;animation:rainbowGlow 2s linear infinite}
+.flirt-lvl6 .heart{background:linear-gradient(90deg,#ff0033,#ff3366,#d4a574,#ff3366,#ff0033);background-size:200% auto;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:rainbowShift 3s linear infinite}
+.flirt-lvl6 .s-mark{font-size:0.85rem;font-weight:700;vertical-align:baseline;color:#d4a574;text-shadow:0 0 4px #d4a574,0 0 8px #d4a57480}
+@keyframes rainbowShift{0%{background-position:0% center}100%{background-position:200% center}}
+@keyframes rainbowGlow{0%,100%{filter:drop-shadow(0 0 4px #ff336680)}50%{filter:drop-shadow(0 0 8px #d4a57480)}}
 @keyframes glowPulseRed{0%,100%{opacity:1;text-shadow:0 0 6px #ff0033,0 0 12px #ff0033,0 0 18px #ff003380}50%{opacity:.7;text-shadow:0 0 3px #ff0033,0 0 6px #ff0033,0 0 12px #ff003360}}
 @keyframes glowPulse{0%,100%{opacity:1;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}50%{opacity:.7;text-shadow:0 0 3px #ff3366,0 0 6px #ff3366,0 0 12px #ff336660}}
 .dim{opacity:.5;filter:grayscale(60%)}
@@ -173,7 +176,7 @@ function renderGrid(filtered){
       ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`
       : `<div class="card-placeholder">photo à venir</div>`;
     const flirtDots=a.flirty>=6
-      ? `<span class="flirt-lvl6">♥\uFE0E<span class="s-mark">S</span></span>`
+      ? `<span class="flirt-lvl6"><span class="heart">♥\uFE0E</span><span class="s-mark">S</span></span>`
       : a.flirty>=5
       ? `<span class="flirt-lvl5">☠\uFE0E♥\uFE0E</span>`
       : a.flirty>=4
@@ -216,7 +219,7 @@ function buildProfile(a){
       <h2>${a.name}</h2>
       <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
       ${a.flirty>=6
-        ? `<span class="profile-badge badge-flirt flirt-lvl6" style="font-size:0.9rem;padding:4px 12px">♥\uFE0E S — Rang S</span>`
+        ? `<span class="profile-badge badge-flirt flirt-lvl6" style="font-size:0.9rem;padding:4px 12px"><span class="heart">♥\uFE0E</span><span class="s-mark">S</span> — Rang S</span>`
         : a.flirty>=5
         ? `<span class="profile-badge badge-flirt flirt-lvl5" style="font-size:0.9rem;padding:4px 12px">☠\uFE0E♥\uFE0E LVL 5 — Succubus</span>`
         : a.flirty>=4
