@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-11 16:52 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style. A 22-year-old Czech woman. fair skin, long straight black hair, round glasses, brown eyes, voluptuous figure, full bust, slim waist. Wearing an oversized grey knit sweater, sitting cross-legged on her bed in a small Prague apartment, evening light from a warm bedside lamp, a stack of books on the nightstand, tea mug in hand, calm relaxed expression, soft half-smile. Selfie angle from slightly above. Framing head to waist. Youthful face, smooth skin."
+### Vision
+A vertical photograph framed from the head down to the waist, taken at a slightly elevated angle resembling a selfie. The subject is a young woman with fair skin, long straight black hair falling past her shoulders, brown eyes, and round tortoiseshell-style glasses. She wears a soft grey knitted sweater with a crew neck and matching loose grey knit bottoms, seated cross-legged on a bed with white sheets. Her expression is calm, with a faint half-smile, and she holds a small off-white ceramic mug filled with a dark liquid (appearing to be tea or coffee) in her lap with her right hand.
+
+The setting is a small bedroom interior lit by warm evening light. Behind her left shoulder sits a wooden nightstand holding a cream-colored table lamp with a glowing shade and a stack of books. To the far left edge, a white radiator and a wood floor are partly visible; a wall radiator guard or cabinet is also faintly seen. The background wall is a neutral pale tone.
+
+Color palette is dominated by warm creams, soft greys, and the honey-glow of the lamp, contrasting with the dark hair and the dark beverage in the mug. Lighting is soft and directional, coming from the bedside lamp, casting gentle shadows and a warm cast over the scene. The image reads as a casual smartphone photo with a natural, unretouched look—soft skin, realistic texture, no obvious artistic or painterly treatment.
+
+No text, logos, watermarks, captions, buttons, or interface elements are visible. The overall mood is quiet, cozy, and relaxed, evoking a calm evening at home.
