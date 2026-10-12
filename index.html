@@ -175,7 +175,7 @@ function renderGrid(filtered){
   grid.innerHTML=filtered.map(a=>{
     const hasPhoto=a.photos&&a.photos.length>0;
     const img=hasPhoto
-      ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`
+      ? `<img src="${a.photos[0]}" loading="lazy" decoding="async" alt="${a.name}">`
       : `<div class="card-placeholder">photo à venir</div>`;
     const flirtDots=a.flirty>=6
       ? `<span class="flirt-lvl6"><span class="heart">♥\uFE0E</span><span class="s-mark">S</span></span>`
@@ -218,7 +218,7 @@ function openProfile(name){
 function buildProfile(a){
   const hasPhotos=a.photos&&a.photos.length>0;
   const photoHtml=hasPhotos
-    ? `<div class="profile-photos">${a.photos.map((p,i)=>`<img src="${p}" loading="lazy" data-idx="${i}" onclick="openLightbox('${a.name}',${i})">`).join('')}</div>`
+    ? `<div class="profile-photos">${a.photos.map((p,i)=>`<img src="${p}" loading="lazy" decoding="async" data-idx="${i}" onclick="openLightbox('${a.name}',${i})">`).join('')}</div>`
     : `<div class="profile-photos"><div class="ph-empty">photos à venir</div></div>`;
 
   document.getElementById('profile').innerHTML=`
