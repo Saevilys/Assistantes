@@ -1,0 +1,9 @@
+## Image (generated) by Layla - 2026-10-12 19:49 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores. A 19-year-old Italian woman, youthful round face, smooth skin, warm olive skin, wild curly black hair, brown eyes, big laugh showing teeth. Very large full bust in a tight red v-neck top, denim shorts, embarrassed laughing expression, one hand covering her mouth. Rooftop terrace with string lights and laundry lines behind her, sunset. She looks 19, not older. Selfie angle from slightly above, framing head to waist."
+### Vision
+A photorealistic selfie-style portrait of a young woman with a youthful round face, warm olive skin, brown eyes, and wild curly black hair. She has a broad open laugh showing teeth, with one hand covering her mouth in an embarrassed or giggling expression. She wears a tight red v-neck top that exposes her bust, with a deep neckline, and light-wash denim shorts visible at the bottom edge. The shot is framed from head to waist, taken from a slightly elevated selfie angle, with her left arm extended out of frame toward the camera lens.
+
+The background is an outdoor rooftop terrace at sunset. Behind her are string lights with small glowing bulbs strung across the space, laundry lines with white and dark garments hanging, neighboring apartment buildings with terracotta roofs, and a pale sky fading from soft peach to lavender at the top. The lighting is warm natural sunset light, casting a gentle glow on her face and skin, with realistic skin texture and visible pores. The overall image has a casual, grainy smartphone-camera quality, raw and unedited in appearance.
+
+Colors are dominated by the saturated red of the top, the warm skin tones, and the soft pastel sky. The mood is candid, playful, and informal. No text is visible in the image.

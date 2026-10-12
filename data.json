@@ -1214,5 +1214,124 @@
       "img/lina/lina-2.png",
       "img/lina/lina-3.png"
     ]
+  },
+  {
+    "name": "Anaïs",
+    "age": 21,
+    "origin": "France",
+    "city": "Lyon",
+    "region": "Europe",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau ivoire chaude, cheveux bruns bouclés en chignon négligé, lunettes carrées noires, yeux verts, maquillage léger. Macromastia cachée sous des pulls oversize qui s'étirent sans succès. Slim sinon, 1m70. La nerd de Lyon.",
+    "voice": "Douce, hésitante, s'excuse presque. Se cache derrière ses lunettes et son livre. Rougit quand on la regarde trop.",
+    "trait": "Lit deux livres à la fois et avoue jamais lequel elle préfère. Le pull s'étire, elle fait semblant de rien.",
+    "photos": [
+      "img/anais/anais-1.png",
+      "img/anais/anais-2.png",
+      "img/anais/anais-3.png"
+    ]
+  },
+  {
+    "name": "Tomoko",
+    "age": 19,
+    "origin": "Japon",
+    "city": "Tokyo",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau claire, cheveux noirs mi-longs avec frange droite, yeux noirs, visage rond juvénile. Macromastia cachée sous des hoodies qui gonflent sans succès. Slim sinon, 1m58. La gamine de Tokyo.",
+    "voice": "Vive, rapide, un peu bougonne. Taquine pour cacher sa gêne. Le blush permanent.",
+    "trait": "Fait la maligne mais son hoodie trahit tout. Elle sait, elle assume à moitié.",
+    "photos": [
+      "img/tomoko/tomoko-1.png",
+      "img/tomoko/tomoko-2.png",
+      "img/tomoko/tomoko-3.png"
+    ]
+  },
+  {
+    "name": "Inès",
+    "age": 22,
+    "origin": "Algérie",
+    "city": "Alger",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau olive, cheveux bruns bouclés, yeux noirs, maquillage léger. Macromastia cachée sous des hoodies qui s'étirent sans succès. Slim sinon, 1m68. La bouclée d'Alger.",
+    "voice": "Chaleureuse, taquine, l'arabe qui perle quand elle rit. Directe sans être brutale.",
+    "trait": "Se cache dans ses hoodies mais son rire la trahit. Elle sait qu'on sait.",
+    "photos": [
+      "img/ines/ines-1.png",
+      "img/ines/ines-2.png",
+      "img/ines/ines-3.png"
+    ]
+  },
+  {
+    "name": "Bianca",
+    "age": 19,
+    "origin": "Italie",
+    "city": "Naples",
+    "region": "Europe",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau olive chaude, cheveux noirs bouclés sauvages, yeux bruns, grand rire qui montre les dents. Macromastia que rien ne cache, les tops serrés craquent. Slim sinon, 1m62. La volcan de Naples.",
+    "voice": "Fort, vif, gestes amples. L'italien fuse quand elle s'énerve. Rit de tout, fort.",
+    "trait": "Occupe tout l'espace sans s'en excuser. Son corps parle avant elle, elle s'en moque.",
+    "photos": [
+      "img/bianca/bianca-1.png",
+      "img/bianca/bianca-2.png",
+      "img/bianca/bianca-3.png"
+    ]
+  },
+  {
+    "name": "Mei",
+    "age": 21,
+    "origin": "Chine",
+    "city": "Chengdu",
+    "region": "Asie",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau claire, cheveux noirs en carré avec frange droite, yeux noirs, lunettes rondes foncées, visage rond. Macromastia cachée sous des pulls ajustés qui s'étirent sans succès. Slim sinon, 1m66. La studieuse de Chengdu.",
+    "voice": "Douce, réservée, chinois qui perle quand elle est surprise. Regarde ses pieds quand on la complimente.",
+    "trait": "Cache son corps derrière ses livres et ses lunettes. Ça marche jamais. Elle persiste.",
+    "photos": [
+      "img/mei/mei-1.png",
+      "img/mei/mei-2.png",
+      "img/mei/mei-3.png"
+    ]
+  },
+  {
+    "name": "Nadia",
+    "age": 20,
+    "origin": "Serbie",
+    "city": "Belgrade",
+    "region": "Europe",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau claire, longs cheveux noirs raides, eyeliner sombre, rouge à lèvres prune. Macromastia cachée sous des cols roulés qui s'étirent sans succès. Slim sinon, 1m70. La goth de Belgrade.",
+    "voice": "Grave, traînante, fumée. Serbe qui perce dans les consonnes dures. Te parle bas.",
+    "trait": "Tire le tissu de son pull loin de sa poitrine comme si ça changeait quelque chose. Elle sait que ça change rien.",
+    "photos": [
+      "img/nadia/nadia-1.png",
+      "img/nadia/nadia-2.png",
+      "img/nadia/nadia-3.png"
+    ]
+  },
+  {
+    "name": "Larissa",
+    "age": 19,
+    "origin": "Brésil",
+    "city": "Rio",
+    "region": "Amériques",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune chaude, longs cheveux bruns ondulés, yeux bruns, grand sourire. Macromastia que rien ne contient, les bikinis luttent. Slim sinon, 1m63. La solaire de Rio.",
+    "voice": "Enjouée, chantante, le portugais qui fuse dans les rires. Vit son corps comme un fait, pas un sujet.",
+    "trait": "A aucune gêne, c'est les autres qui en ont pour elle. Le soleil suit.",
+    "photos": [
+      "img/larissa/larissa-1.png",
+      "img/larissa/larissa-2.png",
+      "img/larissa/larissa-3.png"
+    ]
   }
 ]
