@@ -38,6 +38,8 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .flirt-hearts .off{color:#4a3d30}
 .flirt-lvl4{font-size:1.15rem;line-height:1;animation:glowPulse 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}
 .flirt-lvl5{font-size:1.3rem;line-height:1;animation:glowPulseRed 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff0033,0 0 12px #ff0033,0 0 18px #ff003380}
+.flirt-lvl6{font-size:1.3rem;line-height:1;background:linear-gradient(90deg,#ff0033,#d4a574,#ff3366,#d4a574,#ff0033);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:glowPulseRed 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff003380,0 0 12px #ff003380}
+.flirt-lvl6 .s-mark{font-size:0.75rem;vertical-align:super;color:#d4a574;-webkit-text-fill-color:#d4a574}
 @keyframes glowPulseRed{0%,100%{opacity:1;text-shadow:0 0 6px #ff0033,0 0 12px #ff0033,0 0 18px #ff003380}50%{opacity:.7;text-shadow:0 0 3px #ff0033,0 0 6px #ff0033,0 0 12px #ff003360}}
 @keyframes glowPulse{0%,100%{opacity:1;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}50%{opacity:.7;text-shadow:0 0 3px #ff3366,0 0 6px #ff3366,0 0 12px #ff336660}}
 .dim{opacity:.5;filter:grayscale(60%)}
@@ -170,7 +172,9 @@ function renderGrid(filtered){
     const img=hasPhoto
       ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`
       : `<div class="card-placeholder">photo à venir</div>`;
-    const flirtDots=a.flirty>=5
+    const flirtDots=a.flirty>=6
+      ? `<span class="flirt-lvl6">♥<span class="s-mark">S</span></span>`
+      : a.flirty>=5
       ? `<span class="flirt-lvl5">☠♥</span>`
       : a.flirty>=4
       ? `<span class="flirt-lvl4">♥!</span>`
@@ -211,7 +215,9 @@ function buildProfile(a){
       <span class="profile-close" onclick="closeProfile()">&times;</span>
       <h2>${a.name}</h2>
       <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
-      ${a.flirty>=5
+      ${a.flirty>=6
+        ? `<span class="profile-badge badge-flirt flirt-lvl6" style="font-size:0.9rem;padding:4px 12px">♥ S — Rang S</span>`
+        : a.flirty>=5
         ? `<span class="profile-badge badge-flirt flirt-lvl5" style="font-size:0.9rem;padding:4px 12px">☠♥ LVL 5 — Succubus</span>`
         : a.flirty>=4
         ? `<span class="profile-badge badge-flirt flirt-lvl4" style="font-size:0.8rem;padding:4px 12px">♥! LVL 4</span>`
