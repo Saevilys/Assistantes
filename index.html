@@ -24,6 +24,8 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .card{position:relative;border-radius:8px;overflow:hidden;cursor:pointer;transition:transform .2s,box-shadow .2s;background:#1a1512;border:1px solid #2d2520}
 .card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,.5)}
 .card img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block}
+.card .hovervid{display:none;position:absolute;top:0;left:0;width:100%;aspect-ratio:3/4;object-fit:cover;pointer-events:none}
+.card:hover .hovervid{display:block}
 .card-placeholder{width:100%;aspect-ratio:3/4;display:flex;align-items:center;justify-content:center;background:#1a1512;border:1px dashed #3d3530;border-radius:6px;margin:6px;color:#4a3d30;font-size:0.8rem;font-style:italic}
 .status-dot{position:absolute;top:10px;right:10px;width:10px;height:10px;border-radius:50%;border:2px solid #12100e}
 .status-dot.on{background:#4ade80}
@@ -187,6 +189,7 @@ function renderGrid(filtered){
       <div class="flirt">${flirtDots}</div>
       <div class="status-dot ${a.active?'on':'off'}"></div>
       ${img}
+      ${a.idle?`<video class="hovervid" src="${a.idle}" muted loop preload="metadata" playsinline></video>`:''}
       <div class="card-info">
         <div class="card-name">${a.name}</div>
         <div class="card-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
@@ -197,6 +200,11 @@ function renderGrid(filtered){
 
   document.querySelectorAll('.card').forEach(c=>{
     c.onclick=()=>openProfile(c.dataset.name);
+    const v=c.querySelector('.hovervid');
+    if(v){
+      c.addEventListener('mouseenter',()=>{v.play().catch(()=>{});});
+      c.addEventListener('mouseleave',()=>{v.pause();v.currentTime=0;});
+    }
   });
 }
 
