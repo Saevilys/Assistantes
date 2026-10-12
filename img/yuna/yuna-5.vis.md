@@ -1,0 +1,13 @@
+## Image (generated) by Layla - 2026-10-11 22:27 UTC
+### Context
+Made with image_generate from the prompt: "A 24-year-old Korean woman, photorealistic smartphone photo, raw unedited grain, realistic skin texture with visible pores, youthful face, smooth skin. Warm fair skin, long straight black hair with blunt bangs, almond-shaped dark eyes, soft full lips, round face. Voluptuous build, slim waist, truly overflowing bust, generous wide hips, 1m74. She wears a black streaming hoodie half-open showing a black bra strap and cleavage, black shorts. Sitting at a streaming setup in her Seoul bedroom, ring light in front, dual monitors showing chat and a game, mechanical keyboard, pink LED strips behind. Headphones on, talking to camera with a bright cheerful expression, one hand near her face."
+### Vision
+A portrait-oriented, photorealistic image of a young East Asian woman seated at a streaming desk. She has long straight black hair with blunt bangs, almond-shaped dark eyes, soft full lips, and a round face with warm fair skin. She wears large over-ear black headphones, a black zip-up hoodie left open to reveal a black bra strap and cleavage, and black shorts. Her left hand is raised near her cheek, and her expression is bright and cheerful, mouth slightly open as if speaking.
+
+Setting: a bedroom streaming setup. Behind her is a circular white ring light on a stand against a pale wall, and magenta/pink LED lighting washes the scene. To her right (viewer's right) are two monitors: the left one shows a top-down game world map with terrain and markers, the right one shows a chat interface with a small video preview pane. Below the monitors is a black mechanical keyboard on a desk, and a small black speaker sits between the screen and keyboard. A webcams or phone mount is visible at the top right. She sits in a black-and-pink gaming chair; the headrest bears a pink circular logo with text that reads approximately "HLA."
+
+Composition and framing: medium shot from roughly the waist up, the subject centered and angled slightly toward the camera, with the streaming gear filling the right half of the frame and the ring light framing her head. Lighting is dominated by the cool white ring light on her face and the warm pink ambient glow behind, creating a contrast of white and magenta tones. The image has the slightly soft, rendered quality typical of a smartphone photo.
+
+Visible text: the chair headrest logo "HLA"; monitor content is largely small and not fully legible, showing map labels and chat lines in a game/streaming interface.
+
+Mood: upbeat, casual, and self-assured, evoking a live-streaming or content-creation context.
