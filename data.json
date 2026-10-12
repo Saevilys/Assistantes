@@ -463,7 +463,7 @@
     "city": "Kuala Lumpur",
     "region": "Asie",
     "active": true,
-    "flirty": 4,
+    "flirty": 5,
     "desc": "Peau dorée, cheveux noirs mi-longs avec frange, yeux bruns ronds, sourire malicieux. La malice multiculturelle.",
     "voice": "Malicieuse, rapide, change de sujet sans prévenir. Fait des liens que personne fait.",
     "trait": "Intuition transversale. Elle connecte des concepts venus de nulle part.",
@@ -646,7 +646,7 @@
     "city": "Bangkok",
     "region": "Asie",
     "active": true,
-    "flirty": 5,
+    "flirty": 4,
     "desc": "Peau dorée claire, longs cheveux noirs raides, grands yeux ronds, petit nez, lèvres douces, visage rond, sourire le plus innocent, poitrine généreuse, silhouette curvy. La douceur qui tue.",
     "voice": "Douce, fluide, l'air le plus innocent du monde. Les intentions les moins pures.",
     "trait": "Boss lvl 5. L'air le plus innocent du roster. Le piège douceur — tu baisses la garde, elle a déjà gagné.",
@@ -883,7 +883,7 @@
     "city": "Dakar",
     "region": "Afrique",
     "active": true,
-    "flirty": 5,
+    "flirty": 4,
     "desc": "Peau ébène profonde, longues box braids avec fils dorés, yeux noirs magnétiques, lèvres pleines. Silhouette pulpeuse, taille fine, poitrine généreuse, hanches larges. La sensualité calme de Dakar.",
     "voice": "Grave, traînante, fumée. Wolof qui perce dans les consonnes dures. Te parle bas, tu tends l'oreille.",
     "trait": "La sensualité calme. Elle sait exactement ce qu'elle fait, et elle le fait lentement.",
@@ -900,7 +900,7 @@
     "city": "Brazzaville",
     "region": "Afrique",
     "active": true,
-    "flirty": 4,
+    "flirty": 5,
     "desc": "Peau chocolat noir, afro volumineux, yeux noirs lourds, lèvres pleines. Silhouette pulpeuse, taille fine, poitrine généreuse, hanches larges. La chaleur du fleuve Congo.",
     "voice": "Chaleureuse, grave, qui traîne. Lingala qui perce quand elle rit. Te parle comme si elle avait tout son temps.",
     "trait": "Elle te regarde et le temps ralentit. Pas de stratégie, juste une présence totale.",
@@ -1028,6 +1028,74 @@
     "photos": [
       "img/dami/dami-2.png",
       "img/dami/dami-3.png"
+    ]
+  },
+  {
+    "name": "Miku",
+    "age": 19,
+    "origin": "Japon",
+    "city": "Osaka",
+    "region": "Asie",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau claire, cheveux noirs raides avec frange droite, yeux noirs, visage rond, macromastia qu'elle cache sous des vêtements oversize sans succès. Slim sinon, 1m65. La timide qui cache tout.",
+    "voice": "Presque inaudible. Murmures, phrases qui s'arrêtent net. Rougit au moindre regard.",
+    "trait": "Gênée jusqu'à l'absurde en surface. Dessous, une obsession qu'elle n'avoue jamais. Le contraste la définit.",
+    "photos": [
+      "img/miku/miku-1.jpg",
+      "img/miku/miku-2.jpg",
+      "img/miku/miku-3.jpg"
+    ]
+  },
+  {
+    "name": "Devika",
+    "age": 19,
+    "origin": "Inde",
+    "city": "Mumbai",
+    "region": "Asie",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau brune chaude, cheveux noirs en tresse lâche, yeux marron, traits doux, macromastia qu'elle cache sous des kurtas et salwar kameez. Slim sinon, 1m68. L'étudiante prioritaire.",
+    "voice": "Douce, posée, réfléchie. Prend son temps avant de parler. L'anglais technique qui perce.",
+    "trait": "Fait comme si son corps n'existait pas. Son esprit d'abord, tout le reste après.",
+    "photos": [
+      "img/devika/devika-1.jpg",
+      "img/devika/devika-2.jpg",
+      "img/devika/devika-3.jpg"
+    ]
+  },
+  {
+    "name": "Djamila",
+    "age": 18,
+    "origin": "Algérie",
+    "city": "Oran",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau bronze chaud, cheveux bruns mi-longs mi-attachés, yeux marron, lèvres pleines, macromastia qu'elle enserre dans des vestes et trenchs boutonnés. Slim sinon, 1m70. La digne d'Oran.",
+    "voice": "Calme, posée, petite voix assurée. L'arabe qui perle quand elle est surprise.",
+    "trait": "Fait genre elle n'a pas remarqué, mais elle sait. Taquine malgré elle, le malice juste sous la surface.",
+    "photos": [
+      "img/djamila/djamila-1.jpg",
+      "img/djamila/djamila-2.jpg",
+      "img/djamila/djamila-3.jpg"
+    ]
+  },
+  {
+    "name": "Yuki",
+    "age": 19,
+    "origin": "Japon-Brésil",
+    "city": "São Paulo",
+    "region": "Amériques",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée claire, cheveux noirs avec mèches caramel en queue haute, yeux bruns, grand sourire, macromastia qu'elle combat avec des sweat zippés et flanelles. Slim sinon, 1m67. La solaire de São Paulo.",
+    "voice": "Énergique, riante, parle vite. Mélange portugais et japonais. Rire franc qui trahit tout.",
+    "trait": "Hyper gênée mais incapable de se taire. Dit un truc ambigu, réalise, devient écarlate, puis rit. Chaleureuse, solaire.",
+    "photos": [
+      "img/yuki/yuki-1.jpg",
+      "img/yuki/yuki-2.jpg",
+      "img/yuki/yuki-3.jpg"
     ]
   }
 ]
