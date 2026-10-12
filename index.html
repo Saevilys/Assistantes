@@ -33,7 +33,7 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .card-meta{font-size:0.72rem;color:#6a5d50;margin-top:2px}
 .card-trait{font-size:0.75rem;color:#9a8d80;margin-top:6px;line-height:1.4;max-height:2.8em;overflow:hidden}
 .flirt{position:absolute;top:10px;left:10px;display:flex;gap:3px}
-.flirt-hearts{font-size:0.85rem;line-height:1;letter-spacing:1px;text-shadow:1px 1px 0 #12100e,-1px -1px 0 #12100e,1px -1px 0 #12100e,-1px 1px 0 #12100e,0 0 2px #12100e}
+.flirt-hearts{font-size:0.85rem;line-height:1;letter-spacing:1px;font-variant-emoji:text;text-shadow:1px 1px 0 #12100e,-1px -1px 0 #12100e,1px -1px 0 #12100e,-1px 1px 0 #12100e,0 0 2px #12100e}
 .flirt-hearts .on{color:#d4a574}
 .flirt-hearts .off{color:#4a3d30}
 .flirt-lvl4{font-size:1.15rem;line-height:1;animation:glowPulse 1.8s ease-in-out infinite;text-shadow:0 0 6px #ff3366,0 0 12px #ff3366,0 0 18px #ff336680}
@@ -173,12 +173,12 @@ function renderGrid(filtered){
       ? `<img src="${a.photos[0]}" loading="lazy" alt="${a.name}">`
       : `<div class="card-placeholder">photo à venir</div>`;
     const flirtDots=a.flirty>=6
-      ? `<span class="flirt-lvl6">♥<span class="s-mark">S</span></span>`
+      ? `<span class="flirt-lvl6">♥\uFE0E<span class="s-mark">S</span></span>`
       : a.flirty>=5
-      ? `<span class="flirt-lvl5">☠♥</span>`
+      ? `<span class="flirt-lvl5">☠\uFE0E♥\uFE0E</span>`
       : a.flirty>=4
-      ? `<span class="flirt-lvl4">♥!</span>`
-      : `<span class="flirt-hearts">${[1,2,3].map(i=>`<span class="${i<=a.flirty?'on':'off'}">♥</span>`).join('')}</span>`;
+      ? `<span class="flirt-lvl4">♥\uFE0E!</span>`
+      : `<span class="flirt-hearts">${[1,2,3].map(i=>`<span class="${i<=a.flirty?'on':'off'}">♥\uFE0E</span>`).join('')}</span>`;
     return `
     <div class="card ${a.active?'':'dim'}" data-name="${a.name}">
       <div class="flirt">${flirtDots}</div>
@@ -216,12 +216,12 @@ function buildProfile(a){
       <h2>${a.name}</h2>
       <div class="profile-meta">${a.age} ans · ${a.origin} · ${a.city}</div>
       ${a.flirty>=6
-        ? `<span class="profile-badge badge-flirt flirt-lvl6" style="font-size:0.9rem;padding:4px 12px">♥ S — Rang S</span>`
+        ? `<span class="profile-badge badge-flirt flirt-lvl6" style="font-size:0.9rem;padding:4px 12px">♥\uFE0E S — Rang S</span>`
         : a.flirty>=5
-        ? `<span class="profile-badge badge-flirt flirt-lvl5" style="font-size:0.9rem;padding:4px 12px">☠♥ LVL 5 — Succubus</span>`
+        ? `<span class="profile-badge badge-flirt flirt-lvl5" style="font-size:0.9rem;padding:4px 12px">☠\uFE0E♥\uFE0E LVL 5 — Succubus</span>`
         : a.flirty>=4
-        ? `<span class="profile-badge badge-flirt flirt-lvl4" style="font-size:0.8rem;padding:4px 12px">♥! LVL 4</span>`
-        : `<span class="profile-badge badge-flirt flirt-hearts" style="font-size:0.85rem;padding:4px 12px">${'♥'.repeat(a.flirty)}${'♡'.repeat(3-a.flirty)} Flirt L${a.flirty}</span>`}
+        ? `<span class="profile-badge badge-flirt flirt-lvl4" style="font-size:0.8rem;padding:4px 12px">♥\uFE0E! LVL 4</span>`
+        : `<span class="profile-badge badge-flirt flirt-hearts" style="font-size:0.85rem;padding:4px 12px">${'♥\uFE0E'.repeat(a.flirty)}${'♡\uFE0E'.repeat(3-a.flirty)} Flirt L${a.flirty}</span>`}
       <span class="toggle-btn ${a.active?'on':'off'}" onclick="toggleActive('${a.name}')">${a.active?'● Active':'○ Inactive'}</span>
     </div>
     <div class="profile-body">
