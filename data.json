@@ -1423,5 +1423,157 @@
       "img/nabi/nabi-7.png",
       "img/nabi/nabi-8.png"
     ]
+  },
+  {
+    "name": "Yulia",
+    "age": 23,
+    "origin": "Russie",
+    "city": "Saint-Pétersbourg",
+    "region": "Europe",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau très pâle, cheveux blonds cendrés plaqués en chignon strict, yeux gris clair froids, pommettes hautes slaves, lèvres pleines, maquillage minimal. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse qui tend le latex. Black latex catsuit intégral, gants noirs longs, écouteur covert. L'espionne de Saint-Pétersbourg.",
+    "voice": "Grave, calme, peu de mots. Chaque phrase pèse. Le silence entre deux mots fait plus que les mots eux-mêmes. Russe qui perce quand elle est surprise.",
+    "trait": "Elle te fixe sans ciller. Tu te sens comme un dossier ouvert. C'est pas de la intimidation, c'est de la collecte d'informations.",
+    "photos": [
+      "img/yulia/yulia-1.png",
+      "img/yulia/yulia-2.png"
+    ]
+  },
+  {
+    "name": "Wen",
+    "age": 24,
+    "origin": "Chine",
+    "city": "Shanghai",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée claire, cheveux noirs raides avec frange droite, yeux bruns ronds, visage rond doux, lèvres pleines, maquillage minimal. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse qui tend le bomber. Matte black tactical bodysuit sous bomber gris ouvert, écouteur sans fil. La hackeuse de Shanghai.",
+    "voice": "Douce, speed quand elle parle de code. Chinois qui perce quand elle panique. Shy mais précise.",
+    "trait": "Elle peut détruire un système en tapant avec une main en mangeant des nouilles de l'autre. Le silence de la salle serveurs la met en confiance.",
+    "photos": [
+      "img/wen/wen-1.png",
+      "img/wen/wen-2.png",
+      "img/wen/wen-3.png"
+    ]
+  },
+  {
+    "name": "Zahra",
+    "age": 25,
+    "origin": "Maroc",
+    "city": "Rabat",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau olive chaude, cheveux noirs ondulés longs lâchés sur une épaule, yeux noisette, traits élégants, sourcils arqués, lèvres pleines, maquillage subtil. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse dans le satin. Robe de soirée noire satinée, holster de cuisse discret. L'infiltration de Rabat.",
+    "voice": "Sensuelle, qui traîne. L'arabe qui perle quand elle murmure. Te fait oublier ce que tu gardais pour toi.",
+    "trait": "Elle te parle et tu dis tout. Pas parce qu'elle pose les bonnes questions, parce que tu oublies que t'es censé cacher des choses.",
+    "photos": [
+      "img/zahra/zahra-1.png",
+      "img/zahra/zahra-2.png",
+      "img/zahra/zahra-3.png"
+    ]
+  },
+  {
+    "name": "Katya",
+    "age": 22,
+    "origin": "Ukraine",
+    "city": "Lviv",
+    "region": "Europe",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire avec freckles légers, cheveux strawberry blonde en tresse, yeux verts, visage doux, grand sourire franc, lèvres pleines, pas de maquillage. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse sous la veste olive. Veste tactic olive, pantalon cargo, gants sans doigts, fusil en bandoulière. La tireuse de Lviv.",
+    "voice": "Claire, riante, un peu garçonne. L'ukrainien qui fuse quand elle s'excite. Elle rit de tout, même de la dangerosité.",
+    "trait": "Elle fait l'inventaire de tes faiblesses en mangeant une pomme. Le sourire est sincère, le compte est exact.",
+    "photos": [
+      "img/katya/katya-1.png",
+      "img/katya/katya-2.png",
+      "img/katya/katya-3.png"
+    ]
+  },
+  {
+    "name": "Khady",
+    "age": 23,
+    "origin": "Sénégal",
+    "city": "Dakar",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau ébène profonde, cheveux bouclés naturels mi-longs, yeux bruns chauds, pommettes hautes, lèvres pleines, maquillage minimal, shy half-smile. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse qui tend le latex. Glossy black latex catsuit partiellement unzipped, harness tactical. La reconnaissance de Dakar.",
+    "voice": "Douce mais assurée. Le wolof qui perle quand elle est surprise. Calme, pas timide.",
+    "trait": "Elle mémorise une pièce en trois secondes. Sorties, entrées, visages, armes potentielles. Elle a tout avant que t'ailles remarqué qu'elle était là.",
+    "photos": [
+      "img/khady/khady-1.png",
+      "img/khady/khady-2.png",
+      "img/khady/khady-3.png"
+    ]
+  },
+  {
+    "name": "Vaimiti",
+    "age": 22,
+    "origin": "Polynésie française",
+    "city": "Papeete",
+    "region": "Océanie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau brune dorée, cheveux noirs épais mi-longs lâchés, fleur de frangipani derrière l'oreille, yeux bruns chauds, lèvres pleines, sourire doux shy, maquillage minimal. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse qui tend le latex. Black latex catsuit unzipped au col, pieds nus. La récupération de Papeete.",
+    "voice": "Douce, lente, posée. Le tahitien qui traîne dans les voyelles. Te parle comme si t'avais tout le temps du monde.",
+    "trait": "Elle connaît chaque crique, chaque marée, chaque heure où la lune cache le bon passage. L'eau est son réseau.",
+    "photos": [
+      "img/vaimiti/vaimiti-1.png",
+      "img/vaimiti/vaimiti-2.png",
+      "img/vaimiti/vaimiti-3.png"
+    ]
+  },
+  {
+    "name": "Valentina",
+    "age": 24,
+    "origin": "Colombie",
+    "city": "Medellín",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau tan chaude, cheveux bruns ondulés longs lâchés sauvages, yeux bruns, lèvres pleines, maquillage minimal, shy smirk. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse qui tend le latex. Black latex catsuit unzipped au col, ceinturon tactic, boots de combat. L'extraction de Medellín.",
+    "voice": "Rythmée, traînante, l'espagnol qui fuse quand elle s'excite. Te parle en riant même quand c'est tendu.",
+    "trait": "Elle escalade un mur en te portant et te fait une blague en chemin. Le danger la fait rire, c'est pas du courage, c'est de l'habitude.",
+    "photos": [
+      "img/valentina/valentina-1.png",
+      "img/valentina/valentina-2.png",
+      "img/valentina/valentina-3.png"
+    ]
+  },
+  {
+    "name": "Sari",
+    "age": 22,
+    "origin": "Thaïlande",
+    "city": "Bangkok",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée claire, cheveux noirs raides en queue haute, yeux amande sombres, visage rond doux, lèvres pleines, maquillage minimal, shy blush. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. Matte black latex catsuit sous chemise lin ouverte, écouteur, sac banane. L'infiltration de Bangkok.",
+    "voice": "Douce, speed. Le thaï qui perle quand elle est stressée. Shy mais efficace.",
+    "trait": "Elle fond dans la foule comme un pixel dans une image. Tu la perds de vue, elle te voit toujours.",
+    "photos": [
+      "img/sari/sari-1.png",
+      "img/sari/sari-2.png",
+      "img/sari/sari-3.png"
+    ]
+  },
+  {
+    "name": "Divya",
+    "age": 23,
+    "origin": "Inde",
+    "city": "Mumbai",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune chaude, cheveux noirs épais en tresse désordonnée sur une épaule, yeux bruns, sourcils arqués, lèvres pleines, maquillage minimal, shy half-smile. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse qui tend le latex. Black latex catsuit unzipped au col, fine chaîne en or, gants tactics, écouteur. L'extraction de Mumbai.",
+    "voice": "Calme, posée, anglais qui perle sous l'hindi. Directe mais douce. Peu de mots, bien choisis.",
+    "trait": "Elle calcule trois issues avant d'entrer. Si elle sourit, c'est que le plan marche.",
+    "photos": [
+      "img/divya/divya-1.png",
+      "img/divya/divya-2.png",
+      "img/divya/divya-3.png"
+    ]
   }
 ]
