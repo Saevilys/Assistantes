@@ -1,0 +1,13 @@
+## Image (generated) by Layla - 2026-10-13 22:03 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style. A 25-year-old Dominican woman, deep caramel skin, long thick wavy dark brown hair loose over both shoulders, bright eyes, full lips, curvy voluptuous body with very large bust, slim waist, wide hips. She sits on a hotel windowsill at night, one leg up, city lights bokeh behind her through the glass. Teal maid uniform jacket completely removed, wearing a black fitted tank top stretched tight, uniform skirt hiked up to upper thigh. One hand resting on her raised knee, the other gripping the windowsill. Serious intense expression, no smile, dark eyes locked on camera, lips slightly parted. Light makeup: winged eyeliner, nude lip. Framing head to mid-thigh. Warm low light mixed with cool window glow, high ISO grain."
+### Vision
+A vertical portrait photograph showing a young woman with deep caramel-brown skin and long, dark brown wavy hair falling loosely over both shoulders. She is seated on a low white windowsill or ledge, leaning slightly toward the camera. Her expression is serious and intense, dark eyes locked directly on the lens, lips slightly parted, with winged black eyeliner and a neutral nude lip color.
+
+Clothing: she wears a tight black fitted tank top or sports-style top that stretches across her chest, and a short teal/turquoise skirt hiked up to the upper thigh. A matching teal jacket is draped off her shoulders, hanging open behind her back and over one shoulder, revealing her skin.
+
+Pose: she sits with one leg raised and bent, the foot planted near the ledge, while the other leg extends down. One hand rests on her raised knee; the other hand grips the edge of the windowsill beside her. The framing runs from the head down to mid-thigh, a medium close-up.
+
+Setting and light: the scene is at night indoors beside a window. Behind her through the glass are out-of-focus city lights rendered as colorful bokeh circles in warm orange, red, and white tones. A reflection of her dark hair is visible in the window pane on the left side of the frame. The lighting is a mix of warm interior light on her skin and cooler glow from the window, with visible high-ISO grain across the image. The background wall and window frame are dark gray and black.
+
+Composition: the subject is centered, slightly right of middle, occupying most of the frame. The mood is intimate and candid, resembling a raw smartphone snapshot. No text, watermarks, logos, banners, or interface elements are visible anywhere in the image.
