@@ -1714,5 +1714,25 @@
       "img/iliana/iliana-5.jpg",
       "img/iliana/iliana-6.jpg"
     ]
+  },
+  {
+    "name": "Pyam",
+    "age": 22,
+    "origin": "Corée du Nord",
+    "city": "Pyongyang",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Cheveux noirs en carré strict avec frange, peau porcelaine, pommettes hautes, yeux amande sombres. Uniforme olive cintré, col haut. La commandante qui fait la couverture.",
+    "voice": "Directe, calme, autoritaire. Elle dit, elle ne demande pas. Une phrase plate qui démolit.",
+    "trait": "Elle contrôle tout, sauf ce que son uniforme ne peut pas cacher.",
+    "photos": [
+      "img/pyam/pyam-1.png",
+      "img/pyam/pyam-2.png",
+      "img/pyam/pyam-3.png",
+      "img/pyam/pyam-4.png",
+      "img/pyam/pyam-5.png",
+      "img/pyam/pyam-6.png"
+    ]
   }
 ]
