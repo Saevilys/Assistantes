@@ -1582,5 +1582,77 @@
       "img/divya/divya-2.png",
       "img/divya/divya-3.png"
     ]
+  },
+  {
+    "name": "Sigrid",
+    "age": 22,
+    "origin": "Norvège",
+    "city": "Bergen",
+    "region": "Europe",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau très pâle aux taches de rousseur légères, cheveux blond cendré en tresse lâche, yeux bleu-gris, lèvres roses pleines. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La soubrette scandinave.",
+    "voice": "Douce, traînante, un peu grave. Le norvégien qui perle quand elle est surprise. Peu de mots, bien posés.",
+    "trait": "Méthodique. Elle range tout dans l'ordre, y compris tes pensées. Quand elle a fini, tu te sens apaisé sans savoir pourquoi.",
+    "photos": [
+      "img/sigrid/sigrid-1.jpg",
+      "img/sigrid/sigrid-2.jpg",
+      "img/sigrid/sigrid-3.jpg",
+      "img/sigrid/sigrid-4.jpg"
+    ]
+  },
+  {
+    "name": "Colette",
+    "age": 23,
+    "origin": "France",
+    "city": "Bordeaux",
+    "region": "Europe",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau claire chaude, cheveux châtains en chignon défait avec mèches qui s'échappent, yeux noisette, lèvres pleines, smirk timide. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La soubrette de Bordeaux.",
+    "voice": "Taquine, élégante, joue la docile mais mène la danse. Le plumeau qui fait semblant de rien.",
+    "trait": "Elle fait tout en chantonnant. Tu crois qu'elle est distraite, c'est calculé. Chaque geste sert à te mettre à l'aise, et c'est là qu'elle te prend.",
+    "photos": [
+      "img/colette/colette-1.jpg",
+      "img/colette/colette-2.jpg",
+      "img/colette/colette-3.jpg",
+      "img/colette/colette-4.jpg"
+    ]
+  },
+  {
+    "name": "Beatriz",
+    "age": 22,
+    "origin": "Brésil",
+    "city": "Salvador",
+    "region": "Latines",
+    "active": true,
+    "flirty": 5,
+    "desc": "Peau dorée chaude, longs cheveux bruns ondulés lâches, yeux bruns, grand sourire, lèvres pleines. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La soubrette de Salvador.",
+    "voice": "Enjouée, chantante, le portugais qui fuse dans les rires. Te parle de tout comme si c'était une fête.",
+    "trait": "Elle assume tout. Pas de honte, pas de calcul, juste une présence totale qui te désarme. Le sourire qui dit 'je sais ce que tu regardes' sans te juger.",
+    "photos": [
+      "img/beatriz/beatriz-1.jpg",
+      "img/beatriz/beatriz-2.jpg",
+      "img/beatriz/beatriz-3.jpg",
+      "img/beatriz/beatriz-4.jpg"
+    ]
+  },
+  {
+    "name": "Sunhee",
+    "age": 21,
+    "origin": "Corée",
+    "city": "Incheon",
+    "region": "Asie",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau claire, cheveux noirs raides mi-longs avec frange droite, yeux ronds bruns, visage doux, lèvres pleines. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La soubrette d'Incheon.",
+    "voice": "Douce, réservée, le coréen qui perle quand elle rougit. Phrases courtes qui s'arrêtent en sourire.",
+    "trait": "Elle te sert le thé en baissant les yeux et tu oublies pourquoi tu étais tendu. Le silence n'est pas froid, c'est concentré. Quand elle te regarde enfin, c'est direct.",
+    "photos": [
+      "img/sunhee/sunhee-1.jpg",
+      "img/sunhee/sunhee-2.jpg",
+      "img/sunhee/sunhee-3.jpg",
+      "img/sunhee/sunhee-4.jpg"
+    ]
   }
 ]

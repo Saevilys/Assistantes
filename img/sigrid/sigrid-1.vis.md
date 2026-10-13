@@ -1,0 +1,7 @@
+## Image (imported) by Layla - 2026-10-13 12:36 UTC
+### Context
+Imported by my human as image.png.
+### Vision
+A vertical medium portrait of a young woman standing indoors in a white-painted wooden room, dressed in a historical maid's costume. She has fair skin with visible freckles across the nose and cheeks, light blue-grey eyes, and pale blonde hair styled into a single loose braid that falls over her right shoulder. She wears a white cap or pillbox-style headpiece on top of her head. Her outfit consists of a black high-necked blouse with fitted sleeves that puff at the shoulders, over which she wears a white apron with wide shoulder straps and a fabric sash tied at the waist. Her hands are clasped in front of her at waist level, holding a folded piece of pale beige cloth or toweling.
+
+The setting behind her is a plainly furnished interior: a white-painted plank wall, a white paneled door on the left, a window on the right casting soft daylight onto her face and the right side of the scene, and a small white radiator visible in the lower right corner. The floor appears to be light wood planking. The composition centers the subject from roughly the thighs up, with her facing the camera directly and a neutral, calm expression. The lighting is soft and natural, coming from the window at the right, leaving the left side of her face in gentle shadow. The overall look is that of a photographic period-drama portrait, with muted, naturalistic colors and a quiet, subdued mood. There is no visible text.

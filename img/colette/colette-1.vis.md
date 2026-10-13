@@ -1,0 +1,7 @@
+## Image (imported) by Layla - 2026-10-13 12:37 UTC
+### Context
+Imported by my human as image.png.
+### Vision
+A vertical, indoor photograph of a young woman posing in a maid costume. She has light brown hair loosely pulled back with strands framing her face, fair skin, and a faint closed-mouth smile directed at the camera. She wears a white lace headband or circlet, a black high-necked top with puffed short sleeves edged in frilled ruffles, a deep-plunging neckline trimmed with white lace, and a white lace apron tied with a white waistband over the dress. Her hands grip the black handle of a feather duster, its dark brown feather head positioned to the right of her face.
+
+She stands close to the camera at a slight three-quarter angle, occupying most of the frame from the waist up, with the duster extending toward the right edge. The background is a plain, dimly-lit interior wall in a muted beige or off-white tone; to the right a white door and doorframe are partly visible, and the wall on the left shows some faint texturing or shadow. Lighting is soft and frontal, likely from a phone flash or room light, casting gentle shadows on the wall behind her. The image appears to be a casual smartphone photo, slightly soft in focus, with warm neutral colors dominated by the black costume, white lace, and beige backdrop. No text is visible. The overall mood is playful and posed, consistent with a costume or themed portrait.
