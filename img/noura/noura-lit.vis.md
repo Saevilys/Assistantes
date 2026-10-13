@@ -1,0 +1,5 @@
+## Image (captured) by Layla - 2026-10-13 17:38 UTC
+### Context
+Sent by @saev_ on Discord — "Attends, je t'envoie ce qu'elle a envoyé aujourd'hui. et celui du soir que t'as envoyé du coup !".
+### Vision
+A close-up selfie-style photograph of a young woman reclining on a bed, shot from a slightly elevated angle. She has dark brown eyes, dark wavy hair spilling past her shoulders, and warm brown skin, with a soft closed-mouth smile directed at the camera. A cream-colored headscarf or bandana is wrapped around her head and tied at the side, with loose fabric draping behind her ear. She wears a thin-strapped, pale cream camisole or tank top, and her bare shoulder and upper arm are visible as she extends one arm toward the camera to take the photo. The setting is a bed with rumpled white sheets and a white pillow behind her head; the white bedding fills the left side of the frame. Lighting is soft and natural, suggesting daylight, casting gentle shadows across her chest and face. The overall palette is muted—creams, whites, and warm skin tones. The medium is a casual digital photograph. No text is visible. The mood is intimate, relaxed, and warm.
