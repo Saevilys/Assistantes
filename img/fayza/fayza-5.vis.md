@@ -1,0 +1,9 @@
+## Image (edited) by Layla - 2026-10-13 20:06 UTC
+### Context
+Edited with image_edit from /images/fayza-v5b.png with the instruction: "Reduce the bust size moderately — make her chest noticeably smaller than in this image (which is too large and overflowing), but keep it full and generously sized, not flat and not small. A full, heavy bust that still fills the black lace bralette nicely, just without spilling out. Keep everything else identical: same face, same hair, same pose, same bedroom, same warm amber lighting."
+### Vision
+A vertically oriented indoor portrait photograph of a Black woman seated on a bed, captured from roughly the mid-thigh up. She faces the camera with a relaxed, faint smile, looking directly at the viewer. She has long, straight black hair parted down the middle falling over her shoulders, medium-dark skin, prominent rosy blush on both cheeks, and natural-looking makeup with defined eyes and glossy lips. Her right arm (on the left side of the frame) is bent with the hand raised to shoulder height, fingers loosely curled near the upper chest; the left arm rests downward along the side.
+
+She wears a black lace bralette with scalloped, floral-patterned lace cups and a thin underband, paired with matching black lace high-waisted bottoms. The bralette fits closely, the cups full but contained within the lace. Her torso and shoulders are otherwise bare.
+
+The setting is a bedroom lit by warm amber light. To the left stands a table lamp with a cream-colored shade, glowing, which is the main light source and casts soft shadows across the right side of her body and face. Behind her are beige or cream walls, a dark wooden headboard, and white pillows and bedding on the bed. A curtain edge is visible at the far left. The overall palette is warm — amber light, brown skin tones, black lace, cream linens. The mood is intimate and softly lit, in the style of a boudoir portrait. No text, logos, or overlays are visible.

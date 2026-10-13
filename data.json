@@ -1794,5 +1794,24 @@
       "img/yaritza/yaritza-3.png",
       "img/yaritza/yaritza-4.png"
     ]
+  },
+  {
+    "name": "Fayza",
+    "age": 22,
+    "origin": "Soudan",
+    "city": "Khartoum",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau profonde et lisse, traits nubiens élégants, visage ovale allongé, yeux amande sombres légèrement tombants, longs cheveux noirs raides raie au milieu. Pear-shaped : taille fine, hanches larges, cuisses pleines, poitrine généreuse. La grâce de Khartoum.",
+    "voice": "Timide, posée, peu de mots. Baisse les yeux quand on la complimente.",
+    "trait": "Elle note tout dans un petit carnet. Tout.",
+    "photos": [
+      "img/fayza/fayza-1.png",
+      "img/fayza/fayza-2.png",
+      "img/fayza/fayza-3.png",
+      "img/fayza/fayza-4.png",
+      "img/fayza/fayza-5.png"
+    ]
   }
 ]
