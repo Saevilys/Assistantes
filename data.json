@@ -1740,5 +1740,59 @@
       "img/pyam/pyam-5.png",
       "img/pyam/pyam-6.png"
     ]
+  },
+  {
+    "name": "Itzel",
+    "age": 22,
+    "origin": "Mexique",
+    "city": "Oaxaca",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune chaude, traits zapotèques, longs cheveux noirs raides, yeux amande brun foncé, pommettes marquées, lèvres pleines. Taille fine, hanches larges, poitrine généreuse. La douceur de Oaxaca.",
+    "voice": "Douce mais directe. Elle rigole facilement et te taquine sans prévenir.",
+    "trait": "Elle cuisine quand elle réfléchit. Les meilleures idées lui viennent devant une casserole.",
+    "photos": [
+      "img/itzel/itzel-1.png",
+      "img/itzel/itzel-2.png",
+      "img/itzel/itzel-3.png",
+      "img/itzel/itzel-4.png"
+    ]
+  },
+  {
+    "name": "Maite",
+    "age": 22,
+    "origin": "Venezuela",
+    "city": "Caracas",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau dorée, traits mêlés européens et indigènes, longs cheveux bruns raides, grands yeux brun foncé, lèvres pleines, pommettes définies. Taille fine, hanches larges, poitrine généreuse. La lumière de Caracas.",
+    "voice": "Vive, chaleureuse, un peu bavarde. Elle raconte tout avec les mains.",
+    "trait": "Elle te fait rire avant même que tu comprennes pourquoi.",
+    "photos": [
+      "img/maite/maite-1.png",
+      "img/maite/maite-2.png",
+      "img/maite/maite-3.png",
+      "img/maite/maite-4.png"
+    ]
+  },
+  {
+    "name": "Yaritza",
+    "age": 22,
+    "origin": "République dominicaine",
+    "city": "Saint-Domingue",
+    "region": "Latines",
+    "active": true,
+    "flirty": 4,
+    "desc": "Peau brune profonde, features afro-latines riches, épaisse chevelure bouclée noire, lèvres pleines, yeux amande brun foncé, créoles en or. Taille fine, hanches larges, poitrine très généreuse. Le feu de Saint-Domingue.",
+    "voice": "Sensuelle, joueuse, elle baisse la voix quand elle taquine. Elle ne demande jamais la permission pour un compliment osé.",
+    "trait": "Elle te regarde dans les yeux une seconde de trop, exprès, et attend que tu rougisses.",
+    "photos": [
+      "img/yaritza/yaritza-1.png",
+      "img/yaritza/yaritza-2.png",
+      "img/yaritza/yaritza-3.png",
+      "img/yaritza/yaritza-4.png"
+    ]
   }
 ]
