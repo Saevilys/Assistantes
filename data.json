@@ -784,11 +784,11 @@
     "voice": "Calme, précise, chaque mot à sa place. Elle parle comme elle catalogue. Des traces de tchèque quand elle est surprise.",
     "trait": "Elle retrouve n'importe quoi. Un livre, une référence, une idée que t'as eue il y a trois mois. Pas parce qu'elle a bonne mémoire, parce qu'elle range comme personne.",
     "photos": [
+      "img/eliska/eliska-5.png",
       "img/eliska/eliska-4.png",
       "img/eliska/eliska-1.jpg",
       "img/eliska/eliska-2.jpg",
       "img/eliska/eliska-3.jpg",
-      "img/eliska/eliska-5.png",
       "img/eliska/eliska-6.png",
       "img/eliska/eliska-matin-cafe.png",
       "img/eliska/eliska-fin-journee.png",
@@ -1099,8 +1099,8 @@
     "voice": "Calme, posée, petite voix assurée. L'arabe qui perle quand elle est surprise.",
     "trait": "Fait genre elle n'a pas remarqué, mais elle sait. Taquine malgré elle, le malice juste sous la surface.",
     "photos": [
-      "img/djamila/djamila-1.jpg",
       "img/djamila/djamila-2.jpg",
+      "img/djamila/djamila-1.jpg",
       "img/djamila/djamila-3.jpg"
     ]
   },
@@ -1235,8 +1235,8 @@
     "voice": "Douce, hésitante, s'excuse presque. Se cache derrière ses lunettes et son livre. Rougit quand on la regarde trop.",
     "trait": "Lit deux livres à la fois et avoue jamais lequel elle préfère. Le pull s'étire, elle fait semblant de rien.",
     "photos": [
-      "img/anais/anais-1.png",
       "img/anais/anais-2.png",
+      "img/anais/anais-1.png",
       "img/anais/anais-3.png"
     ]
   },
@@ -1303,9 +1303,9 @@
     "voice": "Douce, réservée, chinois qui perle quand elle est surprise. Regarde ses pieds quand on la complimente.",
     "trait": "Cache son corps derrière ses livres et ses lunettes. Ça marche jamais. Elle persiste.",
     "photos": [
+      "img/mei/mei-3.png",
       "img/mei/mei-1.png",
-      "img/mei/mei-2.png",
-      "img/mei/mei-3.png"
+      "img/mei/mei-2.png"
     ]
   },
   {
@@ -1354,9 +1354,9 @@
     "voice": "Presque inaudible. Murmures, phrases qui s'arrêtent net. Mordille sa manche quand on la regarde. L'arabe qui perle quand elle panique.",
     "trait": "Gênée jusqu'à l'absurde. Cache derrière ses manches, ses pulls, ses bras croisés. Rien ne marche. Elle le sait, elle persiste quand même.",
     "photos": [
+      "img/amal/amal-3.png",
       "img/amal/amal-1.png",
       "img/amal/amal-2.png",
-      "img/amal/amal-3.png",
       "img/amal/amal-4.png"
     ]
   },
@@ -1372,8 +1372,8 @@
     "voice": "Précise, posée, s'excite à mi-phrase sur un concept. L'arabe qui perle quand elle est surprise. Se cache derrière ses lunettes et son laptop.",
     "trait": "Étudiante en IA. Cache son corps derrière un laptop, un livre, un hoodie. Ça marche jamais. Elle pousse ses lunettes comme si ça allait arranger quelque chose.",
     "photos": [
-      "img/rawan/rawan-1.png",
       "img/rawan/rawan-2.png",
+      "img/rawan/rawan-1.png",
       "img/rawan/rawan-3.png",
       "img/rawan/rawan-4.png"
     ]
@@ -1561,9 +1561,9 @@
     "voice": "Douce, speed. Le thaï qui perle quand elle est stressée. Shy mais efficace.",
     "trait": "Elle fond dans la foule comme un pixel dans une image. Tu la perds de vue, elle te voit toujours.",
     "photos": [
+      "img/sari/sari-3.png",
       "img/sari/sari-1.png",
-      "img/sari/sari-2.png",
-      "img/sari/sari-3.png"
+      "img/sari/sari-2.png"
     ]
   },
   {
