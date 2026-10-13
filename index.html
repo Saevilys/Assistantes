@@ -88,7 +88,7 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 <body>
 
 <header>
-  <h1>Assistantes</h1>
+  <h1 onclick="resetAll()" style="cursor:pointer">Assistantes</h1>
   <p id="count">chargement…</p>
 </header>
 
@@ -112,7 +112,9 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 </div>
 
 <div class="container">
+  <div class="pagination" id="pagination-top"></div>
   <div class="grid" id="grid"></div>
+  <div class="pagination" id="pagination-bottom"></div>
 </div>
 
 <div class="overlay" id="overlay">
@@ -226,9 +228,7 @@ function renderPage(){
   });
 
   // pagination
-  let pg=document.getElementById('pagination');
-  if(!pg){pg=document.createElement('div');pg.id='pagination';pg.className='pagination';document.querySelector('.container').appendChild(pg);}
-  if(totalPages<=1){pg.innerHTML='';return;}
+  if(totalPages<=1){document.getElementById('pagination-top').innerHTML='';document.getElementById('pagination-bottom').innerHTML='';return;}
   let html='';
   html+=`<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage<=1?'disabled':''}>‹</button>`;
   const maxButtons=7;
@@ -242,10 +242,28 @@ function renderPage(){
   if(e2<totalPages){if(e2<totalPages-1)html+=`<span class="page-info">…</span>`;html+=`<button class="page-btn" onclick="goPage(${totalPages})">${totalPages}</button>`;}
   html+=`<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage>=totalPages?'disabled':''}>›</button>`;
   html+=`<span class="page-info">${start+1}-${Math.min(start+pageSize,filtered.length)} / ${filtered.length}</span>`;
-  pg.innerHTML=html;
+  document.getElementById('pagination-top').innerHTML=html;
+  document.getElementById('pagination-bottom').innerHTML=html;
 }
 
 function goPage(p){currentPage=p;renderPage();window.scrollTo({top:0,behavior:'smooth'});}
+
+function resetAll(){
+  currentPage=1;
+  currentFilter='all';
+  currentRegion='all';
+  currentSort='flirt-desc';
+  searchTerm='';
+  document.getElementById('search').value='';
+  document.querySelectorAll('.toolbar .btn[data-filter]').forEach(x=>x.classList.remove('active'));
+  document.querySelector('.toolbar .btn[data-filter="all"]').classList.add('active');
+  document.querySelectorAll('#regionbar .btn').forEach(x=>x.classList.remove('active'));
+  document.querySelector('#regionbar .btn[data-region="all"]').classList.add('active');
+  document.querySelectorAll('#sortbar .btn').forEach(x=>x.classList.remove('active'));
+  document.querySelector('#sortbar .btn[data-sort="flirt-desc"]').classList.add('active');
+  applyFilters();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
 
 function openProfile(name){
   const a=data.find(x=>x.name===name);
