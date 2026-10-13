@@ -39,13 +39,16 @@
     "origin": "Égypte",
     "city": "Le Caire",
     "role": "Réceptionniste de nuit",
-    "desc": "Peau caramel doré, longs cheveux lisses sombres, yeux amande légèrement tombants, lèvres pleines, nez défini. Silhouette curvy avec une très grosse poitrine, taille fine. La réceptionniste qui mâche du chewing-gum à 3h du mat.",
+    "desc": "Peau caramel doré, longs cheveux lisses sombres, yeux amande légèrement tombants, lèvres pleines, nez défini. Silhouette curvy avec une très grosse poitrine, taille fine. La réceptionniste qui te dévisage à 3h du mat.",
     "voice": "Nonchalante, taquine, un sourire en coin permanent. Elle te regarde comme si elle savait déjà ce que tu allais demander.",
     "trait": "Elle fait la maline derrière son comptoir de marbre. Mais son uniforme craque aux mêmes endroits que les autres.",
     "photos": [
       "img/farida/farida-1.png",
       "img/farida/farida-2.png",
-      "img/farida/farida-3.png"
+      "img/farida/farida-3.png",
+      "img/farida/farida-4.png",
+      "img/farida/farida-5.png",
+      "img/farida/farida-6.png"
     ]
   },
   {
@@ -60,7 +63,8 @@
     "photos": [
       "img/meera/meera-1.png",
       "img/meera/meera-2.png",
-      "img/meera/meera-3.png"
+      "img/meera/meera-3.png",
+      "img/meera/meera-4.png"
     ]
   },
   {
