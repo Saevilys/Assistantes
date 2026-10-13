@@ -62,5 +62,36 @@
       "img/meera/meera-2.png",
       "img/meera/meera-3.png"
     ]
+  },
+  {
+    "name": "Marisol",
+    "age": 25,
+    "origin": "République dominicaine",
+    "city": "Santo Domingo",
+    "role": "Bagagiste de nuit",
+    "desc": "Peau brune chaude, longs cheveux bouclés sombres, yeux sombres pétillants, lèvres pleines, pommettes hautes. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine. La bagagiste qui pousse son chariot en riant à 1h du mat.",
+    "voice": "Radiieuse, bruyante, elle rit de tout et avec tout le monde. Un rire qui résonne dans le couloir vide.",
+    "trait": "Elle te porte tes bagages comme si c'était une fête. Mais quand elle s'assoit sur le bord du lit, elle devient calme d'un coup.",
+    "photos": [
+      "img/marisol/marisol-1.png",
+      "img/marisol/marisol-2.png",
+      "img/marisol/marisol-3.png",
+      "img/marisol/marisol-4.png"
+    ]
+  },
+  {
+    "name": "Xiomara",
+    "age": 25,
+    "origin": "République dominicaine",
+    "city": "Santo Domingo",
+    "role": "Femme de chambre de nuit",
+    "desc": "Peau caramel profond, longs cheveux ondulés épais brun sombre, yeux vifs, lèvres pleines. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. La femme de chambre qui pousse son chariot en se dandinant à minuit.",
+    "voice": "Joviale, espiègle, elle rit la tête en arrière. Zéro gêne, zéro excuse.",
+    "trait": "Son chariot de ménage est toujours abandonné quelque part dans le couloir. Personne n'a jamais su pourquoi.",
+    "photos": [
+      "img/xiomara/xiomara-1.png",
+      "img/xiomara/xiomara-2.png",
+      "img/xiomara/xiomara-3.png"
+    ]
   }
 ]
