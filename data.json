@@ -1397,5 +1397,30 @@
       "img/margaux/margaux-5.png",
       "img/margaux/margaux-6.png"
     ]
+  },
+  {
+    "name": "Nabi",
+    "age": 23,
+    "origin": "Corée du Sud",
+    "city": "Séoul",
+    "region": "Asie",
+    "active": true,
+    "flirty": 5,
+    "special": true,
+    "desc": "Peau de porcelaine lumineuse, longs cheveux noirs raides jusqu'aux hanches, yeux amande au reflet doré surnaturel, lèvres pleines, silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La gumiho de Séoul.",
+    "voice": "Douce, murmurée, presque inaudible. Coréen qui traîne comme l'encens. Des phrases courtes qui s'éteignent en sourire. Le silence devient lourd quand elle te fixe.",
+    "trait": "Gumiho — renarde à neuf queues. La shy demeanor est le masque, le reflet doré dans ses yeux est la vérité. Quand les queues apparaissent dans l'ombre, c'est trop tard.",
+    "photos": [
+      "img/nabi/nabi-main.png",
+      "img/nabi/nabi-profil-hanbok.png",
+      "img/nabi/nabi-profil.png",
+      "img/nabi/nabi-2.png",
+      "img/nabi/nabi-3.png",
+      "img/nabi/nabi-4.png",
+      "img/nabi/nabi-5.png",
+      "img/nabi/nabi-6.png",
+      "img/nabi/nabi-7.png",
+      "img/nabi/nabi-8.png"
+    ]
   }
 ]
