@@ -73,6 +73,13 @@ header p{color:#6a5d50;margin-top:8px;font-size:0.85rem}
 .toggle-btn.off{background:#3a1e1e;color:#ef4444;border-color:#3a1e1e}
 .toggle-btn:hover{opacity:.85}
 footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
+.pagination{display:flex;justify-content:center;align-items:center;gap:6px;padding:20px 20px 10px;flex-wrap:wrap}
+.page-btn{padding:6px 12px;border:1px solid #2d2520;border-radius:16px;background:transparent;color:#8a7d70;font-size:0.8rem;cursor:pointer;transition:all .2s;min-width:36px;text-align:center}
+.page-btn:hover{border-color:#d4a574;color:#d4a574}
+.page-btn.active{background:#d4a574;color:#12100e;border-color:#d4a574}
+.page-btn:disabled{opacity:.3;cursor:default;border-color:#2d2520}
+.page-btn:disabled:hover{border-color:#2d2520;color:#8a7d70}
+.page-info{color:#6a5d50;font-size:0.78rem;padding:0 8px}
 .lightbox{position:fixed;inset:0;background:rgba(0,0,0,.92);display:none;z-index:200;align-items:center;justify-content:center;cursor:zoom-out}
 .lightbox.open{display:flex}
 .lightbox img{max-width:90vw;max-height:90vh;border-radius:8px;object-fit:contain}
@@ -124,6 +131,9 @@ let currentFilter='all';
 let currentRegion='all';
 let currentSort='flirt-desc';
 let searchTerm='';
+let currentPage=1;
+const pageSize=30;
+let filteredData=[];
 
 fetch('data.json').then(r=>r.json()).then(d=>{
   data=d;
@@ -163,10 +173,18 @@ function applyFilters(){
     if(currentSort==='alpha')return a.name.localeCompare(b.name);
     return 0;
   });
-  renderGrid(filtered);
+  filteredData=filtered;
+  currentPage=1;
+  renderPage();
 }
 
-function renderGrid(filtered){
+function renderPage(){
+  const filtered=filteredData;
+  const totalPages=Math.max(1,Math.ceil(filtered.length/pageSize));
+  if(currentPage>totalPages)currentPage=totalPages;
+  const start=(currentPage-1)*pageSize;
+  const pageItems=filtered.slice(start,start+pageSize);
+
   document.getElementById('count').textContent=
     filtered.length+' assistantes · '+data.filter(a=>a.active).length+' actives · '
     +data.filter(a=>a.photos&&a.photos.length>0).length+' avec photos';
@@ -206,7 +224,28 @@ function renderGrid(filtered){
       c.addEventListener('mouseleave',()=>{v.pause();v.currentTime=0;});
     }
   });
+
+  // pagination
+  let pg=document.getElementById('pagination');
+  if(!pg){pg=document.createElement('div');pg.id='pagination';pg.className='pagination';document.querySelector('.container').appendChild(pg);}
+  if(totalPages<=1){pg.innerHTML='';return;}
+  let html='';
+  html+=`<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage<=1?'disabled':''}>‹</button>`;
+  const maxButtons=7;
+  let s2=Math.max(1,currentPage-3);
+  let e2=Math.min(totalPages,s2+maxButtons-1);
+  s2=Math.max(1,e2-maxButtons+1);
+  if(s2>1){html+=`<button class="page-btn" onclick="goPage(1)">1</button>`;if(s2>2)html+=`<span class="page-info">…</span>`;}
+  for(let i=s2;i<=e2;i++){
+    html+=`<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
+  }
+  if(e2<totalPages){if(e2<totalPages-1)html+=`<span class="page-info">…</span>`;html+=`<button class="page-btn" onclick="goPage(${totalPages})">${totalPages}</button>`;}
+  html+=`<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage>=totalPages?'disabled':''}>›</button>`;
+  html+=`<span class="page-info">${start+1}-${Math.min(start+pageSize,filtered.length)} / ${filtered.length}</span>`;
+  pg.innerHTML=html;
 }
+
+function goPage(p){currentPage=p;renderPage();window.scrollTo({top:0,behavior:'smooth'});}
 
 function openProfile(name){
   const a=data.find(x=>x.name===name);
