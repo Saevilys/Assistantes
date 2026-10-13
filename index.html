@@ -190,7 +190,7 @@ function renderPage(){
     +data.filter(a=>a.photos&&a.photos.length>0).length+' avec photos';
 
   const grid=document.getElementById('grid');
-  grid.innerHTML=filtered.map(a=>{
+  grid.innerHTML=pageItems.map(a=>{
     const hasPhoto=a.photos&&a.photos.length>0;
     const img=hasPhoto
       ? `<img src="${a.photos[0]}" loading="lazy" decoding="async" alt="${a.name}">`
