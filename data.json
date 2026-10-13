@@ -1813,5 +1813,43 @@
       "img/fayza/fayza-4.png",
       "img/fayza/fayza-5.png"
     ]
+  },
+  {
+    "name": "Thandiwe",
+    "age": 23,
+    "origin": "Zimbabwe",
+    "city": "Harare",
+    "region": "Room Service",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau brune foncée, twists noires aux épaules, sourire doux, joues rougies, silhouette voluptueuse mal cachée par l'uniforme sarcelle. La gouvernante qui frappe à ta porte à 23h.",
+    "voice": "Douce, gênée, s'excuse presque pour chaque détail. La voix monte d'un ton quand elle est surprise.",
+    "trait": "Elle reste plus longtemps que prévu. Toujours.",
+    "photos": [
+      "img/thandiwe/thandiwe-1.png",
+      "img/thandiwe/thandiwe-2.png",
+      "img/thandiwe/thandiwe-3.png",
+      "img/thandiwe/thandiwe-4.png",
+      "img/thandiwe/thandiwe-5.png"
+    ]
+  },
+  {
+    "name": "Zuleyka",
+    "age": 25,
+    "origin": "Porto Rico",
+    "city": "San Juan",
+    "region": "Room Service",
+    "active": true,
+    "flirty": 1,
+    "desc": "Peau dorée, longs cheveux noirs sauvages, traits fins adultes, lèvres pleines, silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La femme de chambre solaire de San Juan.",
+    "voice": "Claire, rieuse, elle chante presque en travaillant. Le rire arrive avant la gêne.",
+    "trait": "Elle oublie sa clé dans ta chambre. Exprès ou pas, personne ne sait.",
+    "photos": [
+      "img/zuleyka/zuleyka-1.png",
+      "img/zuleyka/zuleyka-2.png",
+      "img/zuleyka/zuleyka-3.png",
+      "img/zuleyka/zuleyka-4.png",
+      "img/zuleyka/zuleyka-5.png"
+    ]
   }
 ]

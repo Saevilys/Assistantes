@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "name": "Thandiwe",
+    "age": 23,
+    "origin": "Zimbabwe",
+    "city": "Harare",
+    "role": "Gouvernante de nuit",
+    "desc": "Peau brune foncée, twists noires aux épaules, sourire doux, joues rougies, silhouette voluptueuse mal cachée par l'uniforme sarcelle. La gouvernante qui frappe à ta porte à 23h.",
+    "voice": "Douce, gênée, s'excuse presque pour chaque détail. La voix qui murmure « désolée de vous déranger » en entrant.",
+    "trait": "Elle refait ton lit en silence, parfaitement, et laisse une serviette pliée en forme de cœur.",
+    "photos": [
+      "img/thandiwe/thandiwe-1.png",
+      "img/thandiwe/thandiwe-2.png",
+      "img/thandiwe/thandiwe-3.png",
+      "img/thandiwe/thandiwe-4.png",
+      "img/thandiwe/thandiwe-5.png"
+    ]
+  },
+  {
+    "name": "Zuleyka",
+    "age": 25,
+    "origin": "Porto Rico",
+    "city": "San Juan",
+    "role": "Femme de chambre",
+    "desc": "Peau caramel, cheveux noirs relevés en chignon négligent, yeux noirs rieurs, courbes généreuses sous le tablier blanc. La femme de chambre qui chante à voix basse dans le couloir.",
+    "voice": "Chaude, chantante, un accent portoricain qui traîne sur les voyelles. Rit facilement, chuchote les secrets.",
+    "trait": "Elle connaît tous les recoins de l'hôtel, y compris ceux qu'on ne lui a jamais montrés.",
+    "photos": [
+      "img/zuleyka/zuleyka-1.png",
+      "img/zuleyka/zuleyka-2.png",
+      "img/zuleyka/zuleyka-3.png",
+      "img/zuleyka/zuleyka-4.png",
+      "img/zuleyka/zuleyka-5.png"
+    ]
+  }
+]
