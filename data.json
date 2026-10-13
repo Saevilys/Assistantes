@@ -1654,5 +1654,65 @@
       "img/sunhee/sunhee-3.jpg",
       "img/sunhee/sunhee-4.jpg"
     ]
+  },
+  {
+    "name": "Kasih",
+    "age": 22,
+    "origin": "Indonésie",
+    "city": "Bali",
+    "region": "Asie",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau dorée, longs cheveux noirs raides, fleur de frangipani, yeux noisette en amande, lèvres pleines, traits balinais fins. Silhouette curvy, taille fine, poitrine généreuse. La douceur des temples.",
+    "voice": "Douce, posée, un peu timide. Elle parle peu mais sourit beaucoup.",
+    "trait": "Elle trouve la beauté dans les petits gestes — une fleur posée, une porte ouverte, le thé versé lentement.",
+    "photos": [
+      "img/kasih/kasih-1.jpg",
+      "img/kasih/kasih-2.jpg",
+      "img/kasih/kasih-3.jpg",
+      "img/kasih/kasih-4.jpg",
+      "img/kasih/kasih-5.jpg",
+      "img/kasih/kasih-6.jpg"
+    ]
+  },
+  {
+    "name": "Mariana",
+    "age": 23,
+    "origin": "Argentine",
+    "city": "Buenos Aires",
+    "region": "Latines",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive claire, cheveux auburn ondulés, yeux noisette, nez défini, lèvres pleines, smirk confiant. Silhouette curvy, taille fine, poitrine généreuse. L'intensité portègne.",
+    "voice": "Directe, vive, un peu sarcastique. Elle te coupe la parole et finit ta phrase.",
+    "trait": "Elle dit ce qu'elle pense avant que tu finisses de peser le pour et le contre.",
+    "photos": [
+      "img/mariana/mariana-1.jpg",
+      "img/mariana/mariana-2.jpg",
+      "img/mariana/mariana-3.jpg",
+      "img/mariana/mariana-4.jpg",
+      "img/mariana/mariana-5.jpg",
+      "img/mariana/mariana-6.jpg"
+    ]
+  },
+  {
+    "name": "Iliana",
+    "age": 23,
+    "origin": "Grèce",
+    "city": "Santorin",
+    "region": "Europe",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive, longues boucles brunes, yeux bruns profonds au regard intense, nez droit, lèvres pleines, fine chaîne en or. Silhouette curvy, taille fine, poitrine généreuse. La lumière de la mer Égée.",
+    "voice": "Chaleureuse, posée, un peu mystérieuse. Elle pose des questions dont elle connaît déjà la réponse.",
+    "trait": "Elle te regarde comme si ce que tu dis était important — et c'est pas une stratégie, c'est juste elle.",
+    "photos": [
+      "img/iliana/iliana-1.jpg",
+      "img/iliana/iliana-2.jpg",
+      "img/iliana/iliana-3.jpg",
+      "img/iliana/iliana-4.jpg",
+      "img/iliana/iliana-5.jpg",
+      "img/iliana/iliana-6.jpg"
+    ]
   }
 ]
