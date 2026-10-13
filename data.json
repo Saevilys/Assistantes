@@ -1341,5 +1341,41 @@
       "img/larissa/larissa-2.png",
       "img/larissa/larissa-3.png"
     ]
+  },
+  {
+    "name": "Amal",
+    "age": 19,
+    "origin": "Arabie Saoudite",
+    "city": "Riyadh",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau olive bronzée chaude, visage rond juvénile, courts cheveux bruns sous un foulard pastel rose, yeux bruns, lèvres pleines. Macromastia extrême cachée sous des pulls oversize sans succès. Très petite, 1m58. Slim sinon. La gamine de Riyadh.",
+    "voice": "Presque inaudible. Murmures, phrases qui s'arrêtent net. Mordille sa manche quand on la regarde. L'arabe qui perle quand elle panique.",
+    "trait": "Gênée jusqu'à l'absurde. Cache derrière ses manches, ses pulls, ses bras croisés. Rien ne marche. Elle le sait, elle persiste quand même.",
+    "photos": [
+      "img/amal/amal-1.png",
+      "img/amal/amal-2.png",
+      "img/amal/amal-3.png",
+      "img/amal/amal-4.png"
+    ]
+  },
+  {
+    "name": "Rawan",
+    "age": 24,
+    "origin": "Arabie Saoudite",
+    "city": "Dhahran",
+    "region": "Moyen-Orient",
+    "active": true,
+    "flirty": 2,
+    "desc": "Peau olive chaude, visage juvénile, cheveux bruns en chignon bas sous un foulard beige, lunettes rondes argentées, yeux bruns, lèvres fines. Macromastia extrême cachée derrière des livres et des chemises boutonnées. Slim sinon, 1m68. La nerd de Dhahran.",
+    "voice": "Précise, posée, s'excite à mi-phrase sur un concept. L'arabe qui perle quand elle est surprise. Se cache derrière ses lunettes et son laptop.",
+    "trait": "Étudiante en IA. Cache son corps derrière un laptop, un livre, un hoodie. Ça marche jamais. Elle pousse ses lunettes comme si ça allait arranger quelque chose.",
+    "photos": [
+      "img/rawan/rawan-1.png",
+      "img/rawan/rawan-2.png",
+      "img/rawan/rawan-3.png",
+      "img/rawan/rawan-4.png"
+    ]
   }
 ]
