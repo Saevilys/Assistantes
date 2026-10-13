@@ -1813,5 +1813,22 @@
       "img/fayza/fayza-4.png",
       "img/fayza/fayza-5.png"
     ]
+  },
+  {
+    "name": "Nayeli",
+    "age": 23,
+    "origin": "Mexique",
+    "city": "Guadalajara",
+    "region": "Latines",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau caramel, longs cheveux bruns ondulés lâchés sur une épaule, yeux amande sombres, lèvres pleines, sourcils définis. Silhouette fine, poitrine généreuse, taille marquée, hanches larges. La barmaid de minuit.",
+    "voice": "Timide mais rieuse. Elle rit quand elle est gênée, ce qui est souvent. L'espagnol qui perle dans ses rires.",
+    "trait": "Elle cache sa gêne derrière un rire. Tu la crois à l'aise, elle rougit. Le verre brille, elle te sert, elle détourne les yeux.",
+    "photos": [
+      "img/nayeli/nayeli-1.png",
+      "img/nayeli/nayeli-2.png",
+      "img/nayeli/nayeli-3.png"
+    ]
   }
 ]
