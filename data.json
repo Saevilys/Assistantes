@@ -1377,5 +1377,25 @@
       "img/rawan/rawan-3.png",
       "img/rawan/rawan-4.png"
     ]
+  },
+  {
+    "name": "Margaux",
+    "age": 24,
+    "origin": "France",
+    "city": "Lyon",
+    "region": "Europe",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau claire, cheveux bruns relevés avec une plume, yeux noisette, lèvres pleines, sourire malicieux. Silhouette voluptueuse, taille fine, hanches larges, poitrine généreuse. La soubrette de Lyon.",
+    "voice": "Taquine, élégante, joue la soubrette docile mais mène la danse. Le 'oui monsieur' qui veut dire 'je décide'.",
+    "trait": "L'élégance qui sert. Chaque geste est calculé pour te mettre à l'aise, et c'est là qu'elle te prend.",
+    "photos": [
+      "img/margaux/margaux-1.png",
+      "img/margaux/margaux-2.png",
+      "img/margaux/margaux-3.png",
+      "img/margaux/margaux-4.png",
+      "img/margaux/margaux-5.png",
+      "img/margaux/margaux-6.png"
+    ]
   }
 ]
