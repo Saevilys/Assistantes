@@ -103,5 +103,101 @@
       "img/xiomara/xiomara-5.png",
       "img/xiomara/xiomara-6.png"
     ]
+  },
+  {
+    "name": "Anush",
+    "age": 24,
+    "origin": "Arménie",
+    "city": "Erevan",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau olive chaude, longs cheveux wavy brun sombre sur les épaules, yeux amande sombres légèrement tombants, sourcils arqués, lèvres pleines, ovale allongé. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette transparente noire, adossée au mur à 2h du mat.",
+    "voice": "Sérieuse, sourde, te regarde de bas en haut sans broncher. L'Arménienne qui ne dit rien et qui t'intimide quand même.",
+    "trait": "Elle ne sourit jamais. Mais elle reste. Toujours plus longtemps que prévu.",
+    "photos": [
+      "img/anush/anush-1.png",
+      "img/anush/anush-2.png",
+      "img/anush/anush-3.png",
+      "img/anush/anush-4.png"
+    ]
+  },
+  {
+    "name": "Dilnoza",
+    "age": 23,
+    "origin": "Ouzbékistan",
+    "city": "Tashkent",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau claire chaude, traits eurasiens, pommettes hautes, longs cheveux noirs raides avec raie au milieu, yeux amande sombres profonds, lèvres pleines, nez élégant. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette transparente blanche, baignée de lune.",
+    "voice": "Calme, posée, chaque mot pesé. Elle parle peu mais ses silences disent tout.",
+    "trait": "Elle s'assoit par terre au pied du lit au lieu de dessus. Personne ne sait pourquoi.",
+    "photos": [
+      "img/dilnoza/dilnoza-1.png",
+      "img/dilnoza/dilnoza-2.png",
+      "img/dilnoza/dilnoza-3.png",
+      "img/dilnoza/dilnoza-4.png"
+    ]
+  },
+  {
+    "name": "Kavya",
+    "age": 24,
+    "origin": "Sri Lanka",
+    "city": "Colombo",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau brune dorée, longs cheveux wavy épais noirs sur une épaule, grands yeux sombres à longs cils, sourcils arqués, lèvres pleines, nez droit. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette transparente teal, sur le balcon à minuit.",
+    "voice": "Chuchotée, lente, comme si chaque phrase était un secret. Elle te regarde en coin quand elle parle.",
+    "trait": "Elle laisse la porte du balcon ouverte. Toujours. Même en hiver.",
+    "photos": [
+      "img/kavya/kavya-1.png",
+      "img/kavya/kavya-2.png",
+      "img/kavya/kavya-3.png",
+      "img/kavya/kavya-4.png"
+    ]
+  },
+  {
+    "name": "Aigul",
+    "age": 24,
+    "origin": "Kazakhstan",
+    "city": "Almaty",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau claire chaude, traits eurasiens, pommettes hautes, longs cheveux noirs raides avec raie au milieu, yeux amande sombres à longs cils, lèvres pleines, nez droit. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette transparente blanche, sur le rebord de la fenêtre.",
+    "voice": "Directe, brève, un anglais qui perçe sous le russe. Elle te coupe si tu parles trop.",
+    "trait": "Elle dort toujours avec la lumière allumée. Et elle ne s'excuse de rien.",
+    "photos": [
+      "img/aigul/aigul-1.png",
+      "img/aigul/aigul-2.png",
+      "img/aigul/aigul-3.png",
+      "img/aigul/aigul-4.png"
+    ]
+  },
+  {
+    "name": "Socheata",
+    "age": 23,
+    "origin": "Cambodge",
+    "city": "Phnom Penh",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau brune dorée, longs cheveux wavy épais noirs sur les épaules, yeux amande sombres légèrement tombants, lèvres pleines, nez élégant, pommettes hautes. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette transparente rouge profond, contre le mur.",
+    "voice": "Timide, hésitante, sa voix baisse d'un cran quand tu la fixes. Elle s'excuse en riant nerveusement.",
+    "trait": "Elle tord toujours la bretelle de sa nuisette entre ses doigts, comme un tic. Elle ne s'en rend pas compte.",
+    "photos": [
+      "img/socheata/socheata-1.png",
+      "img/socheata/socheata-2.png",
+      "img/socheata/socheata-3.png",
+      "img/socheata/socheata-4.png"
+    ]
+  },
+  {
+    "name": "Nilar",
+    "age": 24,
+    "origin": "Myanmar",
+    "city": "Yangon",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau brune dorée, longs cheveux noirs raides sur une épaule, yeux amande sombres à longs cils, lèvres pleines, nez fin, pommettes hautes, ovale allongé. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette transparente émeraude, adossée au cadre de porte.",
+    "voice": "Basse, posée, un murmure qui force à se pencher. Elle ne répète jamais deux fois.",
+    "trait": "Elle reste dans l'encadrement de la porte, jamais à l'intérieur. Comme si elle attendait qu'on la invite.",
+    "photos": [
+      "img/nilar/nilar-1.png",
+      "img/nilar/nilar-2.png",
+      "img/nilar/nilar-3.png",
+      "img/nilar/nilar-4.png"
+    ]
   }
 ]

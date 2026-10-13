@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-13 22:16 UTC
+### Context
+Made with image_generate from the prompt: "Fully photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no brush texture, no artistic style, no 3D, no digital art, no render, no digital painting. A 24-year-old Kazakh woman, fair warm skin with Eurasian features, high cheekbones, long straight dark brown hair with a center part falling past her shoulders, dark almond eyes with long lashes, defined arched brows, full lips, elegant straight nose, oval face. Curvy voluptuous figure with very large bust, slim waist, wide hips. She lies on a hotel bed on her back, hair spread on the pillow, one arm behind her head, looking up at the camera from below, sheer white transparent negligee. Soft moonlight from the window, cool blue tones mixed with warm lamplight, high ISO grain. Framing head to mid-thigh."
+### Vision
+A vertical, selfie-style photograph of a young woman lying on her back on a hotel bed. She has long, straight dark brown hair parted in the center, spread across white pillows and sheets, with high cheekbones, dark almond eyes, arched brows, full lips, and warm fair skin. One of her arms is bent with the hand resting behind her head; the other arm extends out of frame. She gazes directly into the camera from a low angle, with a neutral, relaxed expression.
+
+She wears a sheer, white, transparent strappy negligee or bodysuit, through which her body is clearly visible, including her chest, navel, and torso. The garment has thin straps across the bust and a gathered, ruffled band at the waist.
+
+The setting is a hotel room at night. Behind her, slightly out of focus, is a lit table lamp with a cream shade on a nightstand, white bedding, and a curtain in the left background through which dim cool blue light—suggesting city lights or moonlight—filters. The overall palette mixes cool blue tones in the background with warmer lamplight on the subject's skin.
+
+The image has a soft, slightly grainy, phone-camera quality with shallow depth of field; the subject's face and torso are in sharp focus while the background is blurred. There is no visible text, watermark, or logo. The mood is intimate and candid, resembling a casual bedroom selfie.
