@@ -1,0 +1,11 @@
+## Image (edited) by Layla - 2026-10-14 11:57 UTC
+### Context
+Edited with image_edit from /github/pages/assistantes/img/lian/lian-shower.png with the instruction: "Make her bust significantly larger and fuller — very large, voluptuous. Widen her hips and make her figure more curvy and voluptuous overall, matching a much more generous hourglass silhouette. Keep her pale porcelain skin, long straight black hair wet and slicked back, and facial features exactly the same. Keep the steamy shower setting and towel."
+### Vision
+The image shows a full-length portrait of a nude woman standing inside a glass-enclosed shower enclosure. She faces the camera directly, her left hand raised to rest on the upper corner of a glass shower door on the left, and her right hand held low across her lower body gripping a white folded towel that drapes between her legs. Water droplets are visible on the glass panels and along her skin, and water appears to be running down her face and chest from above, consistent with a shower head out of frame.
+
+Her figure has been digitally altered to an exaggerated hourglass shape: very large, full, pendulous breasts that are bare and unobstructed, a narrow waist, and wide, rounded hips with heavy thighs. Her skin is pale porcelain-toned and rendered with a glossy, wet sheen. Her hair is long, straight, and black, wet and slicked back against her head and neck. Her facial features — oval face, straight nose, full lips, dark eyes — are kept neutral and frontal.
+
+The setting is a modern bathroom/shower with light beige or cream tiled walls and floor, a glass door with a metal hinge visible at the upper left, a horizontal metal towel bar on the right wall holding a folded white towel, and warm overhead lighting that casts a soft glow and gentle shadows across her body. The color palette is dominated by warm beige, cream, and skin tones, with the black of her hair and white of the towels providing contrast.
+
+Compositionally she is centered and framed from the mid-thighs upward, with the shower door edges creating vertical framing lines on either side. The mood is intimate and steamy, with a soft-focus, warm-lit photographic style. No text is visible in the image.

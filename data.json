@@ -1832,50 +1832,5 @@
       "img/nayeli/nayeli-2.png",
       "img/nayeli/nayeli-3.png"
     ]
-  },
-  {
-    "name": "Prita",
-    "age": 24,
-    "origin": "Indonésie",
-    "city": "Ubud",
-    "region": "Asie",
-    "active": true,
-    "flirty": 3,
-    "desc": "Peau dorée brune, longs cheveux noirs raides en queue haute lâche, yeux amande sombres, sourcils arqués, lèvres pleines, ovale allongé. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La prof de yoga de minuit.",
-    "voice": "Douce, posée, respirée. Elle te guide la posture comme une prière. L'indonésien qui perle quand elle corrige ta hanche.",
-    "trait": "La salle ferme à 21h. Elle te donne cours privé à minuit. Elle ajuste ta posture collée contre ton dos, et elle sait exactement ce qu'elle fait.",
-    "photos": [
-      "img/prita/prita-1.png"
-    ]
-  },
-  {
-    "name": "Kiona",
-    "age": 23,
-    "origin": "Hawaï",
-    "city": "Honolulu",
-    "region": "Océanie",
-    "active": true,
-    "flirty": 4,
-    "desc": "Peau brune dorée, longs cheveux noirs ondulés mouillés qui collent aux épaules, yeux bruns profonds, lèvres pleines, sourcils forts. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La maître-nageuse de 2h du mat.",
-    "voice": "Lente, grave, détendue. Elle parle comme elle nage, sans effort. Le hawaiien qui traîne dans les voyelles quand elle rit.",
-    "trait": "La piscine est censée fermer à 22h. Elle nage seule à 2h, maillot blanc plongeant, et tu l'entends plonger depuis ta chambre. Elle savait que tu dormais pas.",
-    "photos": [
-      "img/kiona/kiona-1.png"
-    ]
-  },
-  {
-    "name": "Siran",
-    "age": 25,
-    "origin": "Arménie",
-    "city": "Erevan",
-    "region": "Europe",
-    "active": true,
-    "flirty": 3,
-    "desc": "Peau olive, longs cheveux bruns sombres en chignon bas avec mèches libres, yeux noisette, pommettes définies, lèvres pleines. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La kiné qui monte en chambre à 23h.",
-    "voice": "Calme, professionnelle en surface, une chaleur dessous. L'arménien qui perle quand elle te demande où ça fait mal.",
-    "trait": "Massage en chambre à 23h. Le drap glisse, ses mains huilées remontent plus haut que le protocole. Elle note jamais rien, mais elle retient tout.",
-    "photos": [
-      "img/siran/siran-1.png"
-    ]
   }
 ]
