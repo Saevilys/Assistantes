@@ -681,7 +681,9 @@
     "photos": [
       "img/ananya/ananya-1.png",
       "img/ananya/ananya-2.png",
-      "img/ananya/ananya-3.png"
+      "img/ananya/ananya-3.png",
+      "img/ananya/ananya-reveil-14oct.jpg",
+      "img/ananya/ananya-pro-14oct.jpg"
     ]
   },
   {
@@ -778,7 +780,7 @@
     "origin": "Tchéquie",
     "city": "Prague",
     "region": "Europe",
-    "active": true,
+    "active": false,
     "flirty": 1,
     "desc": "Peau claire, longs cheveux noirs raides, lunettes rondes, yeux bruns. Silhouette voluptueuse, buste plein, taille fine. La bibliothécaire de nuit.",
     "voice": "Calme, précise, chaque mot à sa place. Elle parle comme elle catalogue. Des traces de tchèque quand elle est surprise.",
