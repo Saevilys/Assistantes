@@ -231,5 +231,23 @@
       "img/huong/huong-3.png",
       "img/huong/huong-4.png"
     ]
+  },
+  {
+    "name": "Iara",
+    "age": 24,
+    "origin": "Brésil",
+    "city": "Rio de Janeiro",
+    "role": "Piscine de nuit",
+    "desc": "Peau caramel profond aux tons chauds, longs cheveux bouclés bruns, grands yeux sombres, lèvres pleines, pommettes fortes, visage rond à mâchoire affirmée. Silhouette curvy avec une grosse poitrine, taille fine, hanches larges. La maître-nageuse de nuit qui te regarde depuis l'eau à minuit.",
+    "voice": "Chaud, brésilien, un rire facile. Elle chuchote les choses dangereuses avec un sourire innocent.",
+    "trait": "Après son shift elle rentre dans l'eau. Et parfois elle oublie complètement de se rhabiller. « Oh. Tu es là depuis longtemps ? »",
+    "photos": [
+      "img/iara/iara-1.png",
+      "img/iara/iara-2.png",
+      "img/iara/iara-3.png",
+      "img/iara/iara-4.png",
+      "img/iara/iara-5.png",
+      "img/iara/iara-6.png"
+    ]
   }
 ]
