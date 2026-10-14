@@ -1,0 +1,11 @@
+## Image (generated) by Layla - 2026-10-14 12:18 UTC
+### Context
+Made with image_generate from the prompt: "A photorealistic smartphone photograph, raw and unedited, grainy phone camera quality, realistic skin texture with visible pores, no painterly effects, no artistic style. A 23-year-old Hawaiian woman, warm tan skin, long wavy black hair soaking wet clinging to her shoulders, dark brown eyes, full lips, strong brows. Voluptuous body with very large bust, slim waist, wide hips. She stands naked in a hotel shower at 2am, water cascading over her body, wet hair stuck to her neck and collarbone, shy teasing smile, flushed cheeks, both hands wringing out her wet hair. Dim bathroom lighting, steam. Light makeup smudged. No glasses. Framing head to mid-thigh."
+### Vision
+A vertically oriented photograph showing a young woman standing inside a shower enclosure, nude, framed from the top of her head down to roughly mid-thigh. She has warm brown skin, long dark wavy hair that is thoroughly wet and clings to her shoulders, neck, and collarbone, dark brown eyes, full lips, and defined eyebrows. Her expression is a slight, closed-mouth smile with lightly flushed cheeks. Both hands are raised to either side of her head, fingers curling into the wet hair as if wringing or gripping it. Water runs down her body in visible streams and droplets; her large breasts are exposed with dark areolas, her slim waist and rounded hips visible below.
+
+The setting is a hotel-style bathroom shower. A metal showerhead fixture and flexible hose are mounted on the right wall, with water appearing to flow from above. A vertical towel bar or metal rail is on the left, with a glass shower door partially visible at the left edge. On a wall-mounted shelf to the right sits a small pump bottle, likely shampoo or soap. The background walls are pale beige tile.
+
+Lighting is dim and warm, typical of a low-lit bathroom, casting soft highlights on wet skin and creating a slight haze suggestive of steam. The image has the look of a phone camera snapshot: grainy, slightly soft, realistic skin texture with visible pores, no painterly or stylized treatment. No glasses are present. There is no legible text anywhere in the frame.
+
+Overall mood is intimate and candid, suggestive of a private, spontaneous moment.

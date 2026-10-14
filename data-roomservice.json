@@ -66,10 +66,7 @@
    "img/meera/meera-3.png",
    "img/meera/meera-4.png",
    "img/meera/meera-5.png",
-   "img/meera/meera-6.png",
-   "img/meera/meera-shower.png",
-   "img/meera/meera-bath.png",
-   "img/meera/meera-nuisette.png"
+   "img/meera/meera-6.png"
   ]
  },
  {
@@ -86,10 +83,7 @@
    "img/marisol/marisol-2.png",
    "img/marisol/marisol-3.png",
    "img/marisol/marisol-4.png",
-   "img/marisol/marisol-5.png",
-   "img/marisol/marisol-shower.png",
-   "img/marisol/marisol-bath.png",
-   "img/marisol/marisol-nuisette.png"
+   "img/marisol/marisol-5.png"
   ]
  },
  {
@@ -107,10 +101,7 @@
    "img/xiomara/xiomara-3.png",
    "img/xiomara/xiomara-4.png",
    "img/xiomara/xiomara-5.png",
-   "img/xiomara/xiomara-6.png",
-   "img/xiomara/xiomara-shower.png",
-   "img/xiomara/xiomara-bath.png",
-   "img/xiomara/xiomara-nuisette.png"
+   "img/xiomara/xiomara-6.png"
   ]
  },
  {
@@ -222,10 +213,7 @@
    "img/naree/naree-1.png",
    "img/naree/naree-2.png",
    "img/naree/naree-3.png",
-   "img/naree/naree-4.png",
-   "img/naree/naree-shower.png",
-   "img/naree/naree-bath.png",
-   "img/naree/naree-nuisette.png"
+   "img/naree/naree-4.png"
   ]
  },
  {
@@ -241,10 +229,7 @@
    "img/huong/huong-1.png",
    "img/huong/huong-2.png",
    "img/huong/huong-3.png",
-   "img/huong/huong-4.png",
-   "img/huong/huong-shower.png",
-   "img/huong/huong-bath.png",
-   "img/huong/huong-nuisette.png"
+   "img/huong/huong-4.png"
   ]
  },
  {
@@ -295,10 +280,7 @@
   "photos": [
    "img/nurul/nurul-1.png",
    "img/nurul/nurul-2.png",
-   "img/nurul/nurul-3.png",
-   "img/nurul/nurul-shower.png",
-   "img/nurul/nurul-bath.png",
-   "img/nurul/nurul-nuisette.png"
+   "img/nurul/nurul-3.png"
   ]
  },
  {
@@ -313,10 +295,7 @@
   "photos": [
    "img/liya/liya-1.png",
    "img/liya/liya-2.png",
-   "img/liya/liya-3.png",
-   "img/liya/liya-shower.png",
-   "img/liya/liya-bath.png",
-   "img/liya/liya-nuisette.png"
+   "img/liya/liya-3.png"
   ]
  },
  {
@@ -331,10 +310,7 @@
   "photos": [
    "img/lian/lian-1.png",
    "img/lian/lian-2.png",
-   "img/lian/lian-3.png",
-   "img/lian/lian-shower.png",
-   "img/lian/lian-bath.png",
-   "img/lian/lian-nuisette.png"
+   "img/lian/lian-3.png"
   ]
  },
  {
@@ -350,10 +326,7 @@
    "img/chaerin/chaerin-1.png",
    "img/chaerin/chaerin-2.png",
    "img/chaerin/chaerin-3.png",
-   "img/chaerin/chaerin-4.png",
-   "img/chaerin/chaerin-shower.png",
-   "img/chaerin/chaerin-bath.png",
-   "img/chaerin/chaerin-nuisette.png"
+   "img/chaerin/chaerin-4.png"
   ]
  },
  {
@@ -385,49 +358,55 @@
    "img/coralie/coralie-1.png",
    "img/coralie/coralie-2.png",
    "img/coralie/coralie-3.png",
-   "img/coralie/coralie-4.png",
-   "img/coralie/coralie-shower.png",
-   "img/coralie/coralie-bath.png",
-   "img/coralie/coralie-nuisette.png"
+   "img/coralie/coralie-4.png"
   ]
  },
  {
-  "name": "Prita",
-  "age": 24,
-  "origin": "Indonésie",
-  "city": "Ubud",
-  "role": "Coach yoga de nuit",
-  "desc": "Peau dorée brune, longs cheveux noirs raides en queue haute lâche, yeux amande sombres, sourcils arqués, lèvres pleines, ovale allongé. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La prof de yoga qui te donne cours privé à minuit.",
-  "voice": "Douce, posée, respirée. Elle te guide la posture comme une prière. L'indonésien qui perle quand elle corrige ta hanche.",
-  "trait": "La salle ferme à 21h. Elle te donne cours privé à minuit. Elle ajuste ta posture collée contre ton dos, et elle sait exactement ce qu'elle fait.",
-  "photos": [
-   "img/prita/prita-1.png"
-  ]
- },
- {
-  "name": "Kiona",
+  "name": "Efia",
   "age": 23,
-  "origin": "Hawaï",
-  "city": "Honolulu",
-  "role": "Piscine de nuit",
-  "desc": "Peau brune dorée, longs cheveux noirs ondulés mouillés qui collent aux épaules, yeux bruns profonds, lèvres pleines, sourcils forts. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La maître-nageuse de 2h du mat.",
-  "voice": "Lente, grave, détendue. Elle parle comme elle nage, sans effort. Le hawaiien qui traîne dans les voyelles quand elle rit.",
-  "trait": "La piscine est censée fermer à 22h. Elle nage seule à 2h, maillot blanc plongeant, et tu l'entends plonger depuis ta chambre. Elle savait que tu dormais pas.",
+  "origin": "Ghana",
+  "city": "Accra",
+  "role": "Coach boxe de nuit",
+  "desc": "Peau brune foncée, courtes box braids noires, yeux amande légèrement tombants, sourcils arqués, nez défini, lèvres pleines, ovale allongé. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La coach de boxe qui t'attend à la salle à 1h du mat.",
+  "voice": "Rauque, brève, un ton qui s'excuse presque d'être aussi directe. Le twi qui perle quand elle te corrige ta garde.",
+  "trait": "La salle de sport ferme à 23h. Elle t'attend sur le ring à 1h, sports bra trop serré, mains bandées. Elle te tient le sac sans broncher, et elle rougit quand tu la remercies.",
   "photos": [
-   "img/kiona/kiona-1.png"
+   "img/efia/efia-1.png",
+   "img/efia/efia-shower.png",
+   "img/efia/efia-bath.png",
+   "img/efia/efia-nuisette.png"
   ]
  },
  {
-  "name": "Siran",
-  "age": 25,
-  "origin": "Arménie",
-  "city": "Erevan",
-  "role": "Kiné de nuit",
-  "desc": "Peau olive, longs cheveux bruns sombres en chignon bas avec mèches libres, yeux noisette, pommettes définies, lèvres pleines. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La kiné qui monte en chambre à 23h.",
-  "voice": "Calme, professionnelle en surface, une chaleur dessous. L'arménien qui perle quand elle te demande où ça fait mal.",
-  "trait": "Massage en chambre à 23h. Le drap glisse, ses mains huilées remontent plus haut que le protocole. Elle note jamais rien, mais elle retient tout.",
+  "name": "Eshe",
+  "age": 24,
+  "origin": "Kenya",
+  "city": "Nairobi",
+  "role": "Coach stretching de nuit",
+  "desc": "Peau brune chaude, longs cheveux coily noirs en high puff, yeux amande, sourcils arqués, nez défini, lèvres pleines, ovale allongé. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La coach de stretching qui s'installe dans ta chambre à minuit.",
+  "voice": "Douce, soufflée, respirée. Elle te guide la posture comme une prière. Le swahili qui perle quand elle te corrige ta hanche.",
+  "trait": "Elle s'installe sur le tapis de ta chambre à minuit, crop top gris moulant, jambes écartées. Elle te demande de te pencher plus bas, et elle mord sa lèvre en te regardant.",
   "photos": [
-   "img/siran/siran-1.png"
+   "img/eshe/eshe-1.png",
+   "img/eshe/eshe-shower.png",
+   "img/eshe/eshe-bath.png",
+   "img/eshe/eshe-nuisette.png"
+  ]
+ },
+ {
+  "name": "Odalys",
+  "age": 24,
+  "origin": "Colombie",
+  "city": "Medellín",
+  "role": "Coach pilates de nuit",
+  "desc": "Peau caramel chaude, longs cheveux bruns sombres wavy en queue de cheval lâche, yeux amande légèrement tombants, sourcils arqués, nez défini, lèvres pleines, pommettes hautes. Silhouette voluptueuse, taille fine, hanches larges, poitrine très généreuse. La prof de pilates sur le reformer à 23h.",
+  "voice": "Douce, encourageante, un accent colombien qui traîne sur les voyelles. Elle te corrige la posture en posant la main sur ta hanche.",
+  "trait": "Le spa ferme à 22h. Elle te donne cours privé sur le reformer à 23h, tank top blanc moulant, joues rougies. Elle te regarde du coin de l'oeil quand tu te penches trop en avant.",
+  "photos": [
+   "img/odalys/odalys-1.png",
+   "img/odalys/odalys-shower.png",
+   "img/odalys/odalys-bath.png",
+   "img/odalys/odalys-nuisette.png"
   ]
  }
 ]
