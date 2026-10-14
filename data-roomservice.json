@@ -199,5 +199,37 @@
       "img/nilar/nilar-3.png",
       "img/nilar/nilar-4.png"
     ]
+  },
+  {
+    "name": "Naree",
+    "age": 25,
+    "origin": "Thaïlande",
+    "city": "Bangkok",
+    "role": "Spa de nuit",
+    "desc": "Peau bronzée chaude, longs cheveux noirs raides attachés, yeux amande sombres, lèvres pleines, nez défini, ovale allongé. Silhouette curvy avec une grosse poitrine, taille fine, hanches larges. La masseuse du spa qui te tend ses mains huilées à minuit.",
+    "voice": "Douce, timide, rougit quand elle te regarde. Chuchote ses instructions d'un ton qui s'excuse presque.",
+    "trait": "Elle met trop d'huile sur ses mains. Toujours. Et elle attend que tu le remarques avant de commencer.",
+    "photos": [
+      "img/naree/naree-1.png",
+      "img/naree/naree-2.png",
+      "img/naree/naree-3.png",
+      "img/naree/naree-4.png"
+    ]
+  },
+  {
+    "name": "Huong",
+    "age": 23,
+    "origin": "Vietnam",
+    "city": "Hanoï",
+    "role": "Room service de nuit",
+    "desc": "Peau dorée claire, longs cheveux noirs en queue de cheval basse, yeux amande légèrement tombants, sourcils arqués, lèvres pleines, nez fin, ovale allongé. Silhouette curvy avec une grosse poitrine, taille fine, hanches larges. La fille du room service qui frappe à ta porte à 1h.",
+    "voice": "Surprise, un peu essoufflée, comme si tu l'avais surprise en plein couloir. Sa voix monte d'un cran quand elle est gênée.",
+    "trait": "Elle laisse toujours le chocolat turndown sur l'oreiller. Mais elle en mange un avant de quitter la chambre.",
+    "photos": [
+      "img/huong/huong-1.png",
+      "img/huong/huong-2.png",
+      "img/huong/huong-3.png",
+      "img/huong/huong-4.png"
+    ]
   }
 ]
