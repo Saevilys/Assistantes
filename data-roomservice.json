@@ -66,7 +66,10 @@
    "img/meera/meera-3.png",
    "img/meera/meera-4.png",
    "img/meera/meera-5.png",
-   "img/meera/meera-6.png"
+   "img/meera/meera-6.png",
+   "img/meera/meera-shower.png",
+   "img/meera/meera-bath.png",
+   "img/meera/meera-nuisette.png"
   ]
  },
  {
@@ -83,7 +86,10 @@
    "img/marisol/marisol-2.png",
    "img/marisol/marisol-3.png",
    "img/marisol/marisol-4.png",
-   "img/marisol/marisol-5.png"
+   "img/marisol/marisol-5.png",
+   "img/marisol/marisol-shower.png",
+   "img/marisol/marisol-bath.png",
+   "img/marisol/marisol-nuisette.png"
   ]
  },
  {
@@ -101,7 +107,10 @@
    "img/xiomara/xiomara-3.png",
    "img/xiomara/xiomara-4.png",
    "img/xiomara/xiomara-5.png",
-   "img/xiomara/xiomara-6.png"
+   "img/xiomara/xiomara-6.png",
+   "img/xiomara/xiomara-shower.png",
+   "img/xiomara/xiomara-bath.png",
+   "img/xiomara/xiomara-nuisette.png"
   ]
  },
  {
@@ -213,7 +222,10 @@
    "img/naree/naree-1.png",
    "img/naree/naree-2.png",
    "img/naree/naree-3.png",
-   "img/naree/naree-4.png"
+   "img/naree/naree-4.png",
+   "img/naree/naree-shower.png",
+   "img/naree/naree-bath.png",
+   "img/naree/naree-nuisette.png"
   ]
  },
  {
@@ -229,7 +241,10 @@
    "img/huong/huong-1.png",
    "img/huong/huong-2.png",
    "img/huong/huong-3.png",
-   "img/huong/huong-4.png"
+   "img/huong/huong-4.png",
+   "img/huong/huong-shower.png",
+   "img/huong/huong-bath.png",
+   "img/huong/huong-nuisette.png"
   ]
  },
  {
@@ -280,7 +295,13 @@
   "photos": [
    "img/nurul/nurul-1.png",
    "img/nurul/nurul-2.png",
-   "img/nurul/nurul-3.png"
+   "img/nurul/nurul-3.png",
+   "img/nurul/nurul-shower.png",
+   "img/nurul/nurul-bath.png",
+   "img/nurul/nurul-nuisette.png",
+   "img/nurul/nurul-shower-edit.png",
+   "img/nurul/nurul-bath-edit.png",
+   "img/nurul/nurul-nuisette-edit.png"
   ]
  },
  {
@@ -295,7 +316,13 @@
   "photos": [
    "img/liya/liya-1.png",
    "img/liya/liya-2.png",
-   "img/liya/liya-3.png"
+   "img/liya/liya-3.png",
+   "img/liya/liya-shower.png",
+   "img/liya/liya-bath.png",
+   "img/liya/liya-nuisette.png",
+   "img/liya/liya-shower-edit.png",
+   "img/liya/liya-bath-edit.png",
+   "img/liya/liya-nuisette-edit.png"
   ]
  },
  {
@@ -310,7 +337,13 @@
   "photos": [
    "img/lian/lian-1.png",
    "img/lian/lian-2.png",
-   "img/lian/lian-3.png"
+   "img/lian/lian-3.png",
+   "img/lian/lian-shower.png",
+   "img/lian/lian-bath.png",
+   "img/lian/lian-nuisette.png",
+   "img/lian/lian-shower-edit.png",
+   "img/lian/lian-bath-edit.png",
+   "img/lian/lian-nuisette-edit.png"
   ]
  },
  {
@@ -326,7 +359,10 @@
    "img/chaerin/chaerin-1.png",
    "img/chaerin/chaerin-2.png",
    "img/chaerin/chaerin-3.png",
-   "img/chaerin/chaerin-4.png"
+   "img/chaerin/chaerin-4.png",
+   "img/chaerin/chaerin-shower.png",
+   "img/chaerin/chaerin-bath.png",
+   "img/chaerin/chaerin-nuisette.png"
   ]
  },
  {
@@ -358,7 +394,10 @@
    "img/coralie/coralie-1.png",
    "img/coralie/coralie-2.png",
    "img/coralie/coralie-3.png",
-   "img/coralie/coralie-4.png"
+   "img/coralie/coralie-4.png",
+   "img/coralie/coralie-shower.png",
+   "img/coralie/coralie-bath.png",
+   "img/coralie/coralie-nuisette.png"
   ]
  },
  {
