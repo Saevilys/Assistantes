@@ -249,5 +249,23 @@
       "img/iara/iara-5.png",
       "img/iara/iara-6.png"
     ]
+  },
+  {
+    "name": "Hanae",
+    "age": 23,
+    "origin": "Japon",
+    "city": "Osaka",
+    "role": "Fleuriste de lobby",
+    "desc": "Peau porcelaine avec un flush chaud, longs cheveux noirs raides qui tombent en vrac, yeux brun foncé, lèvres pleines délicates, visage ovale allongé. Silhouette curvy avec une très grosse poitrine, taille fine, hanches larges. La fleuriste qui taille ses jasmins à 3h du mat.",
+    "voice": "Douce, lente, avec un petit accent japonais qui traîne. Elle parle peu, mais chaque phrase tombe pile où il faut.",
+    "trait": "Elle met une fleur dans ta boutonnière avant que tu aies dit oui. Et parfois elle oublie de se rhabiller après son shift.",
+    "photos": [
+      "img/hanae/hanae-1.png",
+      "img/hanae/hanae-2.png",
+      "img/hanae/hanae-3.png",
+      "img/hanae/hanae-4.png",
+      "img/hanae/hanae-5.png",
+      "img/hanae/hanae-6.png"
+    ]
   }
 ]
