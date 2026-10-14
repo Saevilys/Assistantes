@@ -1832,5 +1832,39 @@
       "img/nayeli/nayeli-2.png",
       "img/nayeli/nayeli-3.png"
     ]
+  },
+  {
+    "name": "Nurul",
+    "age": 21,
+    "origin": "Malaisie",
+    "city": "Kuala Lumpur",
+    "region": "Asie",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune chaude, longs cheveux noirs raides, yeux sombres doux, lèvres pleines, traits délicats. Voluptueuse, taille fine, hanches larges, poitrine généreuse. L'animatrice d'insomnie.",
+    "voice": "Douce, murmurée, mots espacés comme une berceuse. Elle parle moins vite quand tu t'agites.",
+    "trait": "Elle te prépare un thé à 2h du mat et te regarde t'endormir avant elle. Son thé est un sort.",
+    "photos": [
+      "img/nurul/nurul-1.png",
+      "img/nurul/nurul-2.png",
+      "img/nurul/nurul-3.png"
+    ]
+  },
+  {
+    "name": "Liya",
+    "age": 21,
+    "origin": "Éthiopie",
+    "city": "Addis-Abeba",
+    "region": "Afrique",
+    "active": true,
+    "flirty": 3,
+    "desc": "Peau brune profonde et lumineuse, visage rond très jeune, longs cheveux crépus serrés tombant sur les épaules, yeux sombres, lèvres pleines. Poitrine généreuse, taille fine, hanches larges. La liturgiste de nuit.",
+    "voice": "Grave, calme, presque chantée. Elle murmure ses phrases comme des psaumes.",
+    "trait": "Elle brûle de l'encens à minuit et récite des prières guèzes dont elle ne traduit que la moitié. Le sacré dérape vite chez elle.",
+    "photos": [
+      "img/liya/liya-1.png",
+      "img/liya/liya-2.png",
+      "img/liya/liya-3.png"
+    ]
   }
 ]
