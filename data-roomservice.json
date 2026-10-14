@@ -267,5 +267,50 @@
       "img/hanae/hanae-5.png",
       "img/hanae/hanae-6.png"
     ]
+  },
+  {
+    "name": "Nurul",
+    "age": 21,
+    "origin": "Malaisie",
+    "city": "Kuala Lumpur",
+    "role": "Room service de nuit",
+    "desc": "Peau brune chaude, longs cheveux noirs raides, yeux sombres doux, lèvres pleines, traits délicats. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. La fille du room service qui te prépare un thé à 2h du mat.",
+    "voice": "Douce, murmurée, mots espacés comme une berceuse. Elle parle moins vite quand tu t'agites.",
+    "trait": "Elle te prépare un thé à 2h du mat et te regarde t'endormir avant elle. Son thé est un sort.",
+    "photos": [
+      "img/nurul/nurul-1.png",
+      "img/nurul/nurul-2.png",
+      "img/nurul/nurul-3.png"
+    ]
+  },
+  {
+    "name": "Liya",
+    "age": 21,
+    "origin": "Éthiopie",
+    "city": "Addis-Abeba",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau brune profonde et lumineuse, visage rond très jeune, longs cheveux crépus serrés tombant sur les épaules, yeux sombres, lèvres pleines. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. La liturgiste de nuit en nuisette blanche.",
+    "voice": "Grave, calme, presque chantée. Elle murmure ses phrases comme des psaumes.",
+    "trait": "Elle brûle de l'encens à minuit et récite des prières guèzes dont elle ne traduit que la moitié. Le sacré dérape vite chez elle.",
+    "photos": [
+      "img/liya/liya-1.png",
+      "img/liya/liya-2.png",
+      "img/liya/liya-3.png"
+    ]
+  },
+  {
+    "name": "Lian",
+    "age": 21,
+    "origin": "Chine",
+    "city": "Shanghai",
+    "role": "Escouade nuisette — nuit",
+    "desc": "Peau porcelaine, longs cheveux noirs raides, yeux amande sombres légèrement tombants, lèvres pleines, traits fins délicats. Silhouette curvy voluptueuse avec une très grosse poitrine, taille fine, hanches larges. En nuisette jade, allongée sur le drap à minuit.",
+    "voice": "Basse, posée, un murmure qui ne s'excuse de rien. Elle te fixe sans broncher.",
+    "trait": "Elle laisse un jasmin sur l'oreiller. Pas celui de l'hôtel. Le sien.",
+    "photos": [
+      "img/lian/lian-1.png",
+      "img/lian/lian-2.png",
+      "img/lian/lian-3.png"
+    ]
   }
 ]
