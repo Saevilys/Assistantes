@@ -408,5 +408,37 @@
    "img/odalys/odalys-bath.png",
    "img/odalys/odalys-nuisette.png"
   ]
+ },
+ {
+  "name": "Zafira",
+  "age": 23,
+  "origin": "Maroc",
+  "city": "Casablanca",
+  "role": "Suite de nuit",
+  "desc": "Peau ambrée chaude, longs cheveux noirs lisses ondulés, yeux noirs amande, sourcils arqués, lèvres pleines, silhouette voluptueuse, très grosse poitrine, taille fine. La fille qui attend derrière la porte entrouverte, dentelle bordeaux.",
+  "voice": "Voix basse et douce, un accent marocain qui traîne sur les voyelles. Elle rit à peine, chuchote, laisse des silences qui font plus que les mots.",
+  "trait": "Elle ne propose jamais rien. Elle attend, et c'est toi qui viens.",
+  "flirty": 5,
+  "photos": [
+   "img/zafira/zafira-1.png",
+   "img/zafira/zafira-2.png",
+   "img/zafira/zafira-3.png"
+  ]
+ },
+ {
+  "name": "Senna",
+  "age": 24,
+  "origin": "Brésil",
+  "city": "Rio de Janeiro",
+  "role": "Suite de nuit",
+  "desc": "Peau brun foncé aux tons chauds, cheveux très courts, yeux ambre-noisette, pommettes hautes, lèvres pleines, silhouette voluptueuse, très grosse poitrine, taille fine, hanches larges. La fille assise en tailleur au milieu des bougies.",
+  "voice": "Voix grave et calme, un accent brésilien paresseux. Elle parle lentement, comme si la nuit était à elle.",
+  "trait": "Elle ne se dépêche jamais. Le temps, chez elle, tourne au ralenti.",
+  "flirty": 5,
+  "photos": [
+   "img/senna/senna-1.png",
+   "img/senna/senna-2.png",
+   "img/senna/senna-3.png"
+  ]
  }
 ]
