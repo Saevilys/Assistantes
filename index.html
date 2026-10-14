@@ -111,8 +111,8 @@ footer{text-align:center;padding:30px 20px;color:#4a3d30;font-size:0.75rem}
 <div class="toolbar" id="regionbar"></div>
 
 <div class="toolbar" id="sortbar">
-  <button class="btn active" data-sort="flirt-desc">Flirt ↓</button>
-  <button class="btn" data-sort="flirt-asc">Flirt ↑</button>
+  <button class="btn active" id="sortDir">Flirt ↓</button>
+  <button class="btn" id="flirtLvl">Tous niveaux</button>
   <button class="btn" data-sort="alpha">A-Z</button>
 </div>
 
@@ -137,6 +137,7 @@ let data=[];
 let currentFilter='all';
 let currentRegion='all';
 let currentSort='flirt-desc';
+let currentFlirtLvl=0;
 let searchTerm='';
 let currentPage=1;
 const pageSize=50;
@@ -169,6 +170,7 @@ function applyFilters(){
   else if(currentFilter==='inactive')filtered=filtered.filter(a=>!a.active);
   else if(currentFilter==='photos')filtered=filtered.filter(a=>a.photos&&a.photos.length>0);
   if(currentRegion!=='all')filtered=filtered.filter(a=>(a.region||'?')===currentRegion);
+  if(currentFlirtLvl>0)filtered=filtered.filter(a=>(a.flirty||0)===currentFlirtLvl);
   if(searchTerm){
     const q=searchTerm.toLowerCase();
     filtered=filtered.filter(a=>[a.name,a.origin,a.city,a.region,a.trait,a.desc]
@@ -264,8 +266,13 @@ function resetAll(){
   document.querySelector('.toolbar .btn[data-filter="all"]').classList.add('active');
   document.querySelectorAll('#regionbar .btn').forEach(x=>x.classList.remove('active'));
   document.querySelector('#regionbar .btn[data-region="all"]').classList.add('active');
-  document.querySelectorAll('#sortbar .btn').forEach(x=>x.classList.remove('active'));
-  document.querySelector('#sortbar .btn[data-sort="flirt-desc"]').classList.add('active');
+  currentFlirtLvl=0;
+  currentSort='flirt-desc';
+  document.getElementById('sortDir').textContent='Flirt ↓';
+  document.getElementById('sortDir').classList.add('active');
+  document.getElementById('flirtLvl').textContent='Tous niveaux';
+  document.getElementById('flirtLvl').classList.remove('active');
+  document.querySelector('#sortbar .btn[data-sort="alpha"]').classList.remove('active');
   applyFilters();
   window.scrollTo({top:0,behavior:'smooth'});
 }
@@ -360,15 +367,29 @@ document.querySelectorAll('.toolbar .btn[data-filter]').forEach(b=>{
   };
 });
 
-// sort buttons
-document.querySelectorAll('#sortbar .btn').forEach(b=>{
-  b.onclick=()=>{
-    document.querySelectorAll('#sortbar .btn').forEach(x=>x.classList.remove('active'));
-    b.classList.add('active');
-    currentSort=b.dataset.sort;
-    applyFilters();
-  };
-});
+// sort direction toggle
+document.getElementById('sortDir').onclick=()=>{
+  if(currentSort==='flirt-desc'){currentSort='flirt-asc';document.getElementById('sortDir').textContent='Flirt ↑';}
+  else{currentSort='flirt-desc';document.getElementById('sortDir').textContent='Flirt ↓';}
+  document.getElementById('sortDir').classList.add('active');
+  document.querySelector('#sortbar .btn[data-sort="alpha"]').classList.remove('active');
+  applyFilters();
+};
+// flirt level cycle: 0=Tous → 1..6
+document.getElementById('flirtLvl').onclick=()=>{
+  currentFlirtLvl=(currentFlirtLvl+1)%7;
+  const btn=document.getElementById('flirtLvl');
+  btn.textContent=currentFlirtLvl===0?'Tous niveaux':'Niveau '+currentFlirtLvl;
+  btn.classList.toggle('active',currentFlirtLvl>0);
+  applyFilters();
+};
+// A-Z
+document.querySelector('#sortbar .btn[data-sort="alpha"]').onclick=()=>{
+  currentSort='alpha';
+  document.getElementById('sortDir').classList.remove('active');
+  document.querySelector('#sortbar .btn[data-sort="alpha"]').classList.add('active');
+  applyFilters();
+};
 
 // search input
 document.getElementById('search').addEventListener('input',e=>{
